@@ -1,0 +1,18 @@
+<div class="row">
+  <div class="col-xs-2">
+    {% if include.image %}
+    {% if include.url %}<a href="{{ include.url }}">{% endif %}
+    <img class="paper" src="{{ include.image }}" />
+    {% if include.url %}</a>{% endif %}
+    {% endif %}
+  </div>
+  <div class="col-xs-10">
+    <b>{{ include.title }}</b>
+    <p>{{ include.authors }}</p>
+    {% if include.venue %}<p><i>{{ include.venue }}</i></p>{% endif %}
+    {% if include.note %}<p><u>{{ include.note }}</u></p>{% endif %}
+    {% if include.url %}<p><a href="{{ include.url }}">Read the paper</a></p>{% endif %}
+  </div>
+</div>
+
+<hr>

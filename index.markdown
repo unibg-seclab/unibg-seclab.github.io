@@ -14,61 +14,13 @@ SeSQLite is a SQLite extension that integrates SELinux access controls into SQLi
 ## Publications
 ---------------
 
-<div class="row">
-  <div class="col-xs-2">
-    <img class="paper" src="http://cs.unibg.it/mutti/papers/sesqlite.jpg" />
-  </div>
-  <div class="col-xs-10">
-    <b>SeSQLite: Security Enhanced SQLite</b>
-    <p>Simone Mutti, Enrico Bacis and Stefano Paraboschi</p>
-    <p><i>in 31st Annual Computer Security Applications Conference (ACSAC 2015)</i> [to appear]</p>
-  </div>
-</div>
+{% include paper.html title="SeSQLite: Security Enhanced SQLite" image="http://cs.unibg.it/mutti/papers/sesqlite.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015) [to appear]" %}
 
-------
+{% include paper.html title="Policy Specialization to Support Domain Isolation" image="http://cs.unibg.it/mutti/papers/policy-specialization.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig 2015)" url="http://cs.unibg.it/mutti/papers/safeconfig_typebounds.pdf" %}
 
-<div class="row">
-  <div class="col-xs-2">
-    <img class="paper" src="http://cs.unibg.it/mutti/papers/policy-specialization.jpg" />
-  </div>
-  <div class="col-xs-10">
-    <b>Policy Specialization to Support Domain Isolation</b>
-    <p>Simone Mutti, Enrico Bacis and Stefano Paraboschi</p>
-    <p><i>in 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig 2015)</i></p>
-    <p><a href="http://cs.unibg.it/mutti/papers/safeconfig_typebounds.pdf">Read the paper</a></p>
-  </div>
-</div>
+{% include paper.html title="An SELinux-based Intent manager for Android" image="http://cs.unibg.it/mutti/papers/selinux-intent.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in Communications and Network Security (CNS), 2015 IEEE Conference, 2015" url="http://cs.unibg.it/mutti/papers/cns_intent.pdf" note="IEEE CNS'15 Best Poster Award" %}
 
-------
-
-<div class="row">
-  <div class="col-xs-2">
-    <img class="paper" src="http://cs.unibg.it/mutti/papers/selinux-intent.jpg" />
-  </div>
-  <div class="col-xs-10">
-    <b>An SELinux-based Intent manager for Android</b>
-    <p>Simone Mutti, Enrico Bacis and Stefano Paraboschi</p>
-    <p><i>in Communications and Network Security (CNS), 2015 IEEE Conference, 2015</i></p>
-    <p><u>Best poster award</u></p>
-    <p><a href="http://cs.unibg.it/mutti/papers/cns_intent.pdf">Read the poster</a></p>
-  </div>
-</div>
-
-------
-
-<div class="row">
-  <div class="col-xs-2">
-    <img class="paper" src="http://cs.unibg.it/mutti/papers/apm.jpg" />
-  </div>
-  <div class="col-xs-10">
-    <b>AppPolicyModules: Mandatory Access Control for Third-Party Apps</b>
-    <p>Enrico Bacis, Simone Mutti, and Stefano Paraboschi</p>
-    <p><i>in 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)</i></p>
-    <p><a href="http://cs.unibg.it/mutti/papers/asiaccs15.pdf">Read the paper</a></p>
-  </div>
-</div>
-
-------
+{% include paper.html title="AppPolicyModules: Mandatory Access Control for Third-Party Apps" image="http://cs.unibg.it/mutti/papers/apm.jpg" authors="Enrico Bacis, Simone Mutti and Stefano Paraboschi" venue="in 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)" url="http://cs.unibg.it/mutti/papers/asiaccs15.pdf" %}
 
 ## Source Code
 
