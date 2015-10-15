@@ -32,7 +32,7 @@ SeSQLite is still in an alpha version, but the core functionalities of SQL are p
 
 ## Acknowledgements
 
-The SeSQLite project won a Google Award in Winter 2013.
+The SeSQLite project won a Google Award.
 
 <center>
   <img style="margin: 0 auto;" src="/assets/images/faculty_award.png" />
