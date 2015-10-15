@@ -14,7 +14,7 @@ SeSQLite is a SQLite extension that integrates SELinux access controls into SQLi
 ## Publications
 ---------------
 
-{% include paper.html title="SeSQLite: Security Enhanced SQLite" image="http://cs.unibg.it/mutti/papers/sesqlite.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015) [to appear]" %}
+{% include paper.html title="SeSQLite: Security Enhanced SQLite" image="http://cs.unibg.it/mutti/papers/sesqlite.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015) [to appear]" url="http://cs.unibg.it/mutti/papers/sesqlite.pdf" %}
 
 {% include paper.html title="Policy Specialization to Support Domain Isolation" image="http://cs.unibg.it/mutti/papers/policy-specialization.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig 2015)" url="http://cs.unibg.it/mutti/papers/safeconfig_typebounds.pdf" %}
 
