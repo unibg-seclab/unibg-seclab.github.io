@@ -24,7 +24,9 @@ SeSQLite is a SQLite extension that integrates SELinux access controls into SQLi
 
 ## Source Code
 
-The source code will be made available shortly.
+The source code is available at: <https://github.com/unibg-seclab/sesqlite>
+
+SeSQLite is still in an alpha version, but the core functionalities of SQL are provided and integrated with the Mandatory Access Control checks provided by SELinux.
 
 ------
 
