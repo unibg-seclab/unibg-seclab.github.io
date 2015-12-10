@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include ribbon.html url="https://github.com/unibg-seclab/sesqlite" text="Fork me on GitHub" %}
+
 # SeSQLite
 
 SQLite is the most widely deployed in-process library that implements a SQL database engine. It offers high storage efficiency, fast query operation and small memory needs. Due to the fact that a complete SQLite database is stored in a single cross-platform disk file and SQLite does not support multiple users, anyone who has direct access to the file can read the whole database content.
