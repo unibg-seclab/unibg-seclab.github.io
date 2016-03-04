@@ -16,13 +16,13 @@ SeSQLite is a SQLite extension that integrates SELinux access controls into SQLi
 ## Publications
 ---------------
 
-{% include paper.html title="SeSQLite: Security Enhanced SQLite" image="http://cs.unibg.it/mutti/papers/sesqlite.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015)" url="http://cs.unibg.it/mutti/papers/sesqlite.pdf" %}
+{% include paper.html title="SeSQLite: Security Enhanced SQLite" image="http://cs.unibg.it/seclab-papers/2015/ACSAC/SeSQLite.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015)" url="http://cs.unibg.it/seclab-papers/2015/ACSAC/SeSQLite.jpg" %}
 
-{% include paper.html title="Policy Specialization to Support Domain Isolation" image="http://cs.unibg.it/mutti/papers/policy-specialization.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig 2015)" url="http://cs.unibg.it/mutti/papers/safeconfig_typebounds.pdf" %}
+{% include paper.html title="Policy Specialization to Support Domain Isolation" image="http://cs.unibg.it/seclab-papers/2015/SAFECONFIG/Policy_Specialization.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig 2015)" url="http://cs.unibg.it/seclab-papers/2015/SAFECONFIG/Policy_Specialization.pdf" %}
 
-{% include paper.html title="An SELinux-based Intent manager for Android" image="http://cs.unibg.it/mutti/papers/selinux-intent.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in Communications and Network Security (CNS), 2015 IEEE Conference, 2015" url="http://cs.unibg.it/mutti/papers/cns_intent.pdf" note="IEEE CNS'15 Best Poster Award" %}
+{% include paper.html title="An SELinux-based Intent manager for Android" image="http://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.jpg" authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi" venue="in Communications and Network Security (CNS), 2015 IEEE Conference, 2015" url="http://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.pdf" note="IEEE CNS'15 Best Poster Award" %}
 
-{% include paper.html title="AppPolicyModules: Mandatory Access Control for Third-Party Apps" image="http://cs.unibg.it/mutti/papers/apm.jpg" authors="Enrico Bacis, Simone Mutti and Stefano Paraboschi" venue="in 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)" url="http://cs.unibg.it/mutti/papers/asiaccs15.pdf" %}
+{% include paper.html title="AppPolicyModules: Mandatory Access Control for Third-Party Apps" image="http://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.jpg" authors="Enrico Bacis, Simone Mutti and Stefano Paraboschi" venue="in 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)" url="http://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf" %}
 
 ## Source Code
 
