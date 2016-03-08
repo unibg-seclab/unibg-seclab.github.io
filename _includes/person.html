@@ -1,7 +1,9 @@
 <div class="row">
   <div class="col-xs-2">
     {% if include.image %}
-    <img class="person" src="{{ include.image }}" />
+    {% if include.website %}<a href="{{ include.website }}">{% endif %}
+      <img class="person" src="{{ include.image }}" alt="{{ include.name }}" />
+    {% if include.website %}</a>{% endif %}
     {% endif %}
   </div>
   <div class="col-xs-10">
