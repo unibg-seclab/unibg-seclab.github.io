@@ -43,9 +43,7 @@ SELinux.
 
 The SeSQLite project won a Google Award in the Winter 2014 batch.
 
-<center>
-  <img style="margin: 0 auto;" src="/assets/images/faculty_award.png" />
-</center>
+<img class="img-responsive center-block" src="/assets/images/faculty_award.png" />
 
 
 ## Project Publications
