@@ -12,6 +12,12 @@
     {% if include.venue %}<p><i>{{ include.venue }}</i></p>{% endif %}
     {% if include.note %}<p><u>{{ include.note }}</u></p>{% endif %}
     {% if include.url %}<p><a href="{{ include.url }}">Read the paper</a></p>{% endif %}
+    {% if include.icons %}
+    <p style="font-size: 2em">
+    {% assign icons = include.icons | split:"," %}
+      {% for icon in icons %}<i class="icon {{ icon }}" style="margin: .3em"></i>{% endfor %}
+    </p>
+    {% endif %}
   </div>
 </div>
 
