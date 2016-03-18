@@ -11,6 +11,12 @@
   transition: fill-opacity 1s;
 }
 
+.vivus svg *[fill="#ffffff"],
+.vivus svg path[style*="fill:#ffffff"],
+.vivus svg path[style*="fill: #ffffff"] {
+  transition: fill-opacity 0.25s;
+}
+
 .vivus svg.finished * {
   fill-opacity: 1;
 }
