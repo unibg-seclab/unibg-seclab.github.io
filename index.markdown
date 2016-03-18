@@ -10,9 +10,9 @@ layout: default
     <div class="vivus" style="padding: 0 2em 2em 2em" id="logo"></div>
   </div>
   <div class="col-xs-12 col-sm-8 col-xl-9">
-    <p>The <i>Unibg Security Lab</i> is the Computer Security Laboratory at Università degli Studi di Bergamo.</p>
-    <p>Its work focuses on several aread in computer science such as systems security (UNIX/Linux security), mobile security (especially Android security, malware analysis), information systems, database technology (data warehouses, workflow management systems), Web and emerging technologies and information security (security for databases, access control, secure reputation in P2P networks, data outsourcing and privacy).</p>
-    <p>The team is often involved in european projects, and is currently working in cloud security technologies with the EscudoCloud project. The recent work on Android security allowed the team to win two Google Awards during the last three years. Last but not least, some of the member usually take part in CTF competitions.</p>
+    <p><i>Unibg Security Lab</i> is the Computer Security Team at Università degli Studi di Bergamo.</p>
+    <p>Its work focuses on several areas in computer science such as systems security (UNIX/Linux security), mobile security (especially Android security and malware analysis), information systems, database technology (data warehouses, workflow management systems), Web, emerging technologies and information security (security for databases, access control, secure reputation in P2P networks, data outsourcing and privacy).</p>
+    <p>The team is often involved in european projects, and is currently working on cloud security technologies with the EscudoCloud project. The recent work on Android security allowed the team to obtain two Google Awards during the last three years. Last but not least, some of the members usually take part in CTF competitions.</p>
     <p><i>We are always looking for smart and hardworking thesis students, so if you are interested in computer security, come talk to us!</i></p>
   </div>
 </div>
