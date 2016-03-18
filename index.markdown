@@ -20,8 +20,8 @@ layout: default
 <script src="https://cdn.jsdelivr.net/vivus/latest/vivus.min.js"></script>
 <script>
   new Vivus('logo', {
-      type: 'oneByOne',
-      duration: 50,
+      type: 'async',
+      duration: 80,
       file: '/assets/images/logo.svg'
     }, function (obj) {
       obj.el.classList.add('finished');

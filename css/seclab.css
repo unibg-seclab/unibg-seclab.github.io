@@ -8,7 +8,7 @@
 
 .vivus svg * {
   fill-opacity: 0;
-  transition: fill-opacity 1s;
+  transition: fill-opacity 1.25s;
 }
 
 .vivus svg *[fill="#ffffff"],
