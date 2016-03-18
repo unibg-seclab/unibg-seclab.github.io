@@ -54,7 +54,7 @@ Star the projects on GitHub to receive updates on future releases.
 <div class="row">
   <div class="col-xs-12 col-sm-8">
     <h3>Google Award</h3>
-    <h4>Winter 2016</h4>
+    <h4>Winter 2014</h4>
     <p>The SeSQLite project won a Google Award in the Winter 2014 batch.</p>
   </div>
   <div class="col-xs-12 col-sm-4">
