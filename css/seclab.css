@@ -5,3 +5,12 @@
 .paper {
     border:1px solid #555555;
 }
+
+.vivus svg * {
+  fill-opacity: 0;
+  transition: fill-opacity 1s;
+}
+
+.vivus svg.finished * {
+  fill-opacity: 1;
+}
