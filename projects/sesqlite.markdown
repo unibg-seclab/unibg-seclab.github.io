@@ -1,5 +1,6 @@
 ---
 layout: default
+title: SeSQLite
 ---
 
 {% include ribbon.html
