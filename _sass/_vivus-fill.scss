@@ -1,0 +1,29 @@
+/* Patch vivus.js to also fill areas */
+
+$fill_time:  1.25s;
+$white_time: 0.25s;
+
+.vivus svg.finished * {
+  fill-opacity: 1;
+  stroke-opacity: 0;
+}
+
+.vivus svg * {
+  stroke: #000000;
+  stroke-width: 2;
+  stroke-opacity: 1;
+  fill-opacity: 0;
+  transition: fill-opacity $fill_time, stroke-opacity $fill_time;
+}
+
+/* white area should be filled fast to avoid flashing */
+.vivus svg *[fill="#ffffff"],
+.vivus svg path[style*="fill:#ffffff"],
+.vivus svg path[style*="fill: #ffffff"] {
+  transition: fill-opacity $white_time, stroke-opacity $white_time;
+}
+
+.vivus svg:not(.finished) * {
+  fill-opacity: 0;
+  transition: fill-opacity 0s, stroke-width 0s;
+}
