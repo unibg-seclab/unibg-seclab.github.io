@@ -19,13 +19,15 @@ layout: default
 
 <script src="https://cdn.jsdelivr.net/vivus/latest/vivus.min.js"></script>
 <script>
-  new Vivus('logo', {
+$( document ).ready( function () {
+  var logo = new Vivus('logo', {
       type: 'async',
       duration: 80,
       file: '/assets/images/logo.svg'
     }, function (obj) {
       obj.el.classList.add('finished');
   });
+});
 </script>
 
 ---
