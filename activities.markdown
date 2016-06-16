@@ -1,10 +1,6 @@
 ---
 layout: default
-title: workshops
----
-
-# Workshops
-
+title: activities
 ---
 
 ### Android Security Laboratory
