@@ -7,7 +7,7 @@ layout: default
 
 <div class="row">
   <div class="col-xs-8 col-xs-offset-2 col-sm-offset-0 col-sm-4 col-xl-3">
-    <div class="vivus nodisplay" style="padding: 0 2em 2em 2em" id="logo"></div>
+    <div class="vivus" style="padding: 0 2em 2em 2em" id="logo"></div>
   </div>
   <div class="col-xs-12 col-sm-8 col-xl-9 pull-right">
     <p><i>Unibg Security Lab</i> is the Computer Security Team at Università degli Studi di Bergamo.</p>
@@ -19,17 +19,16 @@ layout: default
 
 <script src="https://cdn.jsdelivr.net/vivus/latest/vivus.min.js"></script>
 <script>
-$( document ).ready( function () {
-  var logo = new Vivus('logo', {
-      type: 'async',
-      duration: 80,
-      file: '/assets/images/logo.svg',
-      onReady: function (obj) {
-        obj.el.parentElement.classList.remove('nodisplay');
-      }
-    }, function (obj) {
-      obj.el.classList.add('finished');
-  });
+$('#logo').css('opacity', '0%');
+var logo = new Vivus('logo', {
+  type: 'async',
+  duration: 80,
+  file: '/assets/images/logo.svg',
+  onReady: function (obj) {
+    $('#logo').css('opacity', '0%');
+  }
+}, function (obj) {
+  obj.el.classList.add('finished');
 });
 </script>
 
