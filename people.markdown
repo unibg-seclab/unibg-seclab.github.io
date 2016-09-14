@@ -27,4 +27,4 @@ title: People
    description="Marco Rosa is a researcher at Università degli Studi di Bergamo since September 2015. His research interests focus on cloud security, mobile security (especially Android malwares and system security policies), and Python programming." %}
 
 
-We would also like to thank other people who collaborated to the project: Ivo Carminati, Paolo Carrara, Stefano Cattaneo, Valentina Centurelli, Kevin Gotti, Giada Mariani, Simone Opreni, Jacopo Ratti and Davide Vimercati.
+We would also like to thank other people who collaborated to the project: Giorgio Balduzzi, Luca Calomeni, Ivo Carminati, Paolo Carrara, Stefano Cattaneo, Valentina Centurelli, Alessandro Copler, Dario Facchinetti, Kevin Gotti, Giada Mariani, Simone Opreni, Jacopo Ratti and Davide Vimercati.
