@@ -5,8 +5,6 @@ title: publications
 
 # Publications
 
-## 2016
-
 {% include paper.html
    title="Improving Android security by widening the role of Mandatory Access Control"
    image="http://cs.unibg.it/seclab-papers/2016/TOCS/Android.jpg"
@@ -14,8 +12,6 @@ title: publications
    venue="in Vol. 4 of Tiny Transactions on Computer Science (TinyToCS 2016)"
    url="http://cs.unibg.it/seclab-papers/2016/TOCS/Android.pdf"
    icons="ion-social-android" %}
-
-## 2015
 
 {% include paper.html
    title="Extending Mandatory Access Control Policies in Android"
