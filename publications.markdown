@@ -6,6 +6,14 @@ title: publications
 # Publications
 
 {% include paper.html
+   title="Managing Data Sharing in OpenStack Swift with Over-Encryption"
+   image="http://cs.unibg.it/seclab-papers/2016/WISCS/bdfgprss-wiscs2016.jpg"
+   authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Daniele Guttadoro, Stefano Paraboschi, Marco Rosa, Pierangela Samarati, Alessandro Saullo"
+   venue="in Proc. of the 3rd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2016), Vienna, Austria, October 24, 2016"
+   url="http://cs.unibg.it/seclab-papers/2016/WISCS/bdfgprss-wiscs2016.pdf"
+   icons="ion-cloud" %}
+
+{% include paper.html
    title="Improving Android security by widening the role of Mandatory Access Control"
    image="http://cs.unibg.it/seclab-papers/2016/TOCS/Android.jpg"
    authors="Enrico Bacis, Simone Mutti, Marco Rosa and Stefano Paraboschi"
