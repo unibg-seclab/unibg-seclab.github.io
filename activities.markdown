@@ -30,11 +30,12 @@ straordinaria della sede e quindi ci serve un numero minimo di partecipanti.
 Considerate che se l'hub supera i 20 iscritti, Google invia dei gadgets all'hub
 e che sarà possibile ordinare delle pizze d'asporto per cenare durante la gara.
 
-Quindi, per segnalare il vostro interesse, compilate il form qui sotto e vi
-invieremo una mail per farvi sapere se avremo i numeri per organizzare l'hub.
-In base all'interesse vedremo se organizzare un incontro introduttivo per
-risolvere alcuni esempi di problemi che capitano spesso e quindi avere poi più
-tempo durante la gara per concentrarsi sulla soluzione vera e propria.
+Quindi, **per segnalare il vostro interesse è necessario compilare la form
+sottostante entro il 29 gennaio 2017**. Successivamente vi faremo sapere se
+avremo i numeri per organizzare l'hub. In base all'interesse vedremo se
+organizzare un incontro introduttivo per risolvere alcuni esempi di problemi
+che capitano spesso e quindi avere poi più tempo durante la gara per
+concentrarsi sulla soluzione vera e propria.
 
 Non abbiate paura di partecipare, non c'è veramente nulla da perdere, ma è
 un'esperienza interessante da fare! Vi aspettiamo!
