@@ -1,6 +1,8 @@
 ---
 layout: default
 title: activities
+redirect_from:
+  - /hashcode
 ---
 
 Google Hash Code 2017
