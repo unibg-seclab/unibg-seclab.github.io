@@ -6,6 +6,14 @@ title: publications
 # Publications
 
 {% include paper.html
+   title="Mix&Slice: Efficient Access Revocation in the Cloud"
+   image="http://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.pdf"
+   authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
+   venue="in Proc. of the 23rd ACM Conference on Computer and Communication Security (CCS 2016), Vienna, Austria, October 24-28, 2016"
+   url="http://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.pdf"
+   icons="ion-social-github,ion-cloud" %}
+
+{% include paper.html
    title="Managing Data Sharing in OpenStack Swift with Over-Encryption"
    image="http://cs.unibg.it/seclab-papers/2016/WISCS/bdfgprss-wiscs2016.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Daniele Guttadoro, Stefano Paraboschi, Marco Rosa, Pierangela Samarati, Alessandro Saullo"
