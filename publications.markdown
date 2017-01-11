@@ -19,7 +19,7 @@ title: publications
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Daniele Guttadoro, Stefano Paraboschi, Marco Rosa, Pierangela Samarati, Alessandro Saullo"
    venue="in Proc. of the 3rd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2016), Vienna, Austria, October 24, 2016"
    url="http://cs.unibg.it/seclab-papers/2016/WISCS/bdfgprss-wiscs2016.pdf"
-   icons="ion-cloud" %}
+   icons="ion-social-github,ion-cloud" %}
 
 {% include paper.html
    title="Access Control Management for Secure Cloud Storage"
@@ -27,7 +27,7 @@ title: publications
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
    venue="in Proc. of the 12th EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2016), Guangzhou, China, October 10-12, 2016"
    url="http://cs.unibg.it/seclab-papers/2016/SECURECOMM/bdfprs-securecomm2016.pdf"
-   icons="ion-social-github,ion-cloud" %}
+   icons="ion-cloud" %}
 
 {% include paper.html
    title="Improving Android security by widening the role of Mandatory Access Control"
