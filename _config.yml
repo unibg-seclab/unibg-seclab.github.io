@@ -5,3 +5,5 @@ url: "http://unibg-seclab.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
