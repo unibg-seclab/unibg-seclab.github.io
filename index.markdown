@@ -1,5 +1,6 @@
 ---
 layout: default
+title: UniBG Seclab
 ---
 
 # UniBG Security Lab
