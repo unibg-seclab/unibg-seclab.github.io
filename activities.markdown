@@ -44,7 +44,12 @@ un'esperienza interessante da fare! Vi aspettiamo!
 
 <br><br>
 
+<!--
 <div style="text-align:center;">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYdrxZfDMJ2bSLZpuNDxIlxMzbXn57IEEyAH0FUW40TDCMRg/viewform?embedded=true"
             width="760" height="2200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
+-->
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 2200; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 2200; }</style><div class='embed-container'>    <iframe src='https://docs.google.com/forms/d/e/1FAIpQLSeYdrxZfDMJ2bSLZpuNDxIlxMzbXn57IEEyAH0FUW40TDCMRg/viewform?embedded=true' height='2200' frameborder='0' marginheight='0' marginwidth='0'>Loading...</iframe></div>
+
