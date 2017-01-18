@@ -8,9 +8,19 @@
       {% include nav.html %}
 
     <div class="container">
+      {% if page.sidebar %}
+      <div class="row">
+        <div class="col-xs-12 col-sm-4 col-xl-3">
+          {% include sidebars/{{ page.sidebar }} %}
+        </div><!-- col -->
+        <div class="col-xs-12 col-sm-8 col-xl-9">
+          {{ content }}
+        </div><!-- col -->
+      </div><!-- row -->
+      {% else %}
       {{ content }}
-    </div>
-
+      {% endif %}
+    </div><!-- container -->
 
   </body>
 

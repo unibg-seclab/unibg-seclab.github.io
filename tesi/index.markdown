@@ -1,34 +1,59 @@
 ---
 layout: default
-title: UniBG Seclab - Tesi
+title: Tesi
+sidebar : tesi.html
 ---
 
 ### Progetti di Tesi UniBG Seclab
 
-<br>
+Un progetto di tesi significa porsi degli OBIETTIVI, e richiede TEMPO per
+raggiungere questi obiettivi. Il progetto di tesi è il biglietto da visita che
+il tesista presenterà ai futuri colloqui di lavoro. Pertanto, è consigliabile
+scegliere l’argomento più vicino alle proprie passioni e ai propri interessi, e
+svolgere tale progetto mettendoci il massimo dell’impegno e della dedizione.
 
-<style>
-.embed-container
-{
-  position: relative;
-  padding-bottom: 70vh;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
+Un progetto di tesi DEVE essere un divertimento per il tesista, e non un peso
+da togliersi il prima possibile.
 
-.embed-container iframe,
-.embed-container object,
-.embed-container embed
-{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+Quando viene affidato un progetto di tesi, possiamo solo avere una stima
+indicativa del tempo richiesto per raggiungere gli obiettivi, ma tutto è
+relativo all'impegno e alle capacità del tesista.  La tesi si considera
+conclusa nel momento in cui gli obiettivi vengono raggiunti, quindi non
+possiamo decidere a priori una sessione di laurea e, una volta arrivati a tale
+sessione, lasciare la tesi incompiuta.
 
-<div class='embed-container'>
-  <iframe src='https://drive.google.com/file/d/0B755qOKSi7SLQ0EzTjlKRVBBSDg/preview'></iframe>
-</div>
+I prerequisiti non sono messi per spaventare e non devono essere considerati
+come già posseduti nella loro totalità al momento di inizio dei lavori, ma
+vanno presi come *punto di partenza* del lavoro di tesi.  Generalmente la loro
+discussione può trovare spazio in un capitolo sullo stato dell’arte
+introduttivo alla tesi stessa.
+
+Per alcune tesi vi può essere la possibilità di estendere il lavoro per poter
+scrivere una tesi in coppia (es. analisi prestazionale approfondita, scrittura
+di articolo scientifico, ...). Verrà tuttavia valutato caso per caso.
+
+Per le tesi magistrali, non è possibile decidere a priori se ci sarà la
+controrelazione. Questa viene decisa solo dopo la chiusura del progetto di
+tesi, e solo nel caso di lavori rilevanti, dove venga apportato un beneficio
+allo stato dell’arte, con un’opportuna trattazione del problema affrontato e
+con uno scritto di qualità.
+
+**Quindi se hai voglia di fare una tesi interessante e sei interessato al mondo
+della computer security... benvenuto in squadra!**
+
+--------------------------------------------------------------------------------
+
+### Prerequisiti per tesi Triennali
+
+* [*Consigliato*] Conoscenza di base di [*git*](https://git-scm.com)
+  ([*guida*](https://try.github.io)) e [*Github*](https://github.com)
+  ([*guida*](http://html5today.it/tutorial/github-guida-per-principianti-per-contribuire-ad-un-progetto/))
+
+* [*Consigliato*] Utilizzo di un sistema operativo Unix (consigliato
+  [*Ubuntu*](http://tour.ubuntu.com/en/))
+
+### Prerequisiti per tesi Magistrali
+
+* Tutti i prerequisiti (anche quelli solo consigliati) per tesi triennali
+
+* Le tesi magistrali vanno scritte in LaTeX
