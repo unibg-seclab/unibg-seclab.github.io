@@ -1,9 +1,7 @@
 ---
 layout: sidebar-left
-title: Tesi
+title: Progetti di Tesi UniBG Seclab
 ---
-
-### Progetti di Tesi UniBG Seclab
 
 Un progetto di tesi significa porsi degli OBIETTIVI, e richiede TEMPO per
 raggiungere questi obiettivi. Il progetto di tesi è il biglietto da visita che
