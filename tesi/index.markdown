@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: sidebar-left
 title: Tesi
-sidebar : tesi.html
 ---
 
 ### Progetti di Tesi UniBG Seclab
