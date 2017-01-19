@@ -7,3 +7,12 @@ url: "http://unibg-seclab.github.io" # the base hostname & protocol for your sit
 markdown: kramdown
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+
+collections:
+        thesis_projects:
+                output: true
+                permalink: /tesi/:name
+
+
