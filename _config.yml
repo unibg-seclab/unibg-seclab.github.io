@@ -14,5 +14,3 @@ collections:
         thesis_projects:
                 output: true
                 permalink: /tesi/:name
-
-
