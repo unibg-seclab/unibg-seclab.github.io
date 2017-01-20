@@ -2,10 +2,12 @@
 title: IPFS e Storage Distribuiti
 category: security
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# IPFS e Storage Distribuiti
+----------------------------
 
 Per storage distribuito si intende una rete in cui i dati vengono
 salvati su diversi nodi, che appartengono allo stesso sistema di

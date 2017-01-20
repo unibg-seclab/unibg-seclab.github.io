@@ -2,10 +2,12 @@
 title: Netcoin
 category: sweng
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Netcoin
+---------
 
 Le cryptovalute come Bitcoin ed Ethereum sono ormai all’ordine del giorno,
 quindi anche UniBG-Seclab vuole entrare in questo mondo coniando la propria

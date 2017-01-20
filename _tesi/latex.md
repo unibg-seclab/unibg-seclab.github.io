@@ -2,10 +2,12 @@
 title: Latex Proofreading Plugin
 category: sweng
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Latex Proofreading Plugin
+---------------------------
 
 Tool per il proofreading automatico di testi. Il tool deve essere in grado di
 analizzare dei file LaTeX (che possono anche includere a loro volta altri files)

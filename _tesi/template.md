@@ -2,10 +2,12 @@
 title: Title
 category: security  #oppure sweng
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: false #mettere true per i progetti da visualizzare
 ---
 
---------------------------------------------------------------------------------
+# Title
+-------
 
 Descrizione della tematica
 

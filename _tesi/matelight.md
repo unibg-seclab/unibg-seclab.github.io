@@ -2,10 +2,12 @@
 title: Matelight
 category: sweng
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Matelight
+-----------
 
 Molti dei più moderni hackerspace europei hanno un muro fatto di bottiglie di
 vetro vuote e led programmabili.  Sarebbe bello averne uno da esporre anche in

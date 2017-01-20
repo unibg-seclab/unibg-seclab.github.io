@@ -2,10 +2,12 @@
 title: Openstack Swift
 category: security
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Openstack Swift
+-----------------
 
 I lavori su [OpenStack](https://www.openstack.org) rappresentano parte del
 lavoro del Seclab nell’ambito del progetto europeo

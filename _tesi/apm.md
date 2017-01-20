@@ -2,10 +2,12 @@
 title: Android APM
 category: security
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Android App Policy Modules
+----------------------------
 
 In [Android](https://source.android.com/index.html) è stato recentemente
 introdotto il supporto Mandatory Access Control (MAC) per proteggere le app,

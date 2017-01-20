@@ -2,10 +2,12 @@
 title: Produzione Scientifica
 category: sweng
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Produzione Scientifica
+------------------------
 
 Esistono diverse raccolte online che permettono di verificare gli indici
 bibliometrici per valutare la produzione accademica. Alcuni tra i più famosi

@@ -2,10 +2,12 @@
 title: Mix&Slice
 category: security
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Mix&Slice
+-----------
 
 Mix&Slice è un algoritmo di cifratura che usa il cifrario a blocchi AES per
 cifrare i file in modo tale che ogni blocco del plaintext dipenda da tutti i

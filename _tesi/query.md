@@ -2,10 +2,12 @@
 title: Secure Query Optimization and Distribution
 category: security
 layout: sidebar-left
+sidebar: sidebars/tesi.html
 published: true
 ---
 
---------------------------------------------------------------------------------
+# Secure Query Optimization and Distribution
+--------------------------------------------
 
 L’ottimizzazione delle queries è un argomento di ricerca molto vasto e
 complesso. Gli [ottimizzatori di
