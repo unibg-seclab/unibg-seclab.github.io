@@ -24,14 +24,14 @@ non vengono però individuati dagli strumenti tradizionali come:
 
 ----
 
-#### PREREQUISITI
+### PREREQUISITI
 
 * Conoscenza e utilizzo di LaTeX
 
 
 ----
 
-#### PROGETTI DI TESI
+### PROGETTI DI TESI
 
 Il tool dovrà essere in grado di:
 
