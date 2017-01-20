@@ -4,6 +4,7 @@ category: security
 layout: sidebar-left
 published: true
 ---
+
 L’ottimizzazione delle queries è un argomento di ricerca molto vasto e
 complesso. Gli [ottimizzatori di
 query](https://en.wikipedia.org/wiki/Query_optimization) per database sono

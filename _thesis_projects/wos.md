@@ -4,6 +4,7 @@ category: sweng
 layout: sidebar-left
 published: true
 ---
+
 Esistono diverse raccolte online che permettono di verificare gli indici
 bibliometrici per valutare la produzione accademica. Alcuni tra i più famosi
 sono: [Google Scholar](https://scholar.google.it/),

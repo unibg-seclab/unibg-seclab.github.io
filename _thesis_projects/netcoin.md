@@ -4,6 +4,7 @@ category: sweng
 layout: sidebar-left
 published: true
 ---
+
 Le cryptovalute come Bitcoin ed Ethereum sono ormai all’ordine del giorno,
 quindi anche UniBG-Seclab vuole entrare in questo mondo coniando la propria
 valuta.  Ovviamente non ci basta creare una moneta basata su Ethereum come

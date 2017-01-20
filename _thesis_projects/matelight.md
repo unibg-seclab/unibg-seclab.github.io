@@ -4,6 +4,7 @@ category: sweng
 layout: sidebar-left
 published: true
 ---
+
 Molti dei più moderni hackerspace europei hanno un muro fatto di bottiglie di
 vetro vuote e led programmabili.  Sarebbe bello averne uno da esporre anche in
 università.  Una volta realizzata la prima versione del muro, tanti altri

@@ -4,6 +4,7 @@ category: security
 layout: sidebar-left
 published: true
 ---
+
 In [Android](https://source.android.com/index.html) è stato recentemente
 introdotto il supporto Mandatory Access Control (MAC) per proteggere le app,
 estendendo così la precedente protezione che contava solo sull’Android

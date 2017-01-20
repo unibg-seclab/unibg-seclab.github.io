@@ -4,6 +4,7 @@ category: security
 layout: sidebar-left
 published: true
 ---
+
 I lavori su [OpenStack](https://www.openstack.org) rappresentano parte del
 lavoro del Seclab nell’ambito del progetto europeo
 [EscudoCloud](http://www.escudocloud.eu). Openstack è l’infrastruttura di
