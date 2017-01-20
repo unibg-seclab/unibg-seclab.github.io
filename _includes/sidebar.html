@@ -1,50 +1,16 @@
-<!-- LISTA DI NOMI
-<div class="widget-wrapper">
-<h3 class="widget-title">Thesis Projects</h3>
-<ul>
-{% for proj in site.thesis_projects limit:10 %}
-    {% unless proj.published == false %}
-    <li><a href="{{ site.baseurl }}{{proj.url}}">{{ proj.title }}</a></li>
-    {% endunless %}
-{% endfor %}
-</ul>
-</div>
--->
-
-<!-- LISTA DI CATEGORIE CHE PUNTANO A PAGINE COI NOMI
-<div class="widget-wrapper">
-<h3 class="widget-title">Categories</h3>
-<ul>
-  {% if site.categories.first[0] == null %}
-    {% for category in site.categories %}
-     <li><a href="{{ site.baseurl }}/categories.html#{{ category }}-ref">
-     {{ category | join: "/" }} <span>{{ site.categories[category].size }}</span>
-     </a></li>
-    {% endfor %}
-  {% else %}
-    {% for category in site.categories %}
-     <li><a href="{{ site.baseurl }}/categories.html#{{ category[0] }}-ref">
-     {{ category[0] | join: "/" }}</span>
-     </a></li>
-    {% endfor %}
-  {% endif %}
-</ul>
-</div>
--->
-
 <!-- Home dei progetti di tesi -->
 <div class="widget-wrapper">
-    <h3 class="widget-title"><a href="{{ site.baseurl }}/tesi">Home</a></h3>
+    <h4 class="widget-title"><a href="{{ site.baseurl }}/tesi">Home</a></h4>
 </div>
 
 <!-- Progetti di software engineering -->
 <div class="widget-wrapper">
-    <h3 class="widget-title">Software Engineering</h3>
+    <h4 class="widget-title">Software Engineering</h4>
     <ul>
     {% for proj in site.thesis_projects %}
         {% unless proj.published == false %}
         {% if proj.category == "sweng" %}
-        <li><h4><a href="{{ site.baseurl }}{{proj.url}}">{{ proj.title }}</a></h4></li>
+        <li><h5><a href="{{ site.baseurl }}{{proj.url}}">{{ proj.title }}</a></h5></li>
         {% endif %}
         {% endunless %}
     {% endfor %}
@@ -53,12 +19,12 @@
 
 <!-- Progetti di sicurezza informatica -->
 <div class="widget-wrapper">
-    <h3 class="widget-title">Sicurezza Informatica</h3>
+    <h4 class="widget-title">Sicurezza Informatica</h4>
     <ul>
     {% for proj in site.thesis_projects %}
         {% unless proj.published == false %}
         {% if proj.category == "security" %}
-        <li><h4><a href="{{ site.baseurl }}{{proj.url}}">{{ proj.title }}</a></h4></li>
+        <li><h5><a href="{{ site.baseurl }}{{proj.url}}">{{ proj.title }}</a></h5></li>
         {% endif %}
         {% endunless %}
     {% endfor %}
