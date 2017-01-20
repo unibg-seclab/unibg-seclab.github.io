@@ -7,7 +7,8 @@ published: true
 ---
 
 # Latex Proofreading Plugin
----------------------------
+
+----
 
 Tool per il proofreading automatico di testi. Il tool deve essere in grado di
 analizzare dei file LaTeX (che possono anche includere a loro volta altri files)
@@ -21,13 +22,15 @@ non vengono però individuati dagli strumenti tradizionali come:
 * Inconsistenza nei titoli delle figure e tabelle
 
 
-----------------
+----
+
 #### PREREQUISITI
 
 * Conoscenza e utilizzo di LaTeX
 
 
----------------------
+----
+
 #### PROGETTI DI TESI
 
 Il tool dovrà essere in grado di:
