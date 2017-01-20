@@ -8,9 +8,9 @@ markdown: kramdown
 
 # Check gems allowed on github pages here: https://pages.github.com/versions/
 gems:
+  - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-paginate
 
 collections:
   tesi:
