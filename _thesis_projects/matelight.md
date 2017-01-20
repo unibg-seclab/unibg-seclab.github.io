@@ -13,7 +13,9 @@ progetti di tesi saranno disponibili per poterlo sfruttare appieno.
 NB: Prima di iniziare, verificare che il materiale sia arrivato e sia
 disponibile.
 
-![matelight](/assets/images/matelight.jpeg){:width="90%"}
+<img class="img-responsive center-block"
+     width="80%"
+     src="/assets/images/matelight.jpeg" />
 
 _NOTA STORICA: Il nome Matelight deriva dalle bottiglie di Club-Mate usate per
 costruirlo. Tuttavia, a causa della scarsa reperibilità di tale bevanda in
