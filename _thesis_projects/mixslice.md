@@ -11,7 +11,11 @@ blocchi del ciphertext.  In questo modo, se anche solo un pezzo del ciphertext
 viene “perso” (viene ri-cifrato con un’altra chiave, viene eliminato, ...) non è
 più possibile accedere al plaintext.
 
-![Mix&Slice](https://cdn.rawgit.com/unibg-seclab/aesmix/master/doc/mixing.svg)
+<br>
+<img class="img-responsive center-block"
+     width="80%"
+     src="https://cdn.rawgit.com/unibg-seclab/aesmix/master/doc/mixing.svg" />
+<br>
 
 
 #### MATERIALE

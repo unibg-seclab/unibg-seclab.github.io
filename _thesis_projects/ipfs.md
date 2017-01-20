@@ -19,7 +19,11 @@ questo diventa accessibile a tutti i nodi tramite il proprio hash.
 Infatti, l’hash di un file è univoco per quel file, pertanto il file può
 essere scaricato da tutti semplicemente conoscendo l’hash.
 
-![](/assets/images/ipfs.png)
+<br>
+<img class="img-responsive center-block"
+     width="60%"
+     src="/assets/images/ipfs.png" />
+<br>
 
 
 #### PREREQUISITI

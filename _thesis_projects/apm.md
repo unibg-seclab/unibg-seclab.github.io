@@ -23,7 +23,9 @@ Research Award nel 2016, prevede di estendere il supporto MAC anche alle app di
 terze parti, generando al momento dell’installazione di ogni app un’etichetta e
 una policy ad-hoc.
 
-![](/assets/images/android_stack.png)
+<img class="img-responsive center-block"
+     width="80%"
+     src="/assets/images/android_stack.png" />
 
 
 #### PREREQUISITI

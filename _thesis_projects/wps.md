@@ -16,7 +16,11 @@ l’attaccante deve ricevere una notifica della buona riuscita
 dell’attacco (possibilmente attraverso la rete wifi a cui si ha appena
 avuto accesso).
 
-![](/assets/images/mrrobot_raspberry.jpg){:width="80%"}
+<br>
+<img class="img-responsive center-block"
+     width="80%"
+     src="/assets/images/mrrobot_raspberry.jpg" />
+<br>
 
 
 #### PROGETTI DI TESI
