@@ -13,6 +13,6 @@ gems:
   - jekyll-paginate
 
 collections:
-  thesis_projects:
+  tesi:
     output: true
     permalink: /tesi/:name

@@ -8,7 +8,7 @@
 <div class="widget-wrapper">
     <h4 class="widget-title">Software Engineering</h4>
     <ul>
-    {% for proj in site.thesis_projects %}
+    {% for proj in site.tesi %}
         {% unless proj.published == false %}
         {% if proj.category == "sweng" %}
         <li><h5><a href="{{ site.baseurl }}{{proj.url}}">{{ proj.title }}</a></h5></li>
@@ -23,7 +23,7 @@
 <div class="widget-wrapper">
     <h4 class="widget-title">Sicurezza Informatica</h4>
     <ul>
-    {% for proj in site.thesis_projects %}
+    {% for proj in site.tesi %}
         {% unless proj.published == false %}
         {% if proj.category == "security" %}
         <li><h5><a href="{{ site.baseurl }}{{proj.url}}">{{ proj.title }}</a></h5></li>
