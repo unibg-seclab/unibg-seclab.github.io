@@ -34,8 +34,8 @@ utilizzato è
 un ottimizzatore modulare per il database Greenplum.
 
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 -   Esperienza con linguaggio di programmazione C / C++
 
@@ -50,8 +50,8 @@ un ottimizzatore modulare per il database Greenplum.
     Source
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 -   ORCA:
     [http://15721.courses.cs.cmu.edu/spring2016/papers/p337-soliman.pdf](http://15721.courses.cs.cmu.edu/spring2016/papers/p337-soliman.pdf)
@@ -69,8 +69,8 @@ un ottimizzatore modulare per il database Greenplum.
     [https://github.com/enricobacis/pg-distopt](https://github.com/enricobacis/pg-distopt)
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 -   ***\[Magistrale\]*** Realizzazione di un ottimizzatore monofase di query
     distribuito che tenga conto dei requisiti di sicurezza descritti nel

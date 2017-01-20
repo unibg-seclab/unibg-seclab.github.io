@@ -26,8 +26,8 @@ costruirlo. Tuttavia, a causa della scarsa reperibilità di tale bevanda in
 Italia valutiamo di usare comuni bottiglie di birra._
 
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 * Buona dose di manualità e pazienza
 * Riuscire a sollevare una cassa di 25 birre (vuote)
@@ -35,8 +35,8 @@ Italia valutiamo di usare comuni bottiglie di birra._
   e si rompessero
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 * Sito del progetto:
   [https://github.com/jaseg/matelight](https://github.com/jaseg/matelight)
@@ -48,8 +48,8 @@ Italia valutiamo di usare comuni bottiglie di birra._
   [https://www.youtube.com/watch?v=b51vYfy4K2o](https://www.youtube.com/watch?v=b51vYfy4K2o)
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 * **_[Triennale]_** Realizzazione del muro come spiegato nella guida di Github.
   * Le mansioni del tesista prevedono assemblaggio delle bottiglie con la carta

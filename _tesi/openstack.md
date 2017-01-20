@@ -33,8 +33,8 @@ EncSwift prevedeva un duplice contributo nell’ambito della security in cloud:
     file dopo l’update della policy.
 
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 -   OpenStack è scritto in Python, quindi è necessaria la conoscenza del
     linguaggio Python. Un paio di siti utili per impararlo sono:
@@ -69,8 +69,8 @@ EncSwift prevedeva un duplice contributo nell’ambito della security in cloud:
         O’Reilly \[Capitolo 8: Developing Swift Middleware\] (**consigliato**)
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 -   [Joe Arnold - OpenStack Swift: Using, Administering, and
     Developing](http://shop.oreilly.com/product/0636920033288.do) - O’Reilly
@@ -94,8 +94,8 @@ EncSwift prevedeva un duplice contributo nell’ambito della security in cloud:
     [https://github.com/escudocloud/encSwift](https://github.com/escudocloud/encSwift)
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 -   ~~***\[Triennale\]*** Costruire una soluzione dove anche i nomi degli
     oggetti vengono cifrati~~

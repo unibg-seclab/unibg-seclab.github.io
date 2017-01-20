@@ -21,8 +21,8 @@ produzione di un gruppo di persone quale può essere un gruppo di ricerca, un
 dipartimento o una intera università.
 
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 * Esperienza di uso di API REST o SOAP
 
@@ -33,8 +33,8 @@ dipartimento o una intera università.
 * _[Consigliato]_ Esperienza di costruzione di interfacce grafiche (dashboard)
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 * Python API for Accessing Scopus databases with their REST API:
   [https://github.com/jkitchin/scopus](https://github.com/jkitchin/scopus)
@@ -43,8 +43,8 @@ dipartimento o una intera università.
   [https://github.com/enricobacis/wos](https://github.com/enricobacis/wos)
 
 
----------------------
-#### PROGETTO DI TESI
+--------------------
+### PROGETTO DI TESI
 
 * **_[Triennale]_** Il tool che si vuole sviluppare prevede di gestire diverse
   funzionalità tramite una interfaccia grafica che permetta di:

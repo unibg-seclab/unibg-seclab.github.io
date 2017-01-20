@@ -29,8 +29,8 @@ essere scaricato da tutti semplicemente conoscendo l’hash.
      src="/assets/images/ipfs.png" />
 <br>
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 -   Passione per lo studio dei sistemi distribuiti
 
@@ -43,8 +43,8 @@ essere scaricato da tutti semplicemente conoscendo l’hash.
 -   [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table)
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 -   Sito web di IPFS: [https://ipfs.io](https://ipfs.io)
 
@@ -52,8 +52,8 @@ essere scaricato da tutti semplicemente conoscendo l’hash.
     [http://www.cryptocoin20.com/whitepaper/pdf/ipfs.pdf](http://www.cryptocoin20.com/whitepaper/pdf/ipfs.pdf)
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 -   ***\[Triennale\]*** Gestire l’upload di un video in IPFS in chunks,
     e riprodurlo in streaming con una chromecast con il video player

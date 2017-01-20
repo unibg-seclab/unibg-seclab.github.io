@@ -32,8 +32,8 @@ una policy ad-hoc.
      src="/assets/images/android_stack.png" />
 
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 -   Ottima conoscenza di Java e della programmazione ad oggetti
 
@@ -49,8 +49,8 @@ una policy ad-hoc.
 -   *\[opzionale\]* Esperienza di lavoro su grandi code base
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 -   Paper sugli APM:
     [http://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf](http://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf)
@@ -62,8 +62,8 @@ una policy ad-hoc.
     [https://source.android.com/security/selinux/concepts.html](https://source.android.com/security/selinux/concepts.html)
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 -   ***\[Magistrale\]*** Implementazione del paper APM nella versione corrente
     di Android, per far sì che quando un’applicazione viene installata:

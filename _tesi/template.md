@@ -12,24 +12,24 @@ published: false #mettere true per i progetti da visualizzare
 Descrizione della tematica
 
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 * Prerequisito 1
 
 * Prerequisito 2
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 * Materiale 1
 
 * Oppure può esserci un [link](http://www.google.it)
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 Potrebbe esserci una breve descrizione e poi
 

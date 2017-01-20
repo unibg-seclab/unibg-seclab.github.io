@@ -30,8 +30,8 @@ della VPN per poter navigare con l’indirizzo IP di Alice, e quindi superare
 problemi di censura o di blocco dei contenuti.
 
 
------------------
-#### PREREQUISITI
+----------------
+### PREREQUISITI
 
 * Passione per lo studio dei sistemi distribuiti
 
@@ -46,8 +46,8 @@ problemi di censura o di blocco dei contenuti.
   * [Consigliato] Esperienza di Network Programming e crittografia
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 * **_[Magistrale]_** Creazione di un sistema distribuito basato su DHT che
   permetta di utilizzare altri nodi della rete per poter navigare sulla base del

@@ -22,8 +22,8 @@ più possibile accedere al plaintext.
 <br>
 
 
---------------
-#### MATERIALE
+-------------
+### MATERIALE
 
 * Paper originale:
   [http://spdp.di.unimi.it/papers/bdfprs-ccs2016.pdf](http://spdp.di.unimi.it/papers/bdfprs-ccs2016.pdf)
@@ -41,8 +41,8 @@ provando ad applicarlo sull’object storage Swift, con particolare riguardo ai
 dynamic large objects.
 
 
----------------------
-#### PROGETTI DI TESI
+--------------------
+### PROGETTI DI TESI
 
 * **_[Triennale]_** Costruzione di un file system per GNU/Linux che supporti
   Mix&Slice in modo tale da poter studiare una sua applicazione per fare [secure
