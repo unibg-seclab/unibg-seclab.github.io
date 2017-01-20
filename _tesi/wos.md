@@ -7,7 +7,8 @@ published: true
 ---
 
 # Produzione Scientifica
-------------------------
+
+----
 
 Esistono diverse raccolte online che permettono di verificare gli indici
 bibliometrici per valutare la produzione accademica. Alcuni tra i più famosi
@@ -21,7 +22,8 @@ produzione di un gruppo di persone quale può essere un gruppo di ricerca, un
 dipartimento o una intera università.
 
 
-----------------
+----
+
 ### PREREQUISITI
 
 * Esperienza di uso di API REST o SOAP
@@ -33,7 +35,8 @@ dipartimento o una intera università.
 * _[Consigliato]_ Esperienza di costruzione di interfacce grafiche (dashboard)
 
 
--------------
+----
+
 ### MATERIALE
 
 * Python API for Accessing Scopus databases with their REST API:
@@ -43,7 +46,8 @@ dipartimento o una intera università.
   [https://github.com/enricobacis/wos](https://github.com/enricobacis/wos)
 
 
---------------------
+----
+
 ### PROGETTO DI TESI
 
 * **_[Triennale]_** Il tool che si vuole sviluppare prevede di gestire diverse

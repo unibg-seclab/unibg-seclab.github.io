@@ -7,12 +7,14 @@ published: false #mettere true per i progetti da visualizzare
 ---
 
 # Title
--------
+
+----
 
 Descrizione della tematica
 
 
-----------------
+----
+
 ### PREREQUISITI
 
 * Prerequisito 1
@@ -20,7 +22,8 @@ Descrizione della tematica
 * Prerequisito 2
 
 
--------------
+----
+
 ### MATERIALE
 
 * Materiale 1
@@ -28,7 +31,8 @@ Descrizione della tematica
 * Oppure può esserci un [link](http://www.google.it)
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 Potrebbe esserci una breve descrizione e poi

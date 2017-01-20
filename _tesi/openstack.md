@@ -7,7 +7,8 @@ published: true
 ---
 
 # Openstack Swift
------------------
+
+----
 
 I lavori su [OpenStack](https://www.openstack.org) rappresentano parte del
 lavoro del Seclab nell’ambito del progetto europeo
@@ -33,7 +34,8 @@ EncSwift prevedeva un duplice contributo nell’ambito della security in cloud:
     file dopo l’update della policy.
 
 
-----------------
+----
+
 ### PREREQUISITI
 
 -   OpenStack è scritto in Python, quindi è necessaria la conoscenza del
@@ -69,7 +71,8 @@ EncSwift prevedeva un duplice contributo nell’ambito della security in cloud:
         O’Reilly \[Capitolo 8: Developing Swift Middleware\] (**consigliato**)
 
 
--------------
+----
+
 ### MATERIALE
 
 -   [Joe Arnold - OpenStack Swift: Using, Administering, and
@@ -94,7 +97,8 @@ EncSwift prevedeva un duplice contributo nell’ambito della security in cloud:
     [https://github.com/escudocloud/encSwift](https://github.com/escudocloud/encSwift)
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 -   ~~***\[Triennale\]*** Costruire una soluzione dove anche i nomi degli

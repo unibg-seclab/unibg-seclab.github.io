@@ -7,7 +7,8 @@ published: true
 ---
 
 # Mix&Slice
------------
+
+----
 
 Mix&Slice è un algoritmo di cifratura che usa il cifrario a blocchi AES per
 cifrare i file in modo tale che ogni blocco del plaintext dipenda da tutti i
@@ -22,7 +23,8 @@ più possibile accedere al plaintext.
 <br>
 
 
--------------
+----
+
 ### MATERIALE
 
 * Paper originale:
@@ -41,7 +43,8 @@ provando ad applicarlo sull’object storage Swift, con particolare riguardo ai
 dynamic large objects.
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 * **_[Triennale]_** Costruzione di un file system per GNU/Linux che supporti

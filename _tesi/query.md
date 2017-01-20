@@ -7,7 +7,8 @@ published: true
 ---
 
 # Secure Query Optimization and Distribution
---------------------------------------------
+
+----
 
 L’ottimizzazione delle queries è un argomento di ricerca molto vasto e
 complesso. Gli [ottimizzatori di
@@ -34,7 +35,8 @@ utilizzato è
 un ottimizzatore modulare per il database Greenplum.
 
 
-----------------
+----
+
 ### PREREQUISITI
 
 -   Esperienza con linguaggio di programmazione C / C++
@@ -50,7 +52,8 @@ un ottimizzatore modulare per il database Greenplum.
     Source
 
 
--------------
+----
+
 ### MATERIALE
 
 -   ORCA:
@@ -69,7 +72,8 @@ un ottimizzatore modulare per il database Greenplum.
     [https://github.com/enricobacis/pg-distopt](https://github.com/enricobacis/pg-distopt)
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 -   ***\[Magistrale\]*** Realizzazione di un ottimizzatore monofase di query

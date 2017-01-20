@@ -7,7 +7,8 @@ published: true
 ---
 
 # Android App Policy Modules
-----------------------------
+
+----
 
 In [Android](https://source.android.com/index.html) è stato recentemente
 introdotto il supporto Mandatory Access Control (MAC) per proteggere le app,
@@ -32,7 +33,8 @@ una policy ad-hoc.
      src="/assets/images/android_stack.png" />
 
 
-----------------
+----
+
 ### PREREQUISITI
 
 -   Ottima conoscenza di Java e della programmazione ad oggetti
@@ -49,7 +51,8 @@ una policy ad-hoc.
 -   *\[opzionale\]* Esperienza di lavoro su grandi code base
 
 
--------------
+----
+
 ### MATERIALE
 
 -   Paper sugli APM:
@@ -62,7 +65,8 @@ una policy ad-hoc.
     [https://source.android.com/security/selinux/concepts.html](https://source.android.com/security/selinux/concepts.html)
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 -   ***\[Magistrale\]*** Implementazione del paper APM nella versione corrente

@@ -7,7 +7,8 @@ published: true
 ---
 
 # Matelight
------------
+
+----
 
 Molti dei più moderni hackerspace europei hanno un muro fatto di bottiglie di
 vetro vuote e led programmabili.  Sarebbe bello averne uno da esporre anche in
@@ -26,7 +27,8 @@ costruirlo. Tuttavia, a causa della scarsa reperibilità di tale bevanda in
 Italia valutiamo di usare comuni bottiglie di birra._
 
 
-----------------
+----
+
 ### PREREQUISITI
 
 * Buona dose di manualità e pazienza
@@ -35,7 +37,8 @@ Italia valutiamo di usare comuni bottiglie di birra._
   e si rompessero
 
 
--------------
+----
+
 ### MATERIALE
 
 * Sito del progetto:
@@ -48,7 +51,8 @@ Italia valutiamo di usare comuni bottiglie di birra._
   [https://www.youtube.com/watch?v=b51vYfy4K2o](https://www.youtube.com/watch?v=b51vYfy4K2o)
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 * **_[Triennale]_** Realizzazione del muro come spiegato nella guida di Github.

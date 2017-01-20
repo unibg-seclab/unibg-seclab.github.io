@@ -7,7 +7,8 @@ published: true
 ---
 
 # WPS Sniffer
--------------
+
+----
 
 Costruzione di uno sniffer WiFi che permetta di identificare delle
 richieste WPS (la tecnica generalmente utilizzata dai WiFi extender per
@@ -27,7 +28,8 @@ avuto accesso).
 <br>
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 -   ***\[Magistrale\]*** Sviluppare lo sniffer per Linux (Raspberry) o

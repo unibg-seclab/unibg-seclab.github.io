@@ -7,7 +7,8 @@ published: true
 ---
 
 # Netcoin
----------
+
+----
 
 Le cryptovalute come Bitcoin ed Ethereum sono ormai all’ordine del giorno,
 quindi anche UniBG-Seclab vuole entrare in questo mondo coniando la propria
@@ -30,7 +31,8 @@ della VPN per poter navigare con l’indirizzo IP di Alice, e quindi superare
 problemi di censura o di blocco dei contenuti.
 
 
-----------------
+----
+
 ### PREREQUISITI
 
 * Passione per lo studio dei sistemi distribuiti
@@ -46,7 +48,8 @@ problemi di censura o di blocco dei contenuti.
   * [Consigliato] Esperienza di Network Programming e crittografia
 
 
---------------------
+----
+
 ### PROGETTI DI TESI
 
 * **_[Magistrale]_** Creazione di un sistema distribuito basato su DHT che
@@ -55,7 +58,7 @@ problemi di censura o di blocco dei contenuti.
   con delle macchine virtuali). Integrazione con un sistema di proof-of-work che
   permetta la verifica ed il contestuale pagamento in Netcoins.
 
---------------------------------------------------------------------------------
+----
 
 _**Progetto Bonus**: se hai letto la guida sul creare la proprio cryptocurrency
 con Ethereum, sei rimasto folgorato dall’idea degli smart contracts e hai una

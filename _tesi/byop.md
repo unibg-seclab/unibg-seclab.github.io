@@ -7,7 +7,8 @@ published: true
 ---
 
 # Bring Your Own Project (BYOP)
--------------------------------
+
+----
 
 Potete proporre voi il vostro progetto di tesi, che possiamo poi supervisionare.
 Siamo aperti ad ogni proposta, soprattutto quelle riguardanti security, cloud,
