@@ -5,12 +5,14 @@ url: "http://unibg-seclab.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
+
+# Check gems allowed on github pages here: https://pages.github.com/versions/
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
 
 collections:
-        thesis_projects:
-                output: true
-                permalink: /tesi/:name
+  thesis_projects:
+    output: true
+    permalink: /tesi/:name
