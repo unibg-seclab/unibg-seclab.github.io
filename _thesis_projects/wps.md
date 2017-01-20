@@ -5,6 +5,8 @@ layout: sidebar-left
 published: true
 ---
 
+--------------------------------------------------------------------------------
+
 Costruzione di uno sniffer WiFi che permetta di identificare delle
 richieste WPS (la tecnica generalmente utilizzata dai WiFi extender per
 connettersi al router) e di rispondere in automatico alla richiesta, in
@@ -23,6 +25,7 @@ avuto accesso).
 <br>
 
 
+---------------------
 #### PROGETTI DI TESI
 
 -   ***\[Magistrale\]*** Sviluppare lo sniffer per Linux (Raspberry) o

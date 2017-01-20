@@ -5,6 +5,8 @@ layout: sidebar-left
 published: true
 ---
 
+--------------------------------------------------------------------------------
+
 Tool per il proofreading automatico di testi. Il tool deve essere in grado di
 analizzare dei file LaTeX (che possono anche includere a loro volta altri files)
 e trovare dei comuni errori che si commettono durante la stesura di testi, che
@@ -17,11 +19,16 @@ non vengono però individuati dagli strumenti tradizionali come:
 * Inconsistenza nei titoli delle figure e tabelle
 
 
+----------------
 #### PREREQUISITI
+
 * Conoscenza e utilizzo di LaTeX
 
 
-#### PROGETTI DI TESI Il tool dovrà essere in grado di:
+---------------------
+#### PROGETTI DI TESI
+
+Il tool dovrà essere in grado di:
 
 * Individuare gli errori e segnalarli all’utilizzatore
 * Eventualmente proporre delle correzioni quando possibile

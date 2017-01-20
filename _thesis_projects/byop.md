@@ -5,6 +5,8 @@ layout: sidebar-left
 published: true
 ---
 
+--------------------------------------------------------------------------------
+
 Potete proporre voi il vostro progetto di tesi, che possiamo poi supervisionare.
 Siamo aperti ad ogni proposta, soprattutto quelle riguardanti security, cloud,
 database e mobile, purché siano interessanti e producano un certo livello di

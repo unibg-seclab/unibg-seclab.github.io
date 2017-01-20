@@ -5,6 +5,8 @@ layout: sidebar-left
 published: true
 ---
 
+--------------------------------------------------------------------------------
+
 L’ottimizzazione delle queries è un argomento di ricerca molto vasto e
 complesso. Gli [ottimizzatori di
 query](https://en.wikipedia.org/wiki/Query_optimization) per database sono
@@ -30,16 +32,23 @@ utilizzato è
 un ottimizzatore modulare per il database Greenplum.
 
 
+-----------------
 #### PREREQUISITI
+
 -   Esperienza con linguaggio di programmazione C / C++
+
 -   Aver provato l’ottimizzatore di queries di PostgreSQL
+
 -   e l’ottimizzatore a due fasi a cui si fa riferimento nella sezione
     Materiale.
+
 -   *\[Consigliato\]* Esperienza di lavoro in sistemi complessi e distribuiti
+
 -   *\[Consigliato\]* Esperienza di dialogo con le community dei progetti Open
     Source
 
 
+--------------
 #### MATERIALE
 
 -   ORCA:
@@ -58,6 +67,7 @@ un ottimizzatore modulare per il database Greenplum.
     [https://github.com/enricobacis/pg-distopt](https://github.com/enricobacis/pg-distopt)
 
 
+---------------------
 #### PROGETTI DI TESI
 
 -   ***\[Magistrale\]*** Realizzazione di un ottimizzatore monofase di query

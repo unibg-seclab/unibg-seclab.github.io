@@ -5,6 +5,8 @@ layout: sidebar-left
 published: true
 ---
 
+--------------------------------------------------------------------------------
+
 Le cryptovalute come Bitcoin ed Ethereum sono ormai all’ordine del giorno,
 quindi anche UniBG-Seclab vuole entrare in questo mondo coniando la propria
 valuta.  Ovviamente non ci basta creare una moneta basata su Ethereum come
@@ -26,24 +28,32 @@ della VPN per poter navigare con l’indirizzo IP di Alice, e quindi superare
 problemi di censura o di blocco dei contenuti.
 
 
+-----------------
 #### PREREQUISITI
+
 * Passione per lo studio dei sistemi distribuiti
+
 * Comprensione del funzionamento di:
+
   * [Bitcoin](https://www.weusecoins.com/en/questions/) e proof-of-work
+
   * [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table)
+
   * Esperienza di utilizzo di OpenVPN
+
   * [Consigliato] Esperienza di Network Programming e crittografia
 
 
+---------------------
 #### PROGETTI DI TESI
+
 * **_[Magistrale]_** Creazione di un sistema distribuito basato su DHT che
   permetta di utilizzare altri nodi della rete per poter navigare sulla base del
   paese di navigazione richiesto (la rete verrà poi simulata con nodi fisici o
   con delle macchine virtuali). Integrazione con un sistema di proof-of-work che
   permetta la verifica ed il contestuale pagamento in Netcoins.
 
-
-
+--------------------------------------------------------------------------------
 
 _**Progetto Bonus**: se hai letto la guida sul creare la proprio cryptocurrency
 con Ethereum, sei rimasto folgorato dall’idea degli smart contracts e hai una
