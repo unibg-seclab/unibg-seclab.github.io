@@ -1,5 +1,5 @@
 ---
-title: Secure query optimization and distribution
+title: Secure Query Optimization and Distribution
 category: security
 layout: sidebar-left
 published: true
