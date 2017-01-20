@@ -1,6 +1,7 @@
 ---
 layout: sidebar-left
 title: Progetti di Tesi UniBG Seclab
+permalink: /tesi/
 ---
 
 Un progetto di tesi significa porsi degli OBIETTIVI, e richiede TEMPO per
