@@ -5,7 +5,11 @@
 
   <body>
 
-      {% include nav.html %}
+    {% if site.environment != "dev" %}
+    {% include google_tagmanager_body.html %}
+    {% endif %}
+
+    {% include nav.html %}
 
     <div class="container">
       {{ content }}
