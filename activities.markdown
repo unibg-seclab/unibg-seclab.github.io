@@ -80,6 +80,9 @@ problema vero e proprio.
 > Orario: *16:30 - 18:30*
 >
 > Argomento: **Python e Greedy Algorithms**
+> ( [scarica slides](/assets/activities/hashcode/unibg_seclab_hashcode_2017_python.pdf) )
+
+<style>.embed-container { position: relative; padding-bottom: 60%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/17TCocp4lWE62BoekKSBqKf9PUVsV7YfV4XOMpQ0C618/embed?start=false&loop=false&delayms=3000' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
 <br>
 
