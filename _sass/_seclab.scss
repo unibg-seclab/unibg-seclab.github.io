@@ -5,3 +5,11 @@
 .paper {
   border:1px solid #555555;
 }
+
+@media (max-width: 768px) {
+
+  [class*="col-"]:not(:last-child) {
+      margin-bottom: 25px;
+  }
+
+}
