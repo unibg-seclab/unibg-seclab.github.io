@@ -13,7 +13,10 @@ title: activities
 [Snowden](http://www.imdb.com/title/tt3774114/) per l'evento gratuito
 \"[*Cybersecurity BergamoScienza*](https://goo.gl/wwoZqk)\" che si il **26 marzo**
 alle ore 20:30 presso il *Bergamo Science Center* a Bergamo in **via Papa
-Giovanni XXIII, 57**."
+Giovanni XXIII, 57**.
+
+Puoi trovare le slides presentate durante l'evento
+[qui]( https://speakerdeck.com/seclab/cybersecurity-at-bergamoscienza)."
 %}
 
 
