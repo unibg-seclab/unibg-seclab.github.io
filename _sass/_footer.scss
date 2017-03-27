@@ -12,18 +12,18 @@ body {
   background: #222;
   padding: 10px 0;
   margin-top: 40px;
+  color: #9d9d9d;
+}
+
+.footer p:last-child {
+  margin: 0;
 }
 
 .footer a {
-  color: #707070;
-  font-size: 20px;
+  color: #9d9d9d;
+  font-size: 30px;
   padding: 10px;
-  border-right: 1px solid #707070;
   transition: all .5s ease;
-}
-
-.footer a:first-child {
-  border-left: 1px solid #707070;
 }
 
 .footer a:hover {
