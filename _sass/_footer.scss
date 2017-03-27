@@ -1,11 +1,17 @@
 body {
-  padding-bottom: 80px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#content {
+  flex: 1;
 }
 
 .footer {
   background: #222;
   padding: 10px 0;
-//  margin-top: 40px;
+  margin-top: 40px;
 }
 
 .footer a {
