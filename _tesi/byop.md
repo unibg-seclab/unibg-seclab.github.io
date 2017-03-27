@@ -16,8 +16,8 @@ database e mobile, purché siano interessanti e producano un certo livello di
 innovazione.
 
 Potete inviarci una bozza dell’idea per approvazione all’indirizzo
-[seclab@unibg.it](seclab@unibg.it) oppure chiedere un incontro sempre a
-quell’indirizzo.
+**seclab <span>[at]</span> unibg <span>[dot]</span> it** oppure chiedere un
+incontro sempre allo stesso indirizzo.
 
 I progetti con tematiche di business potranno essere presentati all’evento Start
 Cup organizzato dall’Università degli Studi di Bergamo.  Quelli più relativi a
