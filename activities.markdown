@@ -23,7 +23,7 @@ Puoi trovare le slides presentate durante l'evento
 {% include activity.html
    title="Google Hash Code 2017"
    details="23 febbraio 2017 (18:00 - 22:30) @ Aula studi edificio C (Dalmine)"
-   image="/assets/activities/hashcode/google_hashcode_1.png"
+   image="/assets/activities/hashcode/hashcode20172.png"
    website="/activity/hashcode"
    description=
 "[Hash Code](https://hashcode.withgoogle.com) è una gara di programmazione a
