@@ -32,5 +32,3 @@ Unibg Seclab ha organizzato un hub nella sede di Dalmine di UniBG da cui più
 di 40 persone hanno partecipato alla competizione.
 
 Materiale e ulteriori informazioni [qui](/activity/hashcode).
-
--------------------------------------------------------------------------------

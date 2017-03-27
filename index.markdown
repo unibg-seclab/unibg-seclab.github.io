@@ -66,5 +66,3 @@ Star the projects on GitHub to receive updates on future releases.
     <img class="img-responsive center-block" src="/assets/images/faculty_award.png" />
   </div>
 </div>
-
----
