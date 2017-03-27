@@ -1,0 +1,19 @@
+<hr />
+
+<h2>{{ include.title }}</h2>
+<blockquote>{{ include.details }}</blockquote>
+<div class="row">
+  <div class="col-xs-8 col-xs-offset-2 col-sm-offset-0 col-sm-4 col-xl-3">
+    {% if include.image %}
+    {% if include.website %}<a href="{{ include.website }}">{% endif %}
+      <img class="img-responsive" src="{{ include.image }}" alt="{{ include.title }}" />
+    {% if include.website %}</a>{% endif %}
+    {% endif %}
+  </div>
+  <div class="col-xs-12 col-sm-8 col-xl-9 pull-right">
+    <p>{{ include.description | markdownify }}</p>
+    {% if include.website %}
+    <p><i><a href="{{ include.website }}">Clicca qui per maggiori informazioni</a></i></p>
+    {% endif %}
+  </div>
+</div>
