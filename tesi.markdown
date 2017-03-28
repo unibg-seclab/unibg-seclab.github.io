@@ -24,11 +24,10 @@ conclusa nel momento in cui gli obiettivi vengono raggiunti, quindi non
 possiamo decidere a priori una sessione di laurea e, una volta arrivati a tale
 sessione, lasciare la tesi incompiuta.
 
-I prerequisiti non sono messi per spaventare e non devono essere considerati
-come già posseduti nella loro totalità al momento di inizio dei lavori, ma
-vanno presi come *punto di partenza* del lavoro di tesi.  Generalmente la loro
-discussione può trovare spazio in un capitolo sullo stato dell’arte
-introduttivo alla tesi stessa.
+**I prerequisiti non devono essere considerati come già posseduti nella loro
+totalità al momento di inizio dei lavori**, ma vanno presi come *punto di
+partenza* del lavoro di tesi.  Generalmente la loro discussione può trovare
+spazio in un capitolo sullo stato dell’arte introduttivo alla tesi stessa.
 
 Per alcune tesi vi può essere la possibilità di estendere il lavoro per poter
 scrivere una tesi in coppia (es. analisi prestazionale approfondita, scrittura
