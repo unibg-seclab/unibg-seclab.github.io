@@ -7,9 +7,13 @@
 }
 
 @media (max-width: 768px) {
-
   [class*="col-"]:not(:last-child) {
-      margin-bottom: 25px;
+      margin-bottom: 25px !important;
   }
+}
 
+@media (max-width: 992px) {
+  [class*="col-"]:not(:last-child) {
+      margin-bottom: 10px;
+  }
 }
