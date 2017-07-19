@@ -30,4 +30,4 @@ title: People
 
 ### Alumni
 
-We would also like to thank all the alumni who collaborated to our projects. A special mention to: Giorgio Balduzzi, Luca Calomeni, Ivo Carminati, Paolo Carrara, Stefano Cattaneo, Valentina Centurelli, Alessandro Copler, Antonio Cosseddu, Dario Facchinetti, Kevin Gotti, Sara Locatelli, Giada Mariani, Giovanni Nava, Simone Opreni, Umberto Paramento, Andrea Previtali, Daniel Rinaldi, Davide Vimercati and Michele Zanchi.
+We would also like to thank all the alumni who collaborated to our projects. A special mention to: Giorgio Balduzzi, Luca Calomeni, Ivo Carminati, Paolo Carrara, Stefano Cattaneo, Valentina Centurelli, Alessandro Copler, Antonio Cosseddu, Dario Facchinetti, Stefano Ghisleni, Kevin Gotti, Sara Locatelli, Giada Mariani, Giovanni Nava, Simone Opreni, Umberto Paramento, Andrea Previtali, Daniel Rinaldi, Davide Vimercati and Michele Zanchi.
