@@ -22,13 +22,13 @@ qualificazione infatti avviene online, tuttavia esiste la possibilità di
 formare degli [hubs](https://hashcode.withgoogle.com/hubs.html) da cui poter
 partecipare insieme.
 
-Visto il successo della scorsa edizione, anche quest'anno
-il Seclab vorrebbe organizzare un hub in UniBG, ma abbiamo bisogno di sapere
-quante persone sono interessate, visto che dobbiamo chiedere l'apertura
-straordinaria della sede e quindi ci serve un numero minimo di partecipanti.
-Considerate che se l'hub supera i 20 iscritti entro l'**1 febbraio**, Google
-invierà dei gadgets per i partecipanti, e che sarà possibile ordinare
-delle pizze d'asporto per cenare durante la gara.
+Visto il successo della [scorsa edizione](/activity/hashcode_2017), anche
+quest'anno il Seclab vorrebbe organizzare un hub in UniBG, ma abbiamo bisogno
+di sapere quante persone sono interessate, visto che dobbiamo chiedere
+l'apertura straordinaria della sede e quindi ci serve un numero minimo di
+partecipanti.  Considerate che se l'hub supera i 20 iscritti entro l'**1
+febbraio**, Google invierà dei gadgets per i partecipanti, e che sarà possibile
+ordinare delle pizze d'asporto per cenare durante la gara.
 
 --------------------------------------------------------------------------------
 
