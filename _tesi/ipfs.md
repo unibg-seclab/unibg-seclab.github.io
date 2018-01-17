@@ -76,10 +76,10 @@ essere scaricato da tutti semplicemente conoscendo l’hash.
     o [Ethereum smart contracts](https://www.ethereum.org/greeter))
     dal servizio IPFS
 
--   *\[Avvertenza\]* Questa tesi tratta argomenti che sono all’apice
-    dello stato dell’arte, quindi può essere molto interessante,
-    tuttavia IPFS è anche chiamato *persistent web*, quindi questa
-    tesi è una tesi di ricerca *difficile.*
+    -   *\[Avvertenza\]* Questa tesi tratta argomenti che sono all’apice
+        dello stato dell’arte, quindi può essere molto interessante,
+        tuttavia IPFS è anche chiamato *persistent web*, quindi questa
+        tesi è una tesi di ricerca *difficile.*
 
 -   ***\[Magistrale\]*** IPFS non è l’unico file system distribuito,
     altri sono [Storj](https://storj.io),
