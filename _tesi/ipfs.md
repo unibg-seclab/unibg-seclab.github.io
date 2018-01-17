@@ -66,10 +66,10 @@ essere scaricato da tutti semplicemente conoscendo l’hash.
     utente della riproduzione del video (la qualità è paragonabile
     a YouTube?)
 
--   ***\[Triennale\]*** Costruzione di un sito (o un’applicazione) web
+-   ~~***\[Triennale\]*** Costruzione di un sito (o un’applicazione) web
     su IPFS dove il DNS sia risolto da IPNS. Mostrare poi come
     funziona la replicazione dei documenti su IPFS e la gestione del
-    dominio di IPNS
+    dominio di IPNS~~
 
 -   ***\[Magistrale\]*** Studio ed integrazione di un meccanismo di
     rimozione di contenuti (basato magari su [Mix&Slice](#mixslice),

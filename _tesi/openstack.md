@@ -104,10 +104,10 @@ EncSwift prevedeva un duplice contributo nell’ambito della security in cloud:
 -   ~~***\[Triennale\]*** Costruire una soluzione dove anche i nomi degli
     oggetti vengono cifrati~~
 
--   ***\[Requisito aggiuntivo per tesi magistrale\]*** Integrazione con il
+-   ~~***\[Requisito aggiuntivo per tesi magistrale\]*** Integrazione con il
     codice di IBM per le cifrature server-side da usare nel middleware
     Over-Encryption:
-    [http://specs.openstack.org/openstack/swift-specs/specs/in\_progress/at\_rest\_encryption.html](http://specs.openstack.org/openstack/swift-specs/specs/in_progress/at_rest_encryption.html)
+    [http://specs.openstack.org/openstack/swift-specs/specs/in\_progress/at\_rest\_encryption.html](http://specs.openstack.org/openstack/swift-specs/specs/in_progress/at_rest_encryption.html)~~
 
--   ***\[Triennale\]*** Integrazione con l’infrastruttura cloud di British
-    Telecom
+-   ~~***\[Triennale\]*** Integrazione con l’infrastruttura cloud di British
+    Telecom~~
