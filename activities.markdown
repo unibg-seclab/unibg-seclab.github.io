@@ -4,6 +4,24 @@ title: activities
 ---
 
 {% include activity.html
+   title="Google Hash Code 2018"
+   details="1 marzo 2018 (18:00 - 22:30) @ Aula studi edificio C (Dalmine)"
+   image="/assets/activities/hashcode/google_hashcode_2.jpg"
+   website="/activity/hashcode_2018"
+   description=
+"[Hash Code](https://hashcode.withgoogle.com) è una gara di programmazione a
+squadre organizzata da Google per studenti e professionisti in Europa, Medio
+Oriente e Africa. Si forma una squadra e si sceglie il linguaggio di
+programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
+team è formato da un minimo di 2 ad un massimo di 4 persone.
+
+Visto il successo dell'anno scorso, anche quest'anno Unibg Seclab organizza un
+hub nella sede di Dalmine di UniBG da cui più gli studenti potranno partecipare
+alla competizione."
+%}
+
+
+{% include activity.html
    title="Cybersecurity @ BergamoScienza"
    details="26 marzo 2017 (ore 20:30) - Bergamo Science Center - via Papa Giovanni XXIII, 57 (Bergamo)"
    image="/assets/activities/snowden/snowden.jpg"
@@ -24,14 +42,14 @@ Puoi trovare le slides presentate durante l'evento
    title="Google Hash Code 2017"
    details="23 febbraio 2017 (18:00 - 22:30) @ Aula studi edificio C (Dalmine)"
    image="/assets/activities/hashcode/hashcode2017.png"
-   website="/activity/hashcode"
+   website="/activity/hashcode_2017"
    description=
-"[Hash Code](https://hashcode.withgoogle.com) è una gara di programmazione a
-squadre organizzata da Google per studenti e professionisti in Europa, Medio
-Oriente e Africa. Si forma una squadra e si sceglie il linguaggio di
-programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
-team è formato da un minimo di 2 ad un massimo di 4 persone.
+"Hash Code è una gara di programmazione a squadre organizzata da Google per
+studenti e professionisti in Europa, Medio Oriente e Africa. Si forma una
+squadra e si sceglie il linguaggio di programmazione per risolvere un problema
+assegnato dagli organizzatori. Ogni team è formato da un minimo di 2 ad un
+massimo di 4 persone.
 
-Unibg Seclab ha organizzato un hub nella sede di Dalmine di UniBG da cui più
-di 40 persone hanno partecipato alla competizione."
+Unibg Seclab ha organizzato un hub nella sede di Dalmine di UniBG da cui più di
+40 persone hanno partecipato alla competizione."
 %}
