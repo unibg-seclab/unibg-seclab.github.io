@@ -12,7 +12,7 @@
     <b>{{ include.title }}</b>
     <p>{{ include.authors }}</p>
     {% if include.venue %}<p><i>{{ include.venue }}</i></p>{% endif %}
-    {% if include.note %}<p><u>{{ include.note }}</u></p>{% endif %}
+    {% if include.note %}<p>{{ include.note }}</p>{% endif %}
     {% if include.url %}<p><a href="{{ include.url }}">Read the paper</a></p>{% endif %}
     {% if include.icons %}
     <p style="font-size: 2em">

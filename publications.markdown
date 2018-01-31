@@ -66,7 +66,7 @@ title: Publications
    authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi"
    venue="in Communications and Network Security (CNS), 2015 IEEE Conference, 2015"
    url="http://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.pdf"
-   note="IEEE CNS'15 Best Poster Award"
+   note="<u>IEEE CNS'15 Best Poster Award</u><br/><a href=\"http://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall_poster.pdf\">Read the poster</a>"
    icons="ion-ribbon-b,ion-social-android" %}
 
 {% include paper.html
@@ -74,7 +74,8 @@ title: Publications
    image="http://cs.unibg.it/seclab-papers/2015/CNS/Docker.jpg"
    authors="Enrico Bacis, Simone Mutti, Steven Capelli and Stefano Paraboschi"
    venue="in Communications and Network Security (CNS), 2015 IEEE Conference, 2015"
-   url="http://cs.unibg.it/seclab-papers/2015/CNS/Docker.pdf" %}
+   url="http://cs.unibg.it/seclab-papers/2015/CNS/Docker.pdf"
+   note="<a href=\"http://cs.unibg.it/seclab-papers/2015/CNS/Docker_poster.pdf\">Read the poster</a>" %}
 
 {% include paper.html
    title="AppPolicyModules: Mandatory Access Control for Third-Party Apps"
