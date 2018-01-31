@@ -16,6 +16,11 @@
     {% if include.url %}<p><a href="{{ include.url }}">Read the paper</a></p>{% endif %}
     {% if include.icons %}
     <p style="font-size: 2em">
+    {% if include.github %}
+      <a href="{{ include.github }}">
+        <i class="icon ion-social-github" style="margin: .3em"></i>
+      </a>
+    {% endif %}
     {% assign icons = include.icons | split:"," %}
       {% for icon in icons %}<i class="icon {{ icon }}" style="margin: .3em"></i>{% endfor %}
     </p>

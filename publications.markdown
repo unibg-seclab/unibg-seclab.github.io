@@ -11,7 +11,8 @@ title: Publications
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
    venue="in Proc. of the 23rd ACM Conference on Computer and Communication Security (CCS 2016), Vienna, Austria, October 24-28, 2016"
    url="http://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.pdf"
-   icons="ion-social-github,ion-cloud" %}
+   github="https://github.com/unibg-seclab/aesmix"
+   icons="ion-cloud" %}
 
 {% include paper.html
    title="Managing Data Sharing in OpenStack Swift with Over-Encryption"
@@ -19,7 +20,8 @@ title: Publications
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Daniele Guttadoro, Stefano Paraboschi, Marco Rosa, Pierangela Samarati, Alessandro Saullo"
    venue="in Proc. of the 3rd ACM Workshop on Information Sharing and Collaborative Security (WISCS 2016), Vienna, Austria, October 24, 2016"
    url="http://cs.unibg.it/seclab-papers/2016/WISCS/bdfgprss-wiscs2016.pdf"
-   icons="ion-social-github,ion-cloud" %}
+   github="https://github.com/escudocloud/encSwift"
+   icons="ion-cloud" %}
 
 {% include paper.html
    title="Access Control Management for Secure Cloud Storage"
@@ -51,7 +53,8 @@ title: Publications
    authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi"
    venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015)"
    url="http://cs.unibg.it/seclab-papers/2015/ACSAC/SeSQLite.pdf"
-   icons="ion-social-github,ion-social-android" %}
+   github="https://github.com/unibg-seclab/sesqlite"
+   icons="ion-social-android" %}
 
 {% include paper.html
    title="Policy Specialization to Support Domain Isolation"
