@@ -22,35 +22,30 @@ qualificazione infatti avviene online, tuttavia esiste la possibilità di
 formare degli [hubs](https://hashcode.withgoogle.com/hubs.html) da cui poter
 partecipare insieme.
 
-Visto il successo della [scorsa edizione](/activity/hashcode_2017), anche
-quest'anno il Seclab vorrebbe organizzare un hub in UniBG, ma abbiamo bisogno
-di sapere quante persone sono interessate, visto che dobbiamo chiedere
-l'apertura straordinaria della sede e quindi ci serve un numero minimo di
-partecipanti.  Considerate che se l'hub supera i 20 iscritti entro l'**1
-febbraio**, Google invierà dei gadgets per i partecipanti, e che sarà possibile
-ordinare delle pizze d'asporto per cenare durante la gara.
+Visto il successo della scorsa edizione, anche quest'anno il Seclab ha deciso
+di organizzare un hub presso la sede di Dalmine di UniBG. Tenete presente che
+Google ha inviato dei gadgets per i partecipanti e che sarà possibile ordinare
+delle pizze d'asporto per cenare durante la gara.
 
 --------------------------------------------------------------------------------
 
 ## Iscrizione
 
 
-Per registravi, dovete fare le seguenti azioni entro l'**1 febbraio**:
+Per registravi, dovete fare le seguenti azioni entro il 26 febbraio:
 
 <br>
 
-1. Compilare la form qui sotto.
-
-2. Ogni membro del team deve registrarsi alla pagina
+1. Ogni membro del team deve registrarsi alla pagina
    <https://hashcode.withgoogle.com> . La conferma della registrazione potrebbe
    richiedere fino a 24 ore.
 
-3. Registrare il nome del team alla pagina <https://hashcodejudge.withgoogle.com> .
+2. Registrare il nome del team alla pagina <https://hashcodejudge.withgoogle.com> .
    Se non avete un team scrivete a *seclab [at] unibg [dot] it* .
 
-4. Iscrivere il proprio team all'hub *Università degli Studi di Bergamo*.
+3. Iscrivere il proprio team all'hub *Università degli Studi di Bergamo*.
 
-5. Condividere il link di iscrizione al team con gli altri membri.
+4. Condividere il link di iscrizione al team con gli altri membri.
 
 <br>
 
@@ -58,9 +53,24 @@ Dopo esservi registrati, potrete trovare un problema di esempio alla pagina
 <https://hashcodejudge.withgoogle.com>. Vi consigliamo di guardarlo,
 provare a risolverlo, e sottomettere le vostre soluzioni.
 
-Non abbiate paura di partecipare, non c'è veramente nulla da perdere, ma è
-un'esperienza interessante da fare! Vi aspettiamo!
-
 --------------------------------------------------------------------------------
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 3000px; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 3000px; }</style><div class='embed-container'>    <iframe src='https://docs.google.com/forms/d/e/1FAIpQLSdrQvpLymoahPqPjDRbk5-iFPHGFZXrSpGt1p709kkXA3L54Q/viewform?embedded=true' height='3000px' frameborder='0' marginheight='0' marginwidth='0'>Loading...</iframe></div>
+### Incontri introduttivi
+
+**Venerdì 16 febbraio**
+
+Aula: *B004*
+
+Orario: *14:30 - 16:30*
+
+Argomento: **Java e Dynamic Programming**
+
+----
+
+**Venerdì 23 febbraio**
+
+Aula: *B004*
+
+Orario: *14:30 - 16:30*
+
+Argomento: **Python e Greedy Algorithms**
