@@ -55,9 +55,9 @@ provare a risolverlo, e sottomettere le vostre soluzioni.
 
 --------------------------------------------------------------------------------
 
-### Incontri introduttivi
+## Incontri introduttivi
 
-**Venerdì 16 febbraio**
+### Venerdì 16 febbraio
 
 Aula: *B004*
 
@@ -67,7 +67,7 @@ Argomento: **Java e Dynamic Programming**
 
 ----
 
-**Venerdì 23 febbraio**
+### Venerdì 23 febbraio
 
 Aula: *B004*
 
