@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <img class="img-responsive center-block"
-     src="/assets/activities/hashcode/google_hashcode_1.png" />
+     src="/assets/activities/hashcode/google_hashcode_3.png" />
 <br>
 
 [Hash Code](https://hashcode.withgoogle.com) è una gara di programmazione a
