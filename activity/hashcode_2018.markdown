@@ -78,3 +78,6 @@ Aula: *B004*
 Orario: *14:30 - 16:30*
 
 Argomento: **Python e Greedy Algorithms**
+
+<style>.embed-container { position: relative; padding-bottom: 60%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vRkzLwXQKOsrv6VN97GCAc5OlPn4zC555m-waLoHO_IoenjesQbcmuAwmgsBRCvk_xNTGLwAjfvhGuT/embed?start=false&loop=false&delayms=3000' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
+
