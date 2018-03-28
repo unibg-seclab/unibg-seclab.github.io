@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://seclab.unibg.it" # the base hostname & protocol for your site
 
 # Build settings
+encoding: utf-8
 markdown: kramdown
 plugins: # Check allowed plugins here: https://pages.github.com/versions/
   - jekyll-paginate

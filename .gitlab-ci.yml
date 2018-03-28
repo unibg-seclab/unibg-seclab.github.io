@@ -8,6 +8,9 @@ variables:
   JEKYLL_ENV: production
 
 before_script:
+  - export LC_ALL="C.UTF-8"
+  - export LANG="en_US.UTF-8"
+  - export LANGUAGE="en_US.UTF-8"
   - bundle install --path vendor
 
 test:
