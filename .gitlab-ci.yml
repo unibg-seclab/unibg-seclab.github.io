@@ -1,14 +1,10 @@
 image: ruby:2.3  # Use Ruby Docker image
 
-cache:  # Add Bundler cache to 'vendor' directory
-  paths:
-    - vendor/
-
 variables:
   JEKYLL_ENV: production
 
-before_script:  # Install Gems to 'vendor' directory
-  - bundle install --path vendor
+before_script:
+  - bundle install
 
 test:
   stage: test
