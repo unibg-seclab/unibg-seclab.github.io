@@ -1,10 +1,14 @@
 image: ruby:2.3  # Use Ruby Docker image
 
+cache: # cache bundler packages
+  paths:
+  - vendor/
+
 variables:
   JEKYLL_ENV: production
 
 before_script:
-  - bundle install
+  - bundle install --path vendor
 
 test:
   stage: test
