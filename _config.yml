@@ -9,18 +9,18 @@ url: "http://seclab.unibg.it" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
-# Check gems allowed on github pages here: https://pages.github.com/versions/
-gems:
+plugins: # Check allowed plugins here: https://pages.github.com/versions/
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
 
+# Collections settings
 collections:
   tesi:
     output: true
     permalink: /tesi/:name
 
+# Exclude from processing
 exclude:
   - README.md
   - vendor
