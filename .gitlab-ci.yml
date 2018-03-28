@@ -1,0 +1,31 @@
+image: ruby:2.3  # Use Ruby Docker image
+
+cache:  # Add Bundler cache to 'vendor' directory
+  paths:
+    - vendor/
+
+variables:
+  JEKYLL_ENV: production
+
+before_script:  # Install Gems to 'vendor' directory
+  - bundle install --path vendor
+
+test:
+  stage: test
+  script:  # Generate test site(s) into 'test' directory
+  - bundle exec jekyll build -d test
+  artifacts:  # Save a zipped version for download
+    paths:
+    - test
+  except:  # Execute for all branches except master
+  - master
+
+pages:
+  stage: deploy
+  script:  # Generate public site and deploy
+  - bundle exec jekyll build -d public
+  artifacts:  # Save a zipped version for download
+    paths:
+    - public
+  only:  # Only deploy the master branch
+  - master
