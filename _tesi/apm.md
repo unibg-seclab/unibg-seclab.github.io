@@ -56,7 +56,7 @@ una policy ad-hoc.
 ### MATERIALE
 
 -   Paper sugli APM:
-    [http://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf](http://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf)
+    [https://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf](https://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf)
 
 -   Compilazione Android:
     [https://source.android.com/source/index.html](https://source.android.com/source/index.html)

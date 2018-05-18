@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Unibg Seclab is the Computer Security Team at Università degli Studi di Bergamo.
   If you are interested in computer security, come talk to us!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://seclab.unibg.it" # the base hostname & protocol for your site
+url: "https://seclab.unibg.it" # the base hostname & protocol for your site
 
 # Build settings
 encoding: utf-8
