@@ -14,8 +14,3 @@ $fill_time:  1s;
   fill-opacity: 0;
   transition: fill-opacity $fill_time, stroke-opacity $fill_time;
 }
-
-.vivus svg:not(.finished) * {
-  fill-opacity: 0;
-  transition: fill-opacity 0s, stroke-width 0s;
-}

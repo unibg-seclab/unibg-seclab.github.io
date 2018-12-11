@@ -12,7 +12,7 @@
    width="986.76282"
    version="1.1"
    id="svg4206"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="logo.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -23,15 +23,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1199"
-     inkscape:window-height="744"
+     inkscape:window-width="849"
+     inkscape:window-height="1400"
      id="namedview4254"
      showgrid="false"
-     inkscape:zoom="0.64219631"
-     inkscape:cx="477.2765"
-     inkscape:cy="517.0443"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.22705068"
+     inkscape:cx="320.5294"
+     inkscape:cy="482.02936"
+     inkscape:window-x="854"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4206" />
   <metadata
@@ -42,7 +42,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
