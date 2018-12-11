@@ -20,6 +20,9 @@ title: People
    image="/assets/people/rosa.jpg"
    description="Marco Rosa has been a researcher at Università degli Studi di Bergamo since September 2015 and a PhD student since October 2016. His research interests focus on cloud security, mobile security (especially Android malwares and system security policies), and Python programming." %}
 
+{% include person.html
+   name="Dario Facchinetti" %}
+
 ### Former members
 
 {% include person.html

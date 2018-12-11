@@ -1,14 +1,12 @@
 <div class="row">
   <div class="col-xs-4 col-sm-2">
-    {% if include.image %}
     {% if include.website %}<a href="{{ include.website }}">{% endif %}
-      <img class="person img-responsive" src="{{ include.image }}" alt="{{ include.name }}" />
+      <img class="person img-responsive" src="{{ include.image | default: "assets/people/anonymous.png" }}" alt="{{ include.name }}" />
     {% if include.website %}</a>{% endif %}
-    {% endif %}
   </div>
   <div class="col-xs-8 col-sm-10">
     <h3>{{ include.name }}</h3>
-    <p>{{ include.description }}</p>
+    <p>{{ include.description | default: "This member prefers to keep an aura of mystery." }}</p>
     {% if include.website %}
     <p><a href="{{ include.website }}">Personal website </a></p>
     {% endif %}
