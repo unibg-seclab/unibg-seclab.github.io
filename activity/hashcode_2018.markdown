@@ -1,57 +1,14 @@
 ---
 layout: default
 title: Google Hash Code 2018
-redirect_from:
-  - /hashcode
-  - /activity/hashcode
 ---
 
 <img class="img-responsive center-block"
      src="/assets/activities/hashcode/google_hashcode_3.png" />
 <br>
 
-[Hash Code](https://hashcode.withgoogle.com) è una gara di programmazione a
-squadre organizzata da Google per studenti e professionisti in Europa, Medio
-Oriente e Africa. Si forma una squadra e si sceglie il linguaggio di
-programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
-team è formato da un minimo di 2 ad un massimo di 4 persone.
-
-La fase di qualificazione si terrà **giovedì 1 marzo 2018** dalle **18:30**
-alle **22:30**. Non è necessario essere in un luogo preciso per partecipare, la
-qualificazione infatti avviene online, tuttavia esiste la possibilità di
-formare degli [hubs](https://hashcode.withgoogle.com/hubs.html) da cui poter
-partecipare insieme.
-
-Visto il successo della scorsa edizione, anche quest'anno il Seclab ha deciso
-di organizzare un hub presso la sede di Dalmine di UniBG. Tenete presente che
-Google ha inviato dei gadgets per i partecipanti e che sarà possibile ordinare
-delle pizze d'asporto per cenare durante la gara.
-
---------------------------------------------------------------------------------
-
-## Iscrizione
-
-
-Per registravi, dovete fare le seguenti azioni entro il 26 febbraio:
-
-<br>
-
-1. Ogni membro del team deve registrarsi alla pagina
-   <https://hashcode.withgoogle.com> . La conferma della registrazione potrebbe
-   richiedere fino a 24 ore.
-
-2. Registrare il nome del team alla pagina <https://hashcodejudge.withgoogle.com> .
-   Se non avete un team scrivete a *seclab [at] unibg [dot] it* .
-
-3. Iscrivere il proprio team all'hub *Università degli Studi di Bergamo*.
-
-4. Condividere il link di iscrizione al team con gli altri membri.
-
-<br>
-
-Dopo esservi registrati, potrete trovare un problema di esempio alla pagina
-<https://hashcodejudge.withgoogle.com>. Vi consigliamo di guardarlo,
-provare a risolverlo, e sottomettere le vostre soluzioni.
+**[Google Hash Code](https://hashcode.withgoogle.com) si è tenuto il 01/03/2018.
+Ringraziamo tutti quelli che hanno partecipato!**
 
 --------------------------------------------------------------------------------
 
