@@ -4,6 +4,24 @@ title: activities
 ---
 
 {% include activity.html
+   title="Google Hash Code 2019"
+   details="28 febbraio 2019 (18:00 - 22:30) @ Aula studi edificio C (Dalmine)"
+   image="/assets/activities/hashcode/hashcode-2019.png"
+   website="/activity/hashcode_2019"
+   description=
+"[Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di
+programmazione a squadre organizzata da Google per studenti e professionisti in
+Europa, Medio Oriente e Africa. Si forma una squadra e si sceglie il linguaggio
+di programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
+team è formato da un minimo di 2 ad un massimo di 4 persone.
+
+Visto il successo degli anni scorsi, anche quest'anno Unibg Seclab organizza un
+hub nella sede di Dalmine di UniBG da cui più gli studenti potranno partecipare
+alla competizione."
+%}
+
+
+{% include activity.html
    title="Google Hash Code 2018"
    details="1 marzo 2018 (18:00 - 22:30) @ Aula studi edificio C (Dalmine)"
    image="/assets/activities/hashcode/google_hashcode_2.jpg"
