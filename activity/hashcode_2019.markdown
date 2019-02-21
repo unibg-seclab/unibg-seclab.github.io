@@ -19,8 +19,7 @@ team è formato da un minimo di 2 ad un massimo di 4 persone.
 La fase di qualificazione si terrà **giovedì 28 febbraio 2019** dalle **18:30**
 alle **22:30**. Non è necessario essere in un luogo preciso per partecipare, la
 qualificazione infatti avviene online. Tuttavia esiste la possibilità di
-formare degli [hub](https://codingcompetitions.withgoogle.com/hashcode/hubs)
-da cui poter partecipare insieme.
+formare degli [hub](https://g.co/hashcode/hubs) da cui poter partecipare insieme.
 
 Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
 lo hub *Università degli Studi di Bergamo* nell'aula studi dell'edificio C
