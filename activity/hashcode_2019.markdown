@@ -23,8 +23,9 @@ formare degli [hub](https://codingcompetitions.withgoogle.com/hashcode/hubs)
 da cui poter partecipare insieme.
 
 Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
-un hub nell'aula studi dell'edificio C (sede di Dalmine).  Sarà possibile
-ordinare delle pizze d’asporto per cenare durante la gara.
+lo hub *Università degli Studi di Bergamo* nell'aula studi dell'edificio C
+(sede di Dalmine). Sarà possibile ordinare delle pizze d’asporto per cenare
+durante la gara.
 
 --------------------------------------------------------------------------------
 
@@ -36,7 +37,7 @@ Per registravi, dovete fare le seguenti azioni entro il 25 febbraio:
 <br>
 
 1. Ogni membro del team deve registrarsi alla pagina
-   <https://codingcompetitions.withgoogle.com/hashcode> .
+   <https://g.co/hashcode>.
    La conferma della registrazione potrebbe richiedere fino a 24 ore.
 
 2. Registrare il nome del team alla pagina <https://hashcodejudge.withgoogle.com> .
@@ -63,8 +64,3 @@ le slides qui sotto.
 
 * **Java e Dynamic Programming** ([scarica slides](/assets/activities/hashcode/unibg_seclab_hashcode_2018_java.pdf))
 * **Python e Greedy Algorithms** ([scarica slides](/assets/activities/hashcode/unibg_seclab_hashcode_2018_python.pdf))
-
-Se foste interessati a partecipare a (o anche a tenere) degli altri incontri
-su tematiche simili, scrivete a *seclab [at] unibg [dot] it*. Se ci saranno
-abbastanza richieste, organizzeremo un incontro.
-
