@@ -23,10 +23,8 @@ formare degli [hub](https://codingcompetitions.withgoogle.com/hashcode/hubs)
 da cui poter partecipare insieme.
 
 Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
-un hub in UniBG. Visto che dovremo chiedere le aule e l'apertura straordinaria
-della sede, vi chiediamo di iscrivervi e registrare il vostro team al nostro
-hub il prima possibile. Sarà possibile ordinare delle pizze d’asporto per
-cenare durante la gara.
+un hub nell'aula studi dell'edificio C (sede di Dalmine).  Sarà possibile
+ordinare delle pizze d’asporto per cenare durante la gara.
 
 --------------------------------------------------------------------------------
 
