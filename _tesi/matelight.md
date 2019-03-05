@@ -55,13 +55,11 @@ Italia valutiamo di usare comuni bottiglie di birra._
 
 ### PROGETTI DI TESI
 
-<del>
-* **_[Triennale]_** Realizzazione del muro come spiegato nella guida di Github.
-  * Le mansioni del tesista prevedono assemblaggio delle bottiglie con la carta
+* ~~***[Triennale]*** Realizzazione del muro come spiegato nella guida di Github.~~
+  * ~~Le mansioni del tesista prevedono assemblaggio delle bottiglie con la carta
     stagnola e i led, il cablaggio, il fissaggio delle cassette e infine il
-    montaggio del muro in una zona dell’università giudicata idonea.
-  * Vista la quantità e il volume del materiale, per svolgere la maggior parte
-    del lavoro è necessario essere presenti in università e lavorare “in loco”.
-  * La difficoltà di questo progetto di tesi non è alta, bisogna solo avere
-    tanta buona volontà.
-</del>
+    montaggio del muro in una zona dell’università giudicata idonea.~~
+  * ~~Vista la quantità e il volume del materiale, per svolgere la maggior parte
+    del lavoro è necessario essere presenti in università e lavorare “in loco”.~~
+  * ~~La difficoltà di questo progetto di tesi non è alta, bisogna solo avere
+    tanta buona volontà.~~
