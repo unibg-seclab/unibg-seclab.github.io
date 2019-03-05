@@ -32,9 +32,10 @@ avuto accesso).
 
 ### PROGETTI DI TESI
 
--   ***\[Magistrale\]*** Sviluppare lo sniffer per Linux (Raspberry) o
-    come app Android
+-   ***\[Triennale\]*** Sviluppare lo sniffer per Linux (Raspberry)
 
--   ***\[Magistrale\]*** Sviluppare lo sniffer utilizzando [Arduino
+-   ***\[Triennale\]*** Sviluppare lo sniffer utilizzando [Arduino
     Yún](https://www.arduino.cc/en/Main/ArduinoBoardYun) o Arduino
     con Wifi Shield
+
+-   ***\[Magistrale\]*** Sviluppare lo sniffer come app Android

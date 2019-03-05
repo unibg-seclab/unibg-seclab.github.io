@@ -57,15 +57,15 @@ dynamic large objects.
     livello precedente.  Quindi l’utilizzo di un padding banale in Mix&Slice
     espanderebbe i files del 100% (worst case 300%).
 
-* **_[Triennale]_** Wrapping della libreria di Mix&Slice in Python (o Java) e
+* ~~**_[Triennale]_** Wrapping della libreria di Mix&Slice in Python (o Java) e
   utilizzo su cloud storage (Amazon Web Services, Google Cloud Platform, ecc.),
   costruendo un set di APIs “ad-hoc” per fare put, get, revoche, ecc. di files.
 
   * **_[Requisiti aggiuntivo per tesi magistrale]_** Creare una interfaccia
-    grafica per permettere l’utilizzo delle API, analizzare le prestazioni.
+    grafica per permettere l’utilizzo delle API, analizzare le prestazioni.~~
 
-* **_[Triennale]_** Scrivere un servizio per fare secure deletion. Questo
+* ~~**_[Triennale]_** Scrivere un servizio per fare secure deletion. Questo
   servizio deve fare uso di un Amazon Dash Button, che quando premuto cifri uno
   dei frammenti di Mix&Slice e elimini la chiave. Le risorse da proteggere sono
   salvate su uno dei servizi di cloud storage (Amazon S3, Google Cloud Storage,
-  ...).
+  ...).~~

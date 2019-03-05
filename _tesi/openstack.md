@@ -3,7 +3,7 @@ title: Openstack Swift
 category: security
 layout: sidebar-left
 sidebar: sidebars/tesi.html
-published: true
+published: false
 ---
 
 # Openstack Swift
