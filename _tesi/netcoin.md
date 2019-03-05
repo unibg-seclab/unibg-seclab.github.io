@@ -52,11 +52,13 @@ problemi di censura o di blocco dei contenuti.
 
 ### PROGETTI DI TESI
 
-* ~~**_[Magistrale]_** Creazione di un sistema distribuito basato su DHT che
+<del>
+* **_[Magistrale]_** Creazione di un sistema distribuito basato su DHT che
   permetta di utilizzare altri nodi della rete per poter navigare sulla base del
   paese di navigazione richiesto (la rete verrà poi simulata con nodi fisici o
   con delle macchine virtuali). Integrazione con un sistema di proof-of-work che
-  permetta la verifica ed il contestuale pagamento in Netcoins.~~
+  permetta la verifica ed il contestuale pagamento in Netcoins.
+</del>
 
 ----
 
