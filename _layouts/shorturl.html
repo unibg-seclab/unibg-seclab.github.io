@@ -3,15 +3,15 @@
 
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url={{ shorturl }}">
+    <meta http-equiv="refresh" content="0; url={{ page.shorturl }}">
     <script>
-        window.location.href = "{{ shorturl }}"
+        window.location.href = "{{ page.shorturl }}"
     </script>
     <title>Page Redirection</title>
   </head>
 
   <body>
-    If you are not redirected automatically, follow this link: <a href="{{ shorturl }}">{{ shorturl }}</a>.
+    If you are not redirected automatically, follow this link: <a href="{{ page.shorturl }}">{{ page.shorturl }}</a>.
   </body>
 
 </html>
