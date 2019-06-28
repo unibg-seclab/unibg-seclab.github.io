@@ -17,9 +17,12 @@ svolgere tale progetto mettendoci il massimo dell’impegno e della dedizione.
 Un progetto di tesi DEVE essere un divertimento per il tesista, e non un peso
 da togliersi il prima possibile.
 
-Quando viene affidato un progetto di tesi, possiamo solo avere una stima
+Per quanto riguarda le tesi triennali (3CFU), esse devono concludersi in un
+massimo di 3 mesi dalla data di inizio (eventuali proroghe potranno
+essere concesse in casi eccezionali). Per le tesi magistrali, invece, nel
+momento in cui affidiamo un progetto di tesi, possiamo solo avere una stima
 indicativa del tempo richiesto per raggiungere gli obiettivi, ma tutto è
-relativo all'impegno e alle capacità del tesista.  La tesi si considera
+relativo all'impegno e alle capacità del tesista. La tesi si considera
 conclusa nel momento in cui gli obiettivi vengono raggiunti, quindi non
 possiamo decidere a priori una sessione di laurea e, una volta arrivati a tale
 sessione, lasciare la tesi incompiuta.
