@@ -69,15 +69,15 @@ una policy ad-hoc.
 
 ### PROGETTI DI TESI
 
--   ***\[Magistrale\]*** Implementazione del paper APM nella versione corrente
-    di Android, per far sì che quando un’applicazione viene installata:
+-   ~~***\[Magistrale\]*** Implementazione del paper APM nella versione corrente
+    di Android, per far sì che quando un’applicazione viene installata:~~
 
-    -   Il suo APM venga verificato
+    -   ~~Il suo APM venga verificato~~
 
-    -   Vengano inserite le sue regole nella policy di sistema
+    -   ~~Vengano inserite le sue regole nella policy di sistema~~
 
-    -   L’applicazione venga etichettata correttamente all’avvio in modo che
-        possa sfruttare appieno SELinux
+    -   ~~L’applicazione venga etichettata correttamente all’avvio in modo che
+        possa sfruttare appieno SELinux~~
 
 -   ***\[Magistrale\]*** Mapping Android Permission Framework in SELinux
 

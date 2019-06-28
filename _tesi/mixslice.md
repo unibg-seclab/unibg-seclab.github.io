@@ -47,15 +47,15 @@ dynamic large objects.
 
 ### PROGETTI DI TESI
 
-* **_[Triennale]_** Costruzione di un file system per GNU/Linux che supporti
+* ~~**_[Triennale]_** Costruzione di un file system per GNU/Linux che supporti
   Mix&Slice in modo tale da poter studiare una sua applicazione per fare [secure
-  deletion](http://www.alertboot.com/blog/blogs/endpoint_security/archive/2011/04/29/disk-encryption-how-do-you-cryptographically-erase-data.aspx).
+  deletion](http://www.alertboot.com/blog/blogs/endpoint_security/archive/2011/04/29/disk-encryption-how-do-you-cryptographically-erase-data.aspx).~~
 
-  * **_[Requisito aggiuntivo per tesi magistrale]_** Studiare ed implementare
-    una modalità di padding che limiti l’espansione della risorsa. Ogni livello
-    i Mix&Slice può cifrare una quantità di dati quattro volte superiore al
-    livello precedente.  Quindi l’utilizzo di un padding banale in Mix&Slice
-    espanderebbe i files del 100% (worst case 300%).
+* ~~**_[Requisito aggiuntivo per tesi magistrale]_** Studiare ed implementare
+  una modalità di padding che limiti l’espansione della risorsa. Ogni livello
+  i Mix&Slice può cifrare una quantità di dati quattro volte superiore al
+  livello precedente.  Quindi l’utilizzo di un padding banale in Mix&Slice
+  espanderebbe i files del 100% (worst case 300%).~~
 
 * ~~**_[Triennale]_** Wrapping della libreria di Mix&Slice in Python (o Java) e
   utilizzo su cloud storage (Amazon Web Services, Google Cloud Platform, ecc.),

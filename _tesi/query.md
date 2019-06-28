@@ -76,9 +76,9 @@ un ottimizzatore modulare per il database Greenplum.
 
 ### PROGETTI DI TESI
 
--   ***\[Magistrale\]*** Realizzazione di un ottimizzatore monofase di query
+-   ~~***\[Magistrale\]*** Realizzazione di un ottimizzatore monofase di query
     distribuito che tenga conto dei requisiti di sicurezza descritti nel
-    progetto.
+    progetto.~~
 
 -   ***\[Magistrale\]*** Effettiva distribuzione della query ottimizzata su una
     piattaforma di calcolo distribuito modificata ad hoc per poter eseguire
