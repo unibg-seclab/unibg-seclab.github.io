@@ -13,17 +13,22 @@ title: People
    name="Enrico Bacis"
    image="/assets/people/bacis.jpg"
    website="https://enricobacis.com"
-   description="Enrico Bacis is a researcher at Università degli Studi di Bergamo since May 2014. His work focuses on computer security, mostly investigating the integration of security features in ( mobile | cloud | database ) systems, policy management and privacy of outsourced data. His non-work interests range widely, from programming languages to security CTFs and machine learning. He loves to solve problems, learn new things and discourse with interesting people." %}
+   description="Enrico Bacis is a researcher with Università degli Studi di Bergamo since May 2014. His work focuses on computer security, mostly investigating the integration of security features in ( mobile | cloud | database ) systems, policy management and privacy of outsourced data. His non-work interests range widely, from programming languages to security CTFs and machine learning. He loves to solve problems, learn new things and discourse with interesting people." %}
 
 {% include person.html
    name="Marco Rosa"
    image="/assets/people/rosa.jpg"
-   description="Marco Rosa has been a researcher at Università degli Studi di Bergamo since September 2015 and a PhD student since October 2016. His research interests focus on cloud security, mobile security (especially Android malwares and system security policies), and Python programming." %}
+   description="Marco Rosa has been a researcher with Università degli Studi di Bergamo since September 2015 and a PhD student since October 2016. His research interests focus on cloud security, mobile security (especially Android malwares and system security policies), and Python programming." %}
 
 {% include person.html
    name="Dario Facchinetti"
    image="/assets/people/dario.jpg"
-   description="Dario Facchinetti is a Ph.D. student at Università degli Studi di Bergamo since October 2018." %}
+   description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. His research interests focus on database security, distributed execution, and enforcing access control in multi-tenant cloud environments." %}
+
+{% include person.html
+   name="Matthew Rossi"
+   image="/assets/people/matthew.jpg"
+   description="Matthew Rossi is a contract researcher with Università degli Studi di Bergamo since July 2019. He is currently working on improving mandatory access control for Android applications." %}
 
 ### Former members
 
