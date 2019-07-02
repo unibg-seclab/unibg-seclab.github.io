@@ -46,4 +46,4 @@ Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, 
 Alberto Gambarara, Stefano Ghisleni, Stefano Giannattasio, Kevin Gotti, Sara Locatelli, Giada Mariani, Alessio Moraschini, Giovanni Nava,
 Gianluca Oldani, Simone Opreni,
 Andrea Paganessi, Umberto Paramento, Gabriele Paris, Andrea Previtali,
-Daniel Rinaldi, Matthew Rossi, Davide Vimercati and Michele Zanchi.
+Daniel Rinaldi, Davide Vimercati and Michele Zanchi.
