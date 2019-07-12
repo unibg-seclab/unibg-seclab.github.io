@@ -23,7 +23,7 @@ title: People
 {% include person.html
    name="Dario Facchinetti"
    image="/assets/people/dario.jpg"
-   description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. His research interests focus on database security, distributed execution, and enforcing access control in multi-tenant cloud environments." %}
+   description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. His research interests focus on secure distributed execution." %}
 
 {% include person.html
    name="Matthew Rossi"
