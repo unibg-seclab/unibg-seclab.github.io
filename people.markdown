@@ -42,8 +42,8 @@ title: People
 
 We would also like to thank all the alumni who collaborated to our projects. A special mention to:
 Marco Adobati, Marco Arrigoni, Giorgio Balduzzi, Davide Bernasconi,
-Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina Centurelli, Davide Cesani, Alessandro Copler, Antonio Cosseddu, Gianluca Flaccadori,
+Brian Caglioni, Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina Centurelli, Davide Cesani, Lorenzo Conti, Alessandro Copler, Antonio Cosseddu, Gianluca Flaccadori,
 Alberto Gambarara, Stefano Ghisleni, Stefano Giannattasio, Kevin Gotti, Sara Locatelli, Giada Mariani, Alessio Moraschini, Giovanni Nava,
 Gianluca Oldani, Simone Opreni,
 Andrea Paganessi, Umberto Paramento, Gabriele Paris, Andrea Previtali,
-Daniel Rinaldi, Davide Vimercati and Michele Zanchi.
+Daniel Rinaldi, Davide Vimercati, Gianluca Viganò, Michele Zanchi and Youssef Zraiba.
