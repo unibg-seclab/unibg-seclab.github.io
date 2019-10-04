@@ -23,7 +23,7 @@ title: People
 {% include person.html
    name="Dario Facchinetti"
    image="/assets/people/dario.jpg"
-   description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. His research interests focus on secure distributed execution." %}
+   description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. He likes to spend time inside the Emacs ecosystem and learning about security." %}
 
 {% include person.html
    name="Matthew Rossi"
@@ -42,8 +42,8 @@ title: People
 
 We would also like to thank all the alumni who collaborated to our projects. A special mention to:
 Marco Adobati, Marco Arrigoni, Giorgio Balduzzi, Davide Bernasconi,
-Brian Caglioni, Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina Centurelli, Davide Cesani, Lorenzo Conti, Alessandro Copler, Antonio Cosseddu, Gianluca Flaccadori,
+Brian Caglioni, Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina Centurelli, Marco Cereda, Davide Cesani, Lorenzo Conti, Alessandro Copler, Antonio Cosseddu, Gianluca Flaccadori,
 Alberto Gambarara, Stefano Ghisleni, Stefano Giannattasio, Kevin Gotti, Sara Locatelli, Giada Mariani, Alessio Moraschini, Giovanni Nava,
 Gianluca Oldani, Simone Opreni,
 Andrea Paganessi, Umberto Paramento, Gabriele Paris, Andrea Previtali,
-Daniel Rinaldi, Davide Vimercati, Gianluca Viganò, Michele Zanchi and Youssef Zraiba.
+Daniel Rinaldi, Fabio Sangregorio, Davide Vimercati, Gianluca Viganò, Michele Zanchi and Youssef Zraiba.
