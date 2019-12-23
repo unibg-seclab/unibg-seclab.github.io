@@ -46,4 +46,4 @@ Brian Caglioni, Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, St
 Alberto Gambarara, Stefano Ghisleni, Stefano Giannattasio, Kevin Gotti, Sara Locatelli, Giada Mariani, Alessio Moraschini, Giovanni Nava,
 Gianluca Oldani, Simone Opreni,
 Andrea Paganessi, Umberto Paramento, Gabriele Paris, Andrea Previtali,
-Daniel Rinaldi, Fabio Sangregorio, Davide Vimercati, Gianluca Viganò, Michele Zanchi and Youssef Zraiba.
+Daniel Rinaldi, Fabio Sangregorio, Matteo Stucchi, Davide Vimercati, Gianluca Viganò, Michele Zanchi, Matteo Zambelli and Youssef Zraiba.
