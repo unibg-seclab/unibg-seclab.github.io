@@ -16,11 +16,6 @@ title: People
    description="Enrico Bacis is a researcher with Università degli Studi di Bergamo since May 2014. His work focuses on computer security, mostly investigating the integration of security features in ( mobile | cloud | database ) systems, policy management and privacy of outsourced data. His non-work interests range widely, from programming languages to security CTFs and machine learning. He loves to solve problems, learn new things and discourse with interesting people." %}
 
 {% include person.html
-   name="Marco Rosa"
-   image="/assets/people/rosa.jpg"
-   description="Marco Rosa has been a researcher with Università degli Studi di Bergamo since September 2015 and a PhD student since October 2016. His research interests focus on cloud security, mobile security (especially Android malwares and system security policies), and Python programming." %}
-
-{% include person.html
    name="Dario Facchinetti"
    image="/assets/people/dario.jpg"
    description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. He likes to spend time inside the Emacs ecosystem and learning about security." %}
@@ -31,6 +26,12 @@ title: People
    description="Matthew Rossi is a contract researcher with Università degli Studi di Bergamo since July 2019. He is currently working on improving mandatory access control for Android applications." %}
 
 ### Former members
+
+{% include person.html
+   name="Marco Rosa"
+   image="/assets/people/rosa.jpg"
+   website="https://cs.unibg.it/rosa"
+   description="Marco Rosa has been a researcher with Università degli Studi di Bergamo since September 2015 and a PhD student since October 2016. His research interests focus on cloud security, mobile security (especially Android malwares and system security policies), and Python programming. From July 2018 to December 2018, he spent 5 months at SAP Labs France where he contributed to the implementation of a policy model regulating the usage of datasets in machine learning operations." %}
 
 {% include person.html
    name="Simone Mutti"
