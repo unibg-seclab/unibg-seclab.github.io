@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Google Hash Code 2019
+title: Google Hash Code 2020
+redirect_from:
+  - /hashcode
+  - /activity/hashcode
 ---
 
 <img class="img-responsive center-block"
@@ -13,7 +16,7 @@ Europa, Medio Oriente e Africa. Si forma una squadra e si sceglie il linguaggio
 di programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
 team è formato da un minimo di 2 ad un massimo di 4 persone.
 
-La fase di qualificazione si terrà **giovedì 28 febbraio 2019** dalle **18:30**
+La fase di qualificazione si terrà **giovedì 20 febbraio 2020** dalle **18:30**
 alle **22:30**. Non è necessario essere in un luogo preciso per partecipare, la
 qualificazione infatti avviene online. Tuttavia esiste la possibilità di
 formare degli [hub](https://g.co/hashcode/hubs) da cui poter partecipare insieme.
@@ -28,7 +31,7 @@ durante la gara.
 ## Iscrizione
 
 
-Per registravi, dovete fare le seguenti azioni entro il 25 febbraio:
+Per registravi, dovete fare le seguenti azioni entro il **17 febbraio**:
 
 <br>
 
@@ -36,8 +39,7 @@ Per registravi, dovete fare le seguenti azioni entro il 25 febbraio:
    <https://g.co/hashcode>.
    La conferma della registrazione potrebbe richiedere fino a 24 ore.
 
-2. Registrare il nome del team alla pagina <https://hashcodejudge.withgoogle.com> .
-   Se non avete un team scrivete a *seclab [at] unibg [dot] it* .
+2. Registrare il nome del team alla pagina <https://hashcodejudge.withgoogle.com>.
 
 3. Iscrivere il proprio team all'hub *Università degli Studi di Bergamo*.
 
@@ -54,9 +56,9 @@ provare a risolverlo, e sottomettere le vostre soluzioni.
 
 ## Incontri introduttivi
 
-Lo scorso anno abbiamo tenuto 2 incontri introduttivi per discutere di alcune
-tecniche di programmazione utili per competizioni di programmazione. Trovate
-le slides qui sotto.
+Per una percedente edizione di Hash Code, il Seclab ha tenuto 2 incontri
+introduttivi per discutere di alcune tecniche di programmazione utili per
+competizioni di programmazione. Trovate le slides qui sotto.
 
 * **Java e Dynamic Programming** ([scarica slides](/assets/activities/hashcode/unibg_seclab_hashcode_2018_java.pdf))
 * **Python e Greedy Algorithms** ([scarica slides](/assets/activities/hashcode/unibg_seclab_hashcode_2018_python.pdf))
