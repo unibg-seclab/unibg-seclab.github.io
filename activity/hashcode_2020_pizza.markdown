@@ -10,7 +10,7 @@ redirect_from:
 
 --------------------------------------------------------------------------------
 
-## Istruzioni
+## 📝 Istruzioni
 
 1. Sui tavoli troverete il numero del vostro tavolo.
 2. Scegliete una pizza tra quelle qui sotto.
@@ -19,17 +19,17 @@ redirect_from:
 
 --------------------------------------------------------------------------------
 
-## 🍕🍕🍕 Pizze 🍕🍕🍕
+## 🍕 Pizze
 
 ### Americana
 
 pomodoro, mozzarella, wurstel e patatine fritte
 
-### Bufala
+### Bufala 🥬
 
 pomodoro e mozzarella di bufala
 
-### Caprese
+### Caprese 🥬
 
 pomodoro, mozzarella, caprino, pomodoro fresco, origano e basilico
 
@@ -45,7 +45,7 @@ pomodoro, mozzarella e prosciutto crudo
 
 pomodoro, mozzarella e salamino piccante
 
-### Margherita
+### Margherita 🥬
 
 pomodoro e mozzarella
 
@@ -61,7 +61,7 @@ pomodoro, mozzarella e prosciutto
 
 pomodoro, mozzarella, prosciutto e funghi
 
-### Rucola
+### Rucola 🥬
 
 pomodoro, mozzarella, rucola e grana
 
@@ -69,7 +69,7 @@ pomodoro, mozzarella, rucola e grana
 
 pomodoro, mozzarella e tonno
 
-### Vegetariana
+### Vegetariana 🥬
 
 pomodoro, mozzarella e verdure miste grigliate
 
