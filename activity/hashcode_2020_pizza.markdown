@@ -14,7 +14,7 @@ redirect_from:
 
 1. Sui tavoli troverete il numero del vostro tavolo.
 2. Scegliete una pizza tra quelle qui sotto.
-3. Venite al nostro tavolo con: **nome, numero tavolo, pizza scelta, 5.50 euro**.
+3. Venite al nostro tavolo con: **nome, numero tavolo, pizza scelta, 5.50 euro a testa (giusti)**.
 4. Le pizze arriveranno dalle *19.30* con segnato il numero del tavolo.
 
 --------------------------------------------------------------------------------
