@@ -10,12 +10,6 @@ title: People
    description="Focus on several areas in computer science: information systems and database technology (specifically on active rules, view management, data warehouses, workflow management systems), Web technology (data intensive Web sites, XML) and information security (security for databases, access control for XML and Web services, secure reputation in P2P networks, data outsourcing, privacy)." %}
 
 {% include person.html
-   name="Enrico Bacis"
-   image="/assets/people/bacis.jpg"
-   website="https://enricobacis.com"
-   description="Enrico Bacis is a researcher with Università degli Studi di Bergamo since May 2014. His work focuses on computer security, mostly investigating the integration of security features in ( mobile | cloud | database ) systems, policy management and privacy of outsourced data. His non-work interests range widely, from programming languages to security CTFs and machine learning. He loves to solve problems, learn new things and discourse with interesting people." %}
-
-{% include person.html
    name="Dario Facchinetti"
    image="/assets/people/dario.jpg"
    description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. He likes to spend time inside the Emacs ecosystem and learning about security." %}
@@ -26,6 +20,12 @@ title: People
    description="Matthew Rossi is a contract researcher with Università degli Studi di Bergamo since July 2019. He is currently working on improving mandatory access control for Android applications." %}
 
 ### Former members
+
+{% include person.html
+   name="Enrico Bacis"
+   image="/assets/people/bacis.jpg"
+   website="https://enricobacis.com"
+   description="Enrico Bacis is a former post-doctoral researcher with Università degli Studi di Bergamo. His work focuses on computer security, mostly investigating the integration of security features in ( mobile | cloud | database ) systems, policy management and privacy of outsourced data. He now works as a Research Software Engineer with Google Zurich in the Applied Privacy Research team. His non-work interests range widely, from programming languages, to security CTFs, to playing drums. He loves to solve problems, learn new things and discuss them with interesting people." %}
 
 {% include person.html
    name="Marco Rosa"
