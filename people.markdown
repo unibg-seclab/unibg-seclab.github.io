@@ -17,7 +17,9 @@ title: People
 {% include person.html
    name="Matthew Rossi"
    image="/assets/people/matthew.jpg"
-   description="Matthew Rossi is a contract researcher with Università degli Studi di Bergamo since July 2019. He is currently working on improving mandatory access control for Android applications." %}
+   description="Matthew Rossi is a PhD student at Università degli Studi di Bergamo. His work
+   focuses on mobile systems security, policy management and privacy in data market scenarios.
+   He loves to solve problems and engage with projects that require him to learn new things." %}
 
 ### Former members
 
