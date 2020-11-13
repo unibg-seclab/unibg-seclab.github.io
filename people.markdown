@@ -12,7 +12,7 @@ title: People
 {% include person.html
    name="Dario Facchinetti"
    image="/assets/people/dario.jpg"
-   description="Dario Facchinetti is a Ph.D. student with Università degli Studi di Bergamo since October 2018. He likes to spend time inside the Emacs ecosystem and learning about security." %}
+   description="Dario Facchinetti is a Ph.D. student at Università degli Studi di Bergamo since October 2018. He likes to spend time inside the Emacs ecosystem, programming and learning about security." %}
 
 {% include person.html
    name="Matthew Rossi"
