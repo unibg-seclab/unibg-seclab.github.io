@@ -6,7 +6,7 @@ title: activities
 {% include activity.html
    title="Google Hash Code 2021"
    details="25 febbraio 2021 (18:30 - 22:30) @ UniBG Virtual Hub"
-   image="/assets/activities/hashcode/hashcode-2021.png"
+   image="/assets/activities/hashcode/hashcode-2021.jpg"
    website="/activity/hashcode_2021"
    description=
 "[Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di

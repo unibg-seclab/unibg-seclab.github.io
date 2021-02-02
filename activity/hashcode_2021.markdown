@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <img class="img-responsive center-block"
-     src="/assets/activities/hashcode/hashcode-2021.png" />
+     src="/assets/activities/hashcode/hashcode-2021.jpg" />
 <br>
 
 [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di
