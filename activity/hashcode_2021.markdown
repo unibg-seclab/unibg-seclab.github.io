@@ -4,7 +4,7 @@ title: Google Hash Code 2021
 ---
 
 <img class="img-responsive center-block"
-     src="/assets/activities/hashcode/hashcode_2021.png" />
+     src="/assets/activities/hashcode/hashcode-2021.png" />
 <br>
 
 [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di
