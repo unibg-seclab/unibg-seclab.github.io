@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Google Hash Code 2021
+redirect_from:
+  - /hashcode
+  - /activity/hashcode
 ---
 
 <img class="img-responsive center-block"
