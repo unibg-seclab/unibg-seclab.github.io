@@ -53,7 +53,7 @@ provare a risolverlo, e sottomettere le vostre soluzioni.
 
 ## Incontri introduttivi
 
-Per una percedente edizione di Hash Code, il Seclab ha tenuto 2 incontri
+Per una precedente edizione di Hash Code, il Seclab ha tenuto 2 incontri
 introduttivi per discutere di alcune tecniche di programmazione utili per
 competizioni di programmazione. Trovate le slides qui sotto.
 
