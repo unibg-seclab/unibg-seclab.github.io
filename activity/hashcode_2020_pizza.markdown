@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Google Hash Code 2020 - Pizze
-redirect_from:
-  - /hashcode/pizza
-  - /hashcode/pizze
 ---
 
 # Pizze per Hash Code 2020

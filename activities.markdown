@@ -4,6 +4,23 @@ title: activities
 ---
 
 {% include activity.html
+   title="Google Hash Code 2021"
+   details="25 febbraio 2021 (18:00 - 22:30) @ UniBG Virtual Hub"
+   image="/assets/activities/hashcode/hashcode-2021.png"
+   website="/activity/hashcode_2021"
+   description=
+"[Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di
+programmazione a squadre organizzata da Google per studenti e professionisti in
+Europa, Medio Oriente e Africa. Si forma una squadra e si sceglie il linguaggio
+di programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
+team è formato da un minimo di 2 ad un massimo di 4 persone.
+
+Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
+un hub. Non potendo vederci di persona, a causa della situazione Covid 19,
+dovremo limitarci alla sola collaborazione virtuale."
+%}
+
+{% include activity.html
    title="Google Hash Code 2020"
    details="20 febbraio 2020 (18:00 - 22:30) @ Aula studi edificio C (Dalmine)"
    image="/assets/activities/hashcode/hashcode-2020.png"

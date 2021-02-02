@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Google Hash Code 2020
+title: Google Hash Code 2021
 ---
 
 <img class="img-responsive center-block"
-     src="/assets/activities/hashcode/google_hashcode_3.png" />
+     src="/assets/activities/hashcode/hashcode_2021.png" />
 <br>
 
 [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di
@@ -13,22 +13,31 @@ Europa, Medio Oriente e Africa. Si forma una squadra e si sceglie il linguaggio
 di programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
 team è formato da un minimo di 2 ad un massimo di 4 persone.
 
-La fase di qualificazione si terrà **giovedì 20 febbraio 2020** dalle **18:30**
+La fase di qualificazione si terrà **giovedì 25 febbraio 2021** dalle **18:30**
 alle **22:30**. Non è necessario essere in un luogo preciso per partecipare, la
-qualificazione infatti avviene online. Tuttavia esiste la possibilità di
-formare degli [hub](https://g.co/hashcode/hubs) da cui poter partecipare insieme.
+qualificazione infatti avviene online.
 
 Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
-lo hub *Università degli Studi di Bergamo* nell'aula studi dell'edificio C
-(sede di Dalmine). Sarà possibile ordinare delle pizze d’asporto per cenare
-durante la gara.
+lo hub *Università degli Studi di Bergamo*.
+Quest'anno, a causa della situazione Covid 19, non potendo vederci di persona e
+dovremo limitarci alla sola collaborazione virtuale.
+Con l'obiettivo di favorire interazioni tra i membri dello hub e la
+collaborazione tra i membri di ogni team abbiamo creato un Workspace di Slack
+[UniBG Virtual Hub - Hash Code 2021](https://unibg-virtual-hub.slack.com) al
+quale verrete invitati una volta registrati allo hub.
+
+Partecipando avrai accesso ad una scoreboard per vedere come si classifica la
+tua squadra rispetto ai tuoi amici e colleghi, il che è un ottimo modo per
+rendere la competizione più divertente!
+Speriamo che nonostante le evidenti limitazioni e l'impossibilità di mangiarci
+una pizza tutti insieme parteciperete anche quest'anno numerosi.
 
 --------------------------------------------------------------------------------
 
 ## Iscrizione
 
 
-Per registravi, dovete fare le seguenti azioni entro il **17 febbraio**:
+Per registravi, dovete fare le seguenti azioni entro il **24 febbraio**:
 
 <br>
 
