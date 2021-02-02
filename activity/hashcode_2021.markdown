@@ -22,16 +22,18 @@ qualificazione infatti avviene online.
 
 Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
 lo hub *Università degli Studi di Bergamo*.
-Quest'anno, a causa della situazione Covid 19, non potendo vederci di persona e
+Quest'anno, a causa della situazione Covid 19, non potremo vederci di persona e
 dovremo limitarci alla sola collaborazione virtuale.
+
+Partecipando avrai accesso ad una scoreboard per vedere come si classifica la
+tua squadra rispetto ai tuoi amici e colleghi, il che è un ottimo modo per
+rendere la competizione più divertente!
+
 Con l'obiettivo di favorire interazioni tra i membri dello hub e la
 collaborazione tra i membri di ogni team abbiamo creato un Workspace di Slack
 [UniBG Virtual Hub - Hash Code 2021](https://unibg-virtual-hub.slack.com) al
 quale verrete invitati una volta registrati allo hub.
 
-Partecipando avrai accesso ad una scoreboard per vedere come si classifica la
-tua squadra rispetto ai tuoi amici e colleghi, il che è un ottimo modo per
-rendere la competizione più divertente!
 Speriamo che nonostante le evidenti limitazioni e l'impossibilità di mangiarci
 una pizza tutti insieme parteciperete anche quest'anno numerosi.
 
