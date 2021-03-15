@@ -33,10 +33,10 @@ title: Publications
 
 {% include paper.html
    title="Protecting Resources and Regulating Access in Cloud-Based Object Storage"
-   image="https://cs.unibg.it/seclab-papers/2018/SUSHIL/bdfprs-accesscontrol.jpg"
+   image="https://cs.unibg.it/seclab-papers/2018/Sushil/bdfprs-accesscontrol.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
    venue="in From Database to Cyber Security. Lecture Notes in Computer Science, vol 11170. Springer, Cham."
-   url="https://cs.unibg.it/seclab-papers/2018/SUSHIL/bdfprs-accesscontrol.pdf"
+   url="https://cs.unibg.it/seclab-papers/2018/Sushil/bdfprs-accesscontrol.pdf"
    icons="ion-cloud" %}
 
 {% include paper.html
