@@ -6,10 +6,36 @@ title: Publications
 # Publications
 
 {% include paper.html
+   title="Dynamic Allocation for Resource Protection in Decentralized Cloud Storage"
+   image="https://cs.unibg.it/seclab-papers/2019/GLOBCOM/bdfprs-globecom2019.jpg"
+   authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
+   venue="in Proc. of the 2019 IEEE Global Communications Conference (GLOBECOM 2019), Waikoloa, USA, December 9-13, 2019"
+   url="https://cs.unibg.it/seclab-papers/2019/GLOBCOM/bdfprs-globecom2019.pdf"
+   icons="ion-cloud" %}
+
+{% include paper.html
+   title="Multi-Provider Secure Processing of Sensors Data"
+   image="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.jpg"
+   authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Giovanni Livraga, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
+   venue="in Proc. of the 2019 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom 2019), Kyoto, Japan, March 11-15, 2019"
+   url="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.pdf"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization-poster.pdf\">Read the poster</a>"
+   github="https://github.com/mosaicrown/query-opt"
+   icons="ion-cloud" %}
+
+{% include paper.html
+   title="Securing Resources in Decentralized Cloud Storage"
+   image="https://cs.unibg.it/seclab-papers/2019/TIFS/bdfprs-tifs.jpg"
+   authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
+   venue="in IEEE Transactions on Information Forensics and Security (TIFS 2019), vol. 15, 2019"
+   url="https://cs.unibg.it/seclab-papers/2019/TIFS/bdfprs-tifs.pdf"
+   icons="ion-cloud" %}
+
+{% include paper.html
    title="Protecting Resources and Regulating Access in Cloud-Based Object Storage"
    image="https://cs.unibg.it/seclab-papers/2018/SUSHIL/bdfprs-accesscontrol.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
-   venue="From Database to Cyber Security. Lecture Notes in Computer Science, vol 11170. Springer, Cham."
+   venue="in From Database to Cyber Security. Lecture Notes in Computer Science, vol 11170. Springer, Cham."
    url="https://cs.unibg.it/seclab-papers/2018/SUSHIL/bdfprs-accesscontrol.pdf"
    icons="ion-cloud" %}
 
