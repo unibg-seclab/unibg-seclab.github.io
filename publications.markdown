@@ -7,10 +7,10 @@ title: Publications
 
 {% include paper.html
    title="Dynamic Allocation for Resource Protection in Decentralized Cloud Storage"
-   image="https://cs.unibg.it/seclab-papers/2019/GLOBCOM/bdfprs-globecom2019.jpg"
+   image="https://cs.unibg.it/seclab-papers/2019/GLOBECOM/bdfprs-globecom2019.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
    venue="in Proc. of the 2019 IEEE Global Communications Conference (GLOBECOM 2019), Waikoloa, USA, December 9-13, 2019"
-   url="https://cs.unibg.it/seclab-papers/2019/GLOBCOM/bdfprs-globecom2019.pdf"
+   url="https://cs.unibg.it/seclab-papers/2019/GLOBECOM/bdfprs-globecom2019.pdf"
    icons="ion-cloud" %}
 
 {% include paper.html
