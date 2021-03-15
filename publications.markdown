@@ -7,6 +7,40 @@ title: Publications
 
 {% include paper.html
    title="Mix&Slice: Efficient Access Revocation in the Cloud"
+   image="https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.jpg"
+   authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
+   venue="in Proc. of the Cyber Security Awareness Week 2017 (CSAW 2017), Abu Dhabi, United Arab Emirates, November 9-11, 2017"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf\">Read the poster</a>"
+   github="https://github.com/unibg-seclab/aesmix"
+   icons="ion-cloud" %}
+
+{% include paper.html
+   title="EncSwift and Key Management: An Integrated Approach in an Industrial Setting"
+   image="https://cs.unibg.it/seclab-papers/2017/CNS/ers-cns2017.jpg"
+   authors="Enrico Bacis, Marco Rosa, Ali Sajjad"
+   venue="in Proc. of the 2017 IEEE Conference on Communications and Network Security (CNS 2017), Las Vegas, USA, October 9-11, 2017"
+   url="https://cs.unibg.it/seclab-papers/2017/CNS/ers-cns2017.pdf"
+   icons="ion-cloud" %}
+
+{% include paper.html
+   title="Distributed Shuffle Index: Analysis and Implementation in an Industrial Testbed"
+   image="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017.jpg"
+   authors="Enrico Bacis, Alan Barrnett, Andrew Byrne, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
+   venue="in Proc. of the 2017 IEEE Conference on Communications and Network Security (CNS 2017), Las Vegas, USA, October 9-11, 2017"
+   url="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017.pdf"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017-poster.pdf\">Read the poster</a>"
+   icons="ion-cloud" %}
+
+{% include paper.html
+   title="Distributed Shuffle Index in the Cloud: Implementation and Evaluation"
+   image="https://cs.unibg.it/seclab-papers/2017/CSCloud/bdfprs-cscloud2017.jpg"
+   authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
+   venue="in Proc. of the 4th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud 2017), New York, USA, June 26-28, 2017"
+   url="https://cs.unibg.it/seclab-papers/2017/CSCloud/bdfprs-cscloud2017.pdf"
+   icons="ion-cloud" %}
+
+{% include paper.html
+   title="Mix&Slice: Efficient Access Revocation in the Cloud"
    image="https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
    venue="in Proc. of the 23rd ACM Conference on Computer and Communication Security (CCS 2016), Vienna, Austria, October 24-28, 2016"
