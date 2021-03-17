@@ -49,9 +49,9 @@ title: People
 ### Alumni
 
 We would also like to thank all the alumni who collaborated to our projects. A special mention to:
-Marco Adobati, Marco Arrigoni, Giorgio Balduzzi, Michele Beretta, Davide Bernasconi, Davide Bottarelli,
-Brian Caglioni, Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina Centurelli, Marco Cereda, Davide Cesani, Simone Ciocca, Stefano Colombo, Lorenzo Conti, Alessandro Copler, Antonio Cosseddu, Gianluca Flaccadori,
-Alberto Gambarara, Stefano Ghisleni, Luca Ghislotti, Stefano Giannattasio, Michele Giovanelli, Kevin Gotti, Daniele Gregis, Sara Locatelli, Giada Mariani, Alessio Moraschini, Giovanni Nava,
-Gianluca Oldani, Simone Opreni,
-Andrea Paganessi, Umberto Paramento, Gabriele Paris, Simona Piazzi, Andrea Previtali,
+Marco Adobati, Riccardo Allegri, Marco Arrigoni, Giorgio Balduzzi, Matteo Balicco, Michele Beretta, Davide Bernasconi, Davide Bottarelli,
+Brian Caglioni, Luca Calomeni, Ivo Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina Centurelli, Marco Cereda, Davide Cesani, Simone Ciocca, Simone Colombi, Stefano Colombo, Lorenzo Conti, Alessandro Copler, Antonio Cosseddu, Gianluca Flaccadori,
+Alberto Gambarara, Stefano Ghisleni, Luca Ghislotti, Stefano Giannattasio, Michele Giovanelli, Kevin Gotti, Daniele Gregis, Sara Locatelli, Isaac Maffeis, Giada Mariani, Alessio Moraschini, Giovanni Nava,
+Simone Opreni,
+Andrea Paganessi, Luca Pansa, Umberto Paramento, Gabriele Paris, Simona Piazzi, Andrea Previtali, Daniele Ravasio,
 Daniel Rinaldi, Fabio Sangregorio, Matteo Stucchi, Leonardo Tasca, Davide Vimercati, Gianluca Viganò, Stefano Villa, Michele Zanchi, Matteo Zambelli and Youssef Zraiba.
