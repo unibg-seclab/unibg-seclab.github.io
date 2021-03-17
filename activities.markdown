@@ -1,6 +1,6 @@
 ---
 layout: default
-title: activities
+title: Attività
 ---
 
 {% include activity.html
