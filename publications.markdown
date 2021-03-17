@@ -13,7 +13,7 @@ title: Publications
    url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf"
    note="<a href=\"https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf\">Read the artifact</a>"
    github="https://github.com/mosaicrown/mondrian"
-   icons="ion-star-outline,ion-logo-docker" %}
+   icons="ion-star" %}
 
 {% include paper.html
    title="Dynamic Allocation for Resource Protection in Decentralized Cloud Storage"
