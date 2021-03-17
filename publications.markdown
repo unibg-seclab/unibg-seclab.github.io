@@ -6,6 +6,16 @@ title: Publications
 # Publications
 
 {% include paper.html
+   title="Scalable Distributed Data Anonymization"
+   image="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.jpg"
+   authors="Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati"
+   venue="in Proc. of 19th IEEE International Conference on Pervasive Computing and Communications (PerCom 2021), Kassel, Germany. March 22-26, 2021"
+   url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf\">Read the artifact</a>"
+   github="https://github.com/mosaicrown/mondrian"
+   icons="ion-star-outline,ion-logo-docker" %}
+
+{% include paper.html
    title="Dynamic Allocation for Resource Protection in Decentralized Cloud Storage"
    image="https://cs.unibg.it/seclab-papers/2019/GLOBECOM/bdfprs-globecom2019.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
@@ -17,7 +27,7 @@ title: Publications
    title="Multi-Provider Secure Processing of Sensors Data"
    image="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Giovanni Livraga, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
-   venue="in Proc. of the 2019 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom 2019), Kyoto, Japan, March 11-15, 2019"
+   venue="in Proc. of the 17th IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom 2019), Kyoto, Japan, March 11-15, 2019"
    url="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.pdf"
    note="<a href=\"https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization-poster.pdf\">Read the poster</a>"
    github="https://github.com/mosaicrown/query-opt"
@@ -27,7 +37,7 @@ title: Publications
    title="Securing Resources in Decentralized Cloud Storage"
    image="https://cs.unibg.it/seclab-papers/2019/TIFS/bdfprs-tifs.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
-   venue="in IEEE Transactions on Information Forensics and Security (TIFS 2019), vol. 15, 2019"
+   venue="in IEEE Transactions on Information Forensics and Security (TIFS 2019), May 14, 2019"
    url="https://cs.unibg.it/seclab-papers/2019/TIFS/bdfprs-tifs.pdf"
    icons="ion-cloud" %}
 
@@ -35,7 +45,7 @@ title: Publications
    title="Protecting Resources and Regulating Access in Cloud-Based Object Storage"
    image="https://cs.unibg.it/seclab-papers/2018/Sushil/bdfprs-accesscontrol.jpg"
    authors="Enrico Bacis, Sabrina De Capitani di Vimercati, Sara Foresti, Stefano Paraboschi, Marco Rosa, Pierangela Samarati"
-   venue="in From Database to Cyber Security. Lecture Notes in Computer Science, vol 11170. Springer, Cham."
+   venue="in From Database to Cyber Security: Essays Dedicated to Sushil Jajodia on the Occasion of his 70th Birthday, I. Ray, I. Ray, P. Samarati (eds.), Springer, 2018"
    url="https://cs.unibg.it/seclab-papers/2018/Sushil/bdfprs-accesscontrol.pdf"
    icons="ion-cloud" %}
 
