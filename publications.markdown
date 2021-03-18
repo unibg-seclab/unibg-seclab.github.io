@@ -89,7 +89,7 @@ title: Publications
    venue="in Proc. of the 23rd ACM Conference on Computer and Communication Security (CCS), Vienna, Austria, October 24-28, 2016"
    url="https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.pdf"
    bib="https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf\">Poster</a> (CSAW 2017)"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf\">Poster (CSAW 2017)</a>"
    github="https://github.com/unibg-seclab/aesmix"
    icons="ion-cloud" %}
 
