@@ -12,7 +12,7 @@ title: Publications
    venue="in Proc. of 19th IEEE International Conference on Pervasive Computing and Communications (PerCom), Kassel, Germany. March 22-26, 2021"
    url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf"
    bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf\">Read the artifact</a>"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf\">Artifact</a><a href=\"https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.bib\">[BibTex]</a>"
    github="https://github.com/mosaicrown/mondrian"
    icons="ion-star" %}
 
@@ -32,7 +32,7 @@ title: Publications
    venue="in Proc. of the 17th IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom), Kyoto, Japan, March 11-15, 2019"
    url="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.pdf"
    bib="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization-poster.pdf\">Read the poster</a>"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization-poster.pdf\">Poster</a>"
    github="https://github.com/mosaicrown/query-opt"
    icons="ion-cloud" %}
 
@@ -70,7 +70,7 @@ title: Publications
    venue="in Proc. of the 5th IEEE Conference on Communications and Network Security (CNS), Las Vegas, USA, October 9-11, 2017"
    url="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017.pdf"
    bib="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017-poster.pdf\">Read the poster</a>"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017-poster.pdf\">Poster</a>"
    icons="ion-cloud" %}
 
 {% include paper.html
@@ -89,7 +89,7 @@ title: Publications
    venue="in Proc. of the 23rd ACM Conference on Computer and Communication Security (CCS), Vienna, Austria, October 24-28, 2016"
    url="https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.pdf"
    bib="https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf\">Read the poster</a> (CSAW 2017)"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf\">Poster</a> (CSAW 2017)"
    github="https://github.com/unibg-seclab/aesmix"
    icons="ion-cloud" %}
 
@@ -155,7 +155,7 @@ title: Publications
    venue="in Proc. of the 3rd IEEE Conference on Communications and Network Security (CNS), Florence, Italy, September 28-30, 2015"
    url="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.pdf"
    bib="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.bib"
-   note="<u>IEEE CNS'15 Best Poster Award</u><br/><a href=\"https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall_poster.pdf\">Read the poster</a>"
+   note="<u>IEEE CNS'15 Best Poster Award</u><br/><a href=\"https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall_poster.pdf\">Poster</a>"
    icons="ion-ribbon-b,ion-social-android" %}
 
 {% include paper.html
@@ -165,7 +165,7 @@ title: Publications
    venue="in Proc. of the 3rd IEEE Conference on Communications and Network Security (CNS), Florence, Italy, September 28-30, 2015"
    url="https://cs.unibg.it/seclab-papers/2015/CNS/Docker.pdf"
    bib="https://cs.unibg.it/seclab-papers/2015/CNS/Docker.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2015/CNS/Docker_poster.pdf\">Read the poster</a>" %}
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2015/CNS/Docker_poster.pdf\">Poster</a>" %}
 
 {% include paper.html
    title="AppPolicyModules: Mandatory Access Control for Third-Party Apps"
