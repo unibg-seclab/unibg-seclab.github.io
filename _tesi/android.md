@@ -34,7 +34,7 @@ Per impedire alle applicazioni di effettuare operazioni non permesse,
 subentrano gli strati più alti del controllo: AP e DAC.
 
 Questo è un brutto esempio di defense in-depth, in quanto lo strato superiore
-risulta più restrittivo di quello inferiore e per altro viola anche il
+risulta più restrittivo di quello inferiore e peraltro viola anche il
 principio del privilegio minimo.
 
 <img class="img-responsive center-block"
