@@ -44,11 +44,11 @@ principio del privilegio minimo.
 
 ### PREREQUISITI
 
-* Ottima conoscenza di Kotlin / Java e della programmazione ad oggetti
+* Buona conoscenza di Kotlin / Java e della programmazione ad oggetti
 
 * Conoscenza (base) dei principi di funzionamento di SELinux
 
-* *\[opzionale\]* Esperienza di lavoro su grandi code base
+* *[Consigliato]* Esperienza di lavoro su grandi code base
 
 ----
 
