@@ -3,7 +3,7 @@ title: Mix&Slice
 category: security
 layout: sidebar-left
 sidebar: sidebars/tesi.html
-published: true
+published: false
 ---
 
 # Mix&Slice
