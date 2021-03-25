@@ -12,9 +12,19 @@ title: Publications
    venue="in Proc. of 19th IEEE International Conference on Pervasive Computing and Communications (PerCom), Kassel, Germany. March 22-26, 2021"
    url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf"
    bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf\">Artifact</a> <a href=\"https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.bib\">[BibTex]</a>"
    github="https://github.com/mosaicrown/mondrian"
    icons="ion-star" %}
+
+{% include paper.html
+   title="Artifact: Scalable Distributed Data Anonymization"
+   image="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.jpg"
+   authors="Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati"
+   venue="in Proc. of 19th IEEE International Conference on Pervasive Computing and Communications (PerCom), Kassel, Germany. March 22-26, 2021"
+   url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.bib"
+   note="<u>IEEE PerCom'21 Best Artifact Award</u>"
+   github="https://github.com/mosaicrown/mondrian"
+   icons="ion-ribbon-b,ion-star" %}
 
 {% include paper.html
    title="Dynamic Allocation for Resource Protection in Decentralized Cloud Storage"
