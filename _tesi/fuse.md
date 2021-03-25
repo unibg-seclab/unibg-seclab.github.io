@@ -1,12 +1,12 @@
 ---
-title: Filesystem in Userspace (FUSE)
+title: Mix&Slice virtual filesystem
 category: security
 layout: sidebar-left
 sidebar: sidebars/tesi.html
 published: true
 ---
 
-# Filesystem in Userspace (FUSE)
+# Mix&Slice virtual filesystem
 
 ----
 
@@ -81,6 +81,6 @@ in ramfs.
 
 ----
 
-_**Progetto Bonus**: se hai letto la guida su come creare un proprio file
-system con FUSE e sei rimasto folgorato dall’idea di poterne realizzare uno tuo
-con le funzionalità che hai sempre sognato, vieni a parlarci in ufficio._
+_**Progetto Bonus**: se hai letto il funzionamento di FUSE e sei rimasto
+folgorato dall’idea di poter realizzare uno tuo file system virtuale con le
+funzionalità che hai sempre sognato, vieni a parlarci in ufficio._
