@@ -6,6 +6,16 @@ title: Publications
 # Publications
 
 {% include paper.html
+   title="SEApp: Bringing Mandatory Access Control to Android Apps"
+   image="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.jpg"
+   authors="Matthew Rossi, Dario Facchinetti, Enrico Bacis, Marco Rosa, Stefano Paraboschi"
+   venue="in Proc. of 30th USENIX Security Symposium (USENIX Security), Virtual. August 11-13, 2021"
+   url="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.bib"
+   github="https://github.com/matthewrossi/seapp"
+   icons="ion-social-android" %}
+
+{% include paper.html
    title="Scalable Distributed Data Anonymization"
    image="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.jpg"
    authors="Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati"
