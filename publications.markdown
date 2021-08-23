@@ -6,6 +6,16 @@ title: Publications
 # Publications
 
 {% include paper.html
+   title="I Told You Tomorrow: Practical Time-Locked Secrets using Smart Contracts"
+   image="https://cs.unibg.it/seclab-papers/2021/ARES/ityt.jpg"
+   authors="Enrico Bacis, Dario Facchinetti, Marco Rosa, Matthew Rossi, Stefano Paraboschi"
+   venue="in Proc. of the 16th International Conference on Availability, Reliability and Security (ARES), Virtual. August 17-20, 2021"
+   url="https://cs.unibg.it/seclab-papers/2021/ARES/ityt.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2021/ARES/ityt.bib"
+   github="https://github.com/unibg-seclab/ityt"
+   icons="ion-android-lock" %}
+
+{% include paper.html
    title="SEApp: Bringing Mandatory Access Control to Android Apps"
    image="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.jpg"
    authors="Matthew Rossi, Dario Facchinetti, Enrico Bacis, Marco Rosa, Stefano Paraboschi"
@@ -32,7 +42,7 @@ title: Publications
    venue="in Proc. of 19th IEEE International Conference on Pervasive Computing and Communications (PerCom), Kassel, Germany. March 22-26, 2021"
    url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf"
    bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.bib"
-   note="<u>IEEE PerCom'21 Best Artifact Award</u>"
+   note="<a href='https://cs.unibg.it/seclab-papers/2021/PerCom/best-artifact-award-certificate.pdf'><u>IEEE PerCom'21 Best Artifact Award</u></a>"
    github="https://github.com/mosaicrown/mondrian"
    icons="ion-ribbon-b,ion-star" %}
 
