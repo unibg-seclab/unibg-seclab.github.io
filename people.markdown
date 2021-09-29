@@ -52,18 +52,19 @@ We would also like to thank all the alumni who collaborated to our
 projects. A special mention to: Marco Abbadini, Marco Adobati,
 Riccardo Allegri, Marco Arrigoni, Giorgio Balduzzi, Matteo Balicco,
 Michele Beretta, Davide Bernasconi, Jacopo Boffelli, Amine Bikhtancer,
-Davide Bottarelli, Brian Caglioni, Luca Calomeni, Ivo Carminati, Paolo
-Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina Centurelli,
-Marco Cereda, Davide Cesani, Simone Ciocca, Simone Colombi, Stefano
-Colombo, Lorenzo Conti, Alessandro Copler, Michele Coretti, Antonio
-Cosseddu, Samuele Ferri, Gianluca Flaccadori, Andrea Galiani, Alberto
-Gambarara, Stefano Ghisleni, Luca Ghislotti, Stefano Giannattasio,
-Michele Giovanelli, Kevin Gotti, Laura Gozzi, Daniele Gregis,
-Locatelli Michele, Locatelli Nicholas, Sara Locatelli, Luca Lorenzi,
-Isaac Maffeis, Luca Maffioletti, Fabio Mandalari, Giada Mariani,
-Alessio Moraschini, Giovanni Nava, Simone Opreni, Andrea Paganessi,
-Umberto Paramento, Andrea Patelli, Gabriele Paris, Enrico Pedemonti,
-Simona Piazzi, Andrea Previtali, Daniele Ravasio, Daniel Rinaldi,
-Mauro Riva, Fabio Sangregorio, Francesco Strazzante, Matteo Stucchi,
-Leonardo Tasca, Toure Pape Alpha, Davide Vimercati, Gianluca Viganò,
-Stefano Villa, Michele Zanchi, Matteo Zambelli and Youssef Zraiba.
+Davide Bottarelli, Brian Caglioni, Luca Calomeni, Federico Carne, Ivo
+Carminati, Paolo Carrara, Andrea Cattaneo, Stefano Cattaneo, Valentina
+Centurelli, Marco Cereda, Davide Cesani, Simone Ciocca, Simone
+Colombi, Stefano Colombo, Lorenzo Conti, Alessandro Copler, Michele
+Coretti, Antonio Cosseddu, Samuele Ferri, Gianluca Flaccadori, Andrea
+Galiani, Alberto Gambarara, Stefano Ghisleni, Luca Ghislotti, Stefano
+Giannattasio, Michele Giovanelli, Kevin Gotti, Laura Gozzi, Daniele
+Gregis, Locatelli Michele, Locatelli Nicholas, Sara Locatelli, Luca
+Lorenzi, Isaac Maffeis, Luca Maffioletti, Fabio Mandalari, Giada
+Mariani, Alessio Moraschini, Giovanni Nava, Simone Opreni, Andrea
+Paganessi, Umberto Paramento, Andrea Patelli, Gabriele Paris, Enrico
+Pedemonti, Simona Piazzi, Andrea Previtali, Daniele Ravasio, Daniel
+Rinaldi, Mauro Riva, Fabio Sangregorio, Francesco Strazzante, Matteo
+Stucchi, Leonardo Tasca, Toure Pape Alpha, Davide Vimercati, Gianluca
+Viganò, Stefano Villa, Michele Zanchi, Matteo Zambelli and Youssef
+Zraiba.
