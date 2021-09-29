@@ -60,7 +60,7 @@ Coretti, Antonio Cosseddu, Samuele Ferri, Gianluca Flaccadori, Andrea
 Galiani, Alberto Gambarara, Stefano Ghisleni, Luca Ghislotti, Stefano
 Giannattasio, Michele Giovanelli, Kevin Gotti, Laura Gozzi, Daniele
 Gregis, Locatelli Michele, Locatelli Nicholas, Sara Locatelli, Luca
-Lorenzi, Isaac Maffeis, Luca Maffioletti, Fabio Mandalari, Giada
+Lorenzi, Isaac Maffeis, Gianluca Maffioletti, Fabio Mandalari, Giada
 Mariani, Alessio Moraschini, Giovanni Nava, Simone Opreni, Andrea
 Paganessi, Umberto Paramento, Andrea Patelli, Gabriele Paris, Enrico
 Pedemonti, Simona Piazzi, Andrea Previtali, Daniele Ravasio, Daniel
