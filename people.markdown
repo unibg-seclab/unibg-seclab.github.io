@@ -25,6 +25,11 @@ title: People
   name="Gianluca Oldani"
   image="/assets/people/gianluca.jpg"
   description="Gianluca Oldani is a PhD student at Università degli Studi di Bergamo since October 2020. The main focuses of his work are distributed/decentralized system, policy management and privacy in data market scenarios. He enjoys experimenting various web frameworks and solving competitive programming problems. His non-work interests are videogames and role-playing games." %}
+  
+{% include person.html
+  name="Marco Abbadini"
+  image="/assets/people/marco.jpg"
+  description="Marco Abbadini is a PhD student at Università degli Studi di Bergamo since October 2021. He's interested in operating systems security, cryptography and privacy. He likes programming and learning new things." %}
 
 ### Former members
 
