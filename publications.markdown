@@ -31,7 +31,7 @@ title: Publications
    venue="in Proc. of 30th USENIX Security Symposium (USENIX Security), Virtual. August 11-13, 2021"
    url="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.pdf"
    bib="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.bib"
-   note="<a href='https://cs.unibg.it/seclab-papers/2021/CSAW/seapp-poster.pdf'>Poster (CSAW 2021)</a><a href='https://cs.unibg.it/seclab-papers/2021/CSAW/arc-finalist-certificate.pdf'><u>CSAW 2021 Applied Research Competition Finalist</u></a>"
+   note="<a href='https://cs.unibg.it/seclab-papers/2021/CSAW/seapp-poster.pdf'>Poster</a><br><a href='https://cs.unibg.it/seclab-papers/2021/CSAW/arc-finalist-certificate.pdf'><u>CSAW 2021 Applied Research Competition Finalist</u></a>"
    github="https://github.com/matthewrossi/seapp"
    icons="ion-social-android" %}
 
@@ -129,7 +129,7 @@ title: Publications
    venue="in Proc. of the 23rd ACM Conference on Computer and Communication Security (CCS), Vienna, Austria, October 24-28, 2016"
    url="https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.pdf"
    bib="https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.bib"
-   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf\">Poster (CSAW 2017)</a>"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf\">Poster</a><br/><u>CSAW 2017 Applied Research Competition Finalist</u>"
    github="https://github.com/unibg-seclab/aesmix"
    icons="ion-cloud" %}
 
@@ -195,7 +195,7 @@ title: Publications
    venue="in Proc. of the 3rd IEEE Conference on Communications and Network Security (CNS), Florence, Italy, September 28-30, 2015"
    url="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.pdf"
    bib="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.bib"
-   note="<u>IEEE CNS'15 Best Poster Award</u><br/><a href=\"https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall_poster.pdf\">Poster</a>"
+   note="<a href=\"https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall_poster.pdf\">Poster</a><br/><u>IEEE CNS'15 Best Poster Award</u>"
    icons="ion-ribbon-b,ion-social-android" %}
 
 {% include paper.html
