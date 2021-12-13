@@ -31,6 +31,7 @@ title: Publications
    venue="in Proc. of 30th USENIX Security Symposium (USENIX Security), Virtual. August 11-13, 2021"
    url="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.pdf"
    bib="https://cs.unibg.it/seclab-papers/2021/USENIX/seapp.bib"
+   note="<a href='https://cs.unibg.it/seclab-papers/2021/CSAW/seapp-poster.pdf'>Poster (CSAW 2021)</a><a href='https://cs.unibg.it/seclab-papers/2021/CSAW/arc-finalist-certificate.pdf'><u>CSAW 2021 Applied Research Competition Finalist</u></a>"
    github="https://github.com/matthewrossi/seapp"
    icons="ion-social-android" %}
 
