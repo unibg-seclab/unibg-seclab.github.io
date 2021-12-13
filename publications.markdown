@@ -6,6 +6,15 @@ title: Publications
 # Publications
 
 {% include paper.html
+   title="Multi-Dimensional Indexes for Point and Range Queries on Outsourced Encrypted Data"
+   image="https://cs.unibg.it/seclab-papers/2021/GLOBECOM/multi-dimensional-indexes.jpg"
+   authors="Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati"
+   venue="in Proc. of the 2021 IEEE Global Communications Conference (GLOBECOM), Madrid, Spain. December 7-11, 2021"
+   url="https://cs.unibg.it/seclab-papers/2021/GLOBECOM/multi-dimensional-indexes.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2021/GLOBECOM/multi-dimensional-indexes.bib"
+   icons="ion-cloud" %}
+
+{% include paper.html
    title="I Told You Tomorrow: Practical Time-Locked Secrets using Smart Contracts"
    image="https://cs.unibg.it/seclab-papers/2021/ARES/ityt.jpg"
    authors="Enrico Bacis, Dario Facchinetti, Marco Rosa, Matthew Rossi, Stefano Paraboschi"
