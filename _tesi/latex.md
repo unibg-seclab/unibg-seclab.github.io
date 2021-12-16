@@ -3,7 +3,7 @@ title: Latex Proofreading Plugin
 category: sweng
 layout: sidebar-left
 sidebar: sidebars/tesi.html
-published: true
+published: false
 ---
 
 # Latex Proofreading Plugin
