@@ -72,4 +72,5 @@ dipartimento o una intera università.
 
 _**Progetto Bonus**: se l'idea di lavorare su dati relativi alla produzione
 scientifica ha riscosso il tuo interesse e hai qualche idea innovativa
-riguardante la loro analisi, vieni a parlarci in ufficio.
+riguardante la loro analisi, vieni a parlarcene. Siamo sempre aperti a nuove
+idee e progetti interessanti._

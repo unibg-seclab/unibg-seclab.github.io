@@ -83,4 +83,5 @@ in ramfs.
 
 _**Progetto Bonus**: se hai letto il funzionamento di FUSE e sei rimasto
 folgorato dall’idea di poter realizzare uno tuo file system virtuale con le
-funzionalità che hai sempre sognato, vieni a parlarci in ufficio._
+funzionalità che hai sempre sognato, vieni a parlarcene. Siamo sempre aperti a
+nuove idee e progetti interessanti._

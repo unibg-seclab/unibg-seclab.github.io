@@ -3,7 +3,7 @@ title: Netcoin
 category: sweng
 layout: sidebar-left
 sidebar: sidebars/tesi.html
-published: true
+published: false
 ---
 
 # Netcoin
@@ -62,4 +62,5 @@ problemi di censura o di blocco dei contenuti.
 
 _**Progetto Bonus**: se hai letto la guida sul creare la proprio cryptocurrency
 con Ethereum, sei rimasto folgorato dall’idea degli smart contracts e hai una
-idea rivoluzionaria su come utilizzarli, vieni a parlarci in ufficio._
+idea rivoluzionaria su come utilizzarli, vieni a parlarcene. Siamo sempre
+aperti a nuove idee e progetti interessanti._
