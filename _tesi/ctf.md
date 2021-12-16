@@ -3,7 +3,7 @@ title: Security CTF Tools
 category: security
 layout: sidebar-left
 sidebar: sidebars/tesi.html
-published: true
+published: false
 ---
 
 # Security CTF Tools
@@ -81,3 +81,10 @@ team, mandaci una mail._
         come non valide o già inviate.~~
     -   ~~Costruire una classifica interna su chi è riuscito a fare più punti
         con gli attacchi, e presentarla con un'interfaccia.~~
+
+----
+
+_**Progetto Bonus**: se sei un appassionato del mondo delle CTF e hai qualche
+idea riguardante la realizzazione di tool a supporto dell'identificazione di
+vulnerabilità sia in ambito binary che web, vieni a parlarcene. Siamo sempre
+aperti a nuove idee e progetti interessanti._
