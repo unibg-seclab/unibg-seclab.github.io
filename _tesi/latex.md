@@ -21,13 +21,11 @@ non vengono però individuati dagli strumenti tradizionali come:
 * Utilizzo scorretto delle liste
 * Inconsistenza nei titoli delle figure e tabelle
 
-
 ----
 
 ### PREREQUISITI
 
 * Conoscenza e utilizzo di LaTeX
-
 
 ----
 
@@ -40,7 +38,7 @@ Il tool dovrà essere in grado di:
 
 Il tool potrà essere creato come:
 
-* **_[Triennale]_** Tool esterno all’ambiente LaTeX
-  * **_[Requisito aggiuntivo per tesi Magistrale]_** Creazione di un pacchetto
+* ~~**_[Triennale]_** Tool esterno all’ambiente LaTeX~~
+  * ~~**_[Requisito aggiuntivo per tesi Magistrale]_** Creazione di un pacchetto
     LaTeX (che può anche invocare il tool esterno) in modo da automatizzare il
-    controllo durante la compilazione.
+    controllo durante la compilazione.~~
