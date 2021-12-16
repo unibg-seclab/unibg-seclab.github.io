@@ -21,7 +21,6 @@ analisi per singole persone, ma pochi destinati alla visione complessiva della
 produzione di un gruppo di persone quale può essere un gruppo di ricerca, un
 dipartimento o una intera università.
 
-
 ----
 
 ### PREREQUISITI
@@ -34,7 +33,6 @@ dipartimento o una intera università.
 
 * _[Consigliato]_ Esperienza di costruzione di interfacce grafiche (dashboard)
 
-
 ----
 
 ### MATERIALE
@@ -45,12 +43,11 @@ dipartimento o una intera università.
 * SOAP Client for querying the Web of Science database:
   [https://github.com/enricobacis/wos](https://github.com/enricobacis/wos)
 
-
 ----
 
 ### PROGETTO DI TESI
 
-* **_[Triennale]_** Il tool che si vuole sviluppare prevede di gestire diverse
+* ~~**_[Triennale]_** Il tool che si vuole sviluppare prevede di gestire diverse
   funzionalità tramite una interfaccia grafica che permetta di:
 
   * Gestione del gruppo di persone in maniera persistente tramite un database
@@ -69,4 +66,4 @@ dipartimento o una intera università.
     la procedura in modo da recuperare e salvare automaticamente nel database
     l’identificativo partendo dalle informazioni presenti, in caso di omonimia
     cercare di identificare automaticamente l’elemento corretto o mostrare
-    all’utente le informazioni in modo da permettere la selezione manuale.
+    all’utente le informazioni in modo da permettere la selezione manuale.~~
