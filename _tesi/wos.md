@@ -67,3 +67,9 @@ dipartimento o una intera università.
     l’identificativo partendo dalle informazioni presenti, in caso di omonimia
     cercare di identificare automaticamente l’elemento corretto o mostrare
     all’utente le informazioni in modo da permettere la selezione manuale.~~
+
+----
+
+_**Progetto Bonus**: se l'idea di lavorare su dati relativi alla produzione
+scientifica ha riscosso il tuo interesse e hai qualche idea innovativa
+riguardante la loro analisi, vieni a parlarci in ufficio.
