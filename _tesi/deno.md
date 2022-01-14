@@ -11,7 +11,7 @@ published: true
 ----
 
 [Deno](https://deno.land/) è un runtime JavaScript nato
-nato con l'obiettivo di migliorare alcuni delle mancanze 
+ con l'obiettivo di migliorare alcune delle mancanze 
 presenti in [node.js](https://deno.land/) e, allo stesso tempo, 
 offrire un ambiente più moderno ed efficiente. 
 
