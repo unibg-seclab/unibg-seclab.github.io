@@ -1,34 +1,39 @@
 ---
 layout: default
-title: Google Hash Code 2021
+title: Google Hash Code 2022
+redirect_from:
+  - /hashcode
+  - /activity/hashcode
 ---
 
 <img class="img-responsive center-block"
-     src="/assets/activities/hashcode/hashcode-2021.jpg" />
+     src="/assets/activities/hashcode/hashcode-2022.png" />
 <br>
 
 [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di
 programmazione a squadre organizzata da Google per studenti e professionisti in
-Europa, Medio Oriente e Africa. Si forma una squadra e si sceglie il linguaggio
-di programmazione per risolvere un problema assegnato dagli organizzatori. Ogni
-team è formato da un minimo di 2 ad un massimo di 4 persone.
+Europa, Medio Oriente e Africa.
+Partecipa e crea la tua squadra (da 2 a 4 persone) per affrontare al meglio il
+problema assegnato dagli organizzatori.
 
-La fase di qualificazione si terrà **giovedì 25 febbraio 2021** dalle **18:30**
+La fase di qualificazione si terrà **giovedì 24 febbraio 2022** dalle **18:30**
 alle **22:30**. Non è necessario essere in un luogo preciso per partecipare, la
 qualificazione infatti avviene online.
 
 Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
-lo hub *Università degli Studi di Bergamo*.
-Quest'anno, a causa della situazione Covid 19, non potremo vederci di persona e
-dovremo limitarci alla sola collaborazione virtuale.
+lo hub *Università degli Studi di Bergamo*.
+Quest'anno, come l'anno scorso, causa Covid non potremo organizzare l'evento
+all'interno della sede universitaria, pertanto l'hub sarà virtuale.
 
 Partecipando avrai accesso ad una scoreboard per vedere come si classifica la
 tua squadra rispetto ai tuoi amici e colleghi, il che è un ottimo modo per
 rendere la competizione più divertente!
+Non vorrai perdere l'occasione di vantarti di essere nel miglior team di
+programmazione dell'università, non è vero?!?
 
 Con l'obiettivo di favorire interazioni tra i membri dello hub e la
 collaborazione tra i membri di ogni team abbiamo creato un Workspace di Slack
-[UniBG Virtual Hub - Hash Code 2021](https://unibg-virtual-hub.slack.com) al
+[UniBG Virtual Hub - Hash Code 2022](https://unibg-virtual-hub.slack.com) al
 quale verrete invitati una volta registrati allo hub.
 
 Speriamo che nonostante le evidenti limitazioni e l'impossibilità di mangiarci
@@ -38,8 +43,7 @@ una pizza tutti insieme parteciperete anche quest'anno numerosi.
 
 ## Iscrizione
 
-
-Per registravi, dovete fare le seguenti azioni entro il **24 febbraio**:
+Per registravi, dovete fare le seguenti azioni entro il **23 febbraio**:
 
 <br>
 
@@ -47,7 +51,7 @@ Per registravi, dovete fare le seguenti azioni entro il **24 febbraio**:
    <https://g.co/hashcode>.
    La conferma della registrazione potrebbe richiedere fino a 24 ore.
 
-2. Registrare il nome del team alla pagina <https://hashcodejudge.withgoogle.com>.
+2. Registrare il nome del team alla pagina <https://codingcompetitions.withgoogle.com/hashcode/teammanagement>.
 
 3. Iscrivere il proprio team all'hub *Università degli Studi di Bergamo*.
 
@@ -57,8 +61,9 @@ Per registravi, dovete fare le seguenti azioni entro il **24 febbraio**:
 <br>
 
 Dopo esservi registrati, potrete trovare un problema di esempio alla pagina
-<https://hashcodejudge.withgoogle.com>. Vi consigliamo di guardarlo,
-provare a risolverlo, e sottomettere le vostre soluzioni.
+<https://codingcompetitions.withgoogle.com/hashcode/round/00000000008f5ca9>. Vi consigliamo di guardarlo,
+provare a risolverlo, sottomettere le vostre soluzioni e condividerle sul
+canale Slack dedicato allo hub.
 
 --------------------------------------------------------------------------------
 

@@ -4,6 +4,23 @@ title: Attività
 ---
 
 {% include activity.html
+   title="Google Hash Code 2022"
+   details="24 febbraio 2022 (18:30 - 22:30) @ UniBG Virtual Hub"
+   image="/assets/activities/hashcode/hashcode-2022.png"
+   website="/activity/hashcode_2022"
+   description=
+"[Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di
+programmazione a squadre organizzata da Google per studenti e professionisti in
+Europa, Medio Oriente e Africa.
+Partecipa e crea la tua squadra (da 2 a 4 persone) per affrontare al meglio il
+problema assegnato dagli organizzatori.
+
+Visto il successo delle scorse edizioni, anche quest’anno il Seclab organizzerà
+un hub. Non potendo organizzare eventi all'interno della sede universitaria,
+causa Covid, l'hub sarà virtuale."
+%}
+
+{% include activity.html
    title="Google Hash Code 2021"
    details="25 febbraio 2021 (18:30 - 22:30) @ UniBG Virtual Hub"
    image="/assets/activities/hashcode/hashcode-2021.jpg"
@@ -49,7 +66,6 @@ Europa, Medio Oriente e Africa. Unibg Seclab ha organizzato uno hub in UniBG
 per permettere agli studenti di partecipare alla gara."
 %}
 
-
 {% include activity.html
    title="Google Hash Code 2018"
    details="1 marzo 2018 (18:00 - 22:30) @ Aula studi edificio C (Dalmine)"
@@ -67,7 +83,6 @@ hub nella sede di Dalmine di UniBG da cui più gli studenti potranno partecipare
 alla competizione."
 %}
 
-
 {% include activity.html
    title="Cybersecurity @ BergamoScienza"
    details="26 marzo 2017 (ore 20:30) - Bergamo Science Center - via Papa Giovanni XXIII, 57 (Bergamo)"
@@ -83,7 +98,6 @@ Giovanni XXIII, 57**.
 Puoi trovare le slides presentate durante l'evento
 [qui]( https://speakerdeck.com/seclab/cybersecurity-at-bergamoscienza)."
 %}
-
 
 {% include activity.html
    title="Google Hash Code 2017"
