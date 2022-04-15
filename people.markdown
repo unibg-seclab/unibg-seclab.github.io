@@ -62,19 +62,20 @@ We would also like to thank all the alumni who collaborated to our
 projects. A special mention to: Abbadini Marco, Adobati Marco, Allegri
 Riccardo, Arrigoni Marco, Balduzzi Giorgio, Balicco Matteo, Beretta
 Michele, Bernasconi Davide, Boffelli Jacopo, Bikhtancer Amine,
-Bottarelli Davide, Caglioni Brian, Calomeni Luca, Carne Federico,
-Carminati Ivo, Carrara Paolo, Cattaneo Andrea, Cattaneo Stefano,
-Centurelli Valentina, Cereda Marco, Cesani Davide, Ciocca Simone,
-Colombi Simone, Colombo Stefano, Conti Lorenzo, Copler Alessandro,
-Coretti Michele, Cosseddu Antonio, Ferri Samuele, Flaccadori Gianluca,
-Galiani Andrea, Gambarara Alberto, Ghisleni Stefano, Ghislotti Luca,
-Giannattasio Stefano, Giovanelli Michele, Gotti Kevin, Gozzi Laura,
-Gregis Daniele, Lazzari Filippo, Locatelli Michele, Locatelli
-Nicholas, Locatelli Sara, Lorenzi Luca, Maffeis Isaac, Maffioletti
-Gianluca, Mandalari Fabio, Mariani Giada, Moraschini Alessio, Nava
-Giovanni, Opreni Simone, Paganessi Andrea, Paramento Umberto, Patelli
-Andrea, Paris Gabriele, Pedemonti Enrico, Piazzi Simona, Pelliccioli
-Diego, Previtali Andrea, Ravasio Daniele, Rinaldi Daniel, Riva Mauro,
-Sangregorio Fabio, Strazzante Francesco, Stucchi Matteo, Tasca
-Leonardo, Toure Pape Alpha, Vimercati Davide, Viganò Gianluca, Villa
-Stefano, Zanchi Michele, Zambelli Matteo and Zraiba Youssef.
+Bottarelli Davide, Bravo Irente, Caglioni Brian, Calomeni Luca, Carne
+Federico, Carminati Ivo, Carrara Paolo, Cattaneo Andrea, Cattaneo
+Stefano, Centurelli Valentina, Cereda Marco, Cesani Davide, Ciocca
+Simone, Colombi Simone, Colombo Stefano, Conti Lorenzo, Copler
+Alessandro, Coretti Michele, Cosseddu Antonio, Dentella Michele, Ferri
+Samuele, Flaccadori Gianluca, Galiani Andrea, Gambarara Alberto,
+Ghisleni Stefano, Ghislotti Luca, Giannattasio Stefano, Giovanelli
+Michele, Gotti Kevin, Gozzi Laura, Gregis Daniele, Lazzari Filippo,
+Locatelli Michele, Locatelli Nicholas, Locatelli Sara, Lorenzi Luca,
+Maffeis Isaac, Maffioletti Gianluca, Mandalari Fabio, Mariani Giada,
+Moraschini Alessio, Nava Giovanni, Opreni Simone, Paganessi Andrea,
+Paramento Umberto, Patelli Andrea, Paris Gabriele, Pedemonti Enrico,
+Perico Emanuele, Piazzi Simona, Pelliccioli Diego, Previtali Andrea,
+Ravasio Daniele, Rinaldi Daniel, Riva Mauro, Sardi Dario, Sangregorio
+Fabio, Strazzante Francesco, Stucchi Matteo, Tasca Leonardo, Toure
+Pape Alpha, Vimercati Davide, Viganò Gianluca, Villa Stefano, Zanchi
+Michele, Zambelli Matteo and Zraiba Youssef.
