@@ -6,6 +6,16 @@ title: Publications
 # Publications
 
 {% include paper.html
+   title="Scalable Distributed Data Anonymization for Large Datasets"
+   image="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.jpg"
+   authors="Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Giovanni Livraga, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati"
+   venue="in IEEE Transactions on Big Data (TDB), September 19, 2022"
+   url="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.bib"
+   github="https://github.com/mosaicrown/mondrian"
+   icons="ion-star" %}
+
+{% include paper.html
    title="Multi-Dimensional Indexes for Point and Range Queries on Outsourced Encrypted Data"
    image="https://cs.unibg.it/seclab-papers/2021/GLOBECOM/multi-dimensional-indexes.jpg"
    authors="Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati"
