@@ -62,20 +62,20 @@ We would also like to thank all the alumni who collaborated to our
 projects. A special mention to: Abbadini Marco, Adobati Marco, Allegri
 Riccardo, Arrigoni Marco, Balduzzi Giorgio, Balicco Matteo, Beretta
 Michele, Bernasconi Davide, Andrea Bianchetti, Bikhtancer Amine,
-Boffelli Jacopo, Filippo Bordogna, Bottarelli Davide, Bravo Irente,
+Boffelli Jacopo, Filippo Bordogna, Bottarelli Davide, Bravo Irente, Brembilla Luca,
 Caglioni Brian, Calomeni Luca, Carne Federico, Carminati Ivo, Carrara
-Paolo, Cattaneo Andrea, Cattaneo Stefano, Centurelli Valentina, Cereda
+Paolo, Cattaneo Andrea, Cattaneo Stefano, Cavagna Stefano, Centurelli Valentina, Cereda
 Marco, Cesani Davide, Ciocca Simone, Colombi Simone, Colombo Stefano,
 Conti Lorenzo, Copler Alessandro, Coretti Michele, Cosseddu Antonio,
 Dentella Michele, Ferri Samuele, Fioretti Luca, Flaccadori Gianluca,
 Galiani Andrea, Gambarara Alberto, Ghisleni Stefano, Ghislotti Luca,
 Giannattasio Stefano, Giovanelli Michele, Gotti Kevin, Gozzi Laura,
-Gregis Daniele, Lazzari Filippo, Locatelli Michele, Locatelli
+Gregis Daniele, Inglese Luca, Lazzari Filippo, Lenuzza Benedetta, Locatelli Michele, Locatelli
 Nicholas, Locatelli Sara, Lorenzi Luca, Maffeis Isaac, Maffioletti
 Gianluca, Mandalari Fabio, Mariani Giada, Moraschini Alessio, Nava
 Giovanni, Opreni Simone, Paganessi Andrea, Paramento Umberto, Patelli
 Andrea, Paris Gabriele, Pedemonti Enrico, Perico Emanuele, Piazzi
-Simona, Pelliccioli Diego, Previtali Andrea, Ravasio Daniele, Rinaldi
+Simona, Pelliccioli Diego, Previtali Andrea, Ravasio Daniele, Rebussi Andrea, Rinaldi
 Daniel, Riva Mauro, Sardi Dario, Sangregorio Fabio, Strazzante
 Francesco, Stucchi Matteo, Tasca Leonardo, Toure Pape Alpha, Vimercati
 Davide, Viganò Gianluca, Villa Stefano, Zanchi Michele, Zambelli
