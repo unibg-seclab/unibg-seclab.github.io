@@ -73,7 +73,7 @@ Giannattasio Stefano, Giovanelli Michele, Gotti Kevin, Gozzi Laura,
 Gregis Daniele, Inglese Luca, Lazzari Filippo, Lenuzza Benedetta, Locatelli Michele, Locatelli
 Nicholas, Locatelli Sara, Lorenzi Luca, Maffeis Isaac, Maffioletti
 Gianluca, Mandalari Fabio, Mariani Giada, Moraschini Alessio, Nava
-Giovanni, Opreni Simone, Paganessi Andrea, Paramento Umberto, Patelli
+Giovanni, Opreni Simone, Paganessi Andrea, Palazzi Fabio, Paramento Umberto, Patelli
 Andrea, Paris Gabriele, Pedemonti Enrico, Perico Emanuele, Piazzi
 Simona, Pelliccioli Diego, Previtali Andrea, Ravasio Daniele, Rebussi Andrea, Rinaldi
 Daniel, Riva Mauro, Sardi Dario, Sangregorio Fabio, Strazzante
