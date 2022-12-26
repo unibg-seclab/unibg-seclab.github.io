@@ -70,7 +70,7 @@ Conti Lorenzo, Copler Alessandro, Coretti Michele, Cosseddu Antonio,
 Dentella Michele, Ferri Samuele, Fioretti Luca, Flaccadori Gianluca,
 Galiani Andrea, Gambarara Alberto, Ghisleni Stefano, Ghislotti Luca,
 Giannattasio Stefano, Giovanelli Michele, Gotti Kevin, Gozzi Laura,
-Gregis Daniele, Inglese Luca, Lazzari Filippo, Lenuzza Benedetta, Locatelli Michele, Locatelli
+Gregis Daniele, Inglese Luca, Jurca Sergiu Valentin, Lazzari Filippo, Lenuzza Benedetta, Locatelli Michele, Locatelli
 Nicholas, Locatelli Sara, Lorenzi Luca, Maffeis Isaac, Maffioletti
 Gianluca, Mandalari Fabio, Mariani Giada, Moraschini Alessio, Nava
 Giovanni, Opreni Simone, Paganessi Andrea, Palazzi Fabio, Paramento Umberto, Patelli
