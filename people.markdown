@@ -62,7 +62,7 @@ We would also like to thank all the alumni who collaborated to our
 projects. A special mention to: Abbadini Marco, Adobati Marco, Allegri
 Riccardo, Arrigoni Marco, Balduzzi Giorgio, Balicco Matteo, Beretta
 Michele, Bernasconi Davide, Andrea Bianchetti, Bikhtancer Amine,
-Boffelli Jacopo, Filippo Bordogna, Bottarelli Davide, Bravo Irente, Brembilla Andrea, Brembilla Luca,
+Boffelli Jacopo, Filippo Bordogna, Bottarelli Davide, Bravo Irene, Brembilla Andrea, Brembilla Luca,
 Caglioni Brian, Calomeni Luca, Carne Federico, Carminati Ivo, Carrara
 Paolo, Cattaneo Andrea, Cattaneo Stefano, Cavagna Stefano, Centurelli Valentina, Cereda
 Marco, Cesani Davide, Ciocca Simone, Colombi Simone, Colombo Stefano,
