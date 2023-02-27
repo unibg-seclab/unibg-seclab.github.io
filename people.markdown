@@ -12,6 +12,7 @@ title: People
 {% include person.html
    name="Dario Facchinetti"
    image="/assets/people/dario.jpg"
+   website="https://dariofad.github.io/"
    description="Dario Facchinetti is a post-doctoral researcher with
    Università degli Studi di Bergamo. He likes to spend time inside
    the Emacs ecosystem, programming and learning about security. He is
