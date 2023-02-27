@@ -37,6 +37,11 @@ title: People
   image="/assets/people/marco.jpg"
   description="Marco Abbadini is a PhD student at Università degli Studi di Bergamo since October 2021. He's interested in operating systems security, cryptography and privacy. He likes programming and learning new things." %}
 
+{% include person.html
+   name="Michele Beretta"
+   image="/assets/people/michele.jpg"
+   website="https://berettamichele.com" %}
+
 ### Former members
 
 {% include person.html
