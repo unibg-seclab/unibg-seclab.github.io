@@ -35,7 +35,9 @@ title: People
 {% include person.html
   name="Marco Abbadini"
   image="/assets/people/marco.jpg"
-  description="Marco Abbadini is a PhD student at Università degli Studi di Bergamo since October 2021. He's interested in operating systems security, cryptography and privacy. He likes programming and learning new things." %}
+  description="Marco Abbadini is a PhD student at Università degli Studi di Bergamo since October 2021. He's interested in operating systems security, cryptography and privacy. He likes programming and learning new things." 
+  website="https://cs.unibg.it/abbadini"
+%}
 
 {% include person.html
    name="Michele Beretta"
