@@ -64,8 +64,11 @@ title: People
 
 ### Alumni
 
-We would also like to thank all the alumni who collaborated to our
-projects. A special mention to: Abbadini Marco, Adobati Marco, Allegri
+<!-- Il codice da qui ordina automaticamente i nomi -->
+<!-- Basta aggiungere il nome alla fine di tutti, SEPARATO CON ', ' -->
+
+{% capture _alumni %}
+Abbadini Marco, Adobati Marco, Allegri
 Riccardo, Arrigoni Marco, Balduzzi Giorgio, Balicco Matteo, Beretta
 Michele, Bernasconi Davide, Andrea Bianchetti, Bikhtancer Amine,
 Boffelli Jacopo, Filippo Bordogna, Bottarelli Davide, Bravo Irene, Brembilla Andrea, Brembilla Luca,
@@ -85,4 +88,18 @@ Simona, Pelliccioli Diego, Previtali Andrea, Ravasio Daniele, Rebussi Andrea, Re
 Daniel, Riva Mauro, Rota Michele, Sardi Dario, Sangregorio Fabio, Strazzante
 Francesco, Stucchi Matteo, Tasca Leonardo, Toure Pape Alpha, Vimercati
 Davide, Viganò Gianluca, Villa Stefano, Zanchi Michele, Zambelli
-Matteo and Zraiba Youssef.
+Matteo, Zraiba Youssef, Bommarito Jonathan
+{% endcapture %}
+{% assign alumni = _alumni | normalize_whitespace | split: ', ' | sort %}
+
+<p>
+We would also like to thank all the alumni who collaborated to our
+projects. A special mention to:
+{% for a in alumni %}
+   {% if forloop.last %}
+      and {{ a }}.
+   {% else %}
+      {{ a }},
+   {% endif %}
+{% endfor %}
+</p>
