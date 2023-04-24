@@ -25,12 +25,16 @@ title: People
    image="/assets/people/matthew.jpg"
    description="Matthew Rossi is a PhD student at Università degli Studi di Bergamo. His work
    focuses on mobile systems security, policy management and privacy in data market scenarios.
-   He loves to solve problems and engage with projects that require him to learn new things." %}
+   He loves to solve problems and engage with projects that require him to learn new things." 
+    website="https://matthewrossi.github.io/"
+%}
 
 {% include person.html
   name="Gianluca Oldani"
   image="/assets/people/gianluca.jpg"
-  description="Gianluca Oldani is a PhD student at Università degli Studi di Bergamo since October 2020. The main focuses of his work are distributed/decentralized system, policy management and privacy in data market scenarios. He enjoys experimenting various web frameworks and solving competitive programming problems. His non-work interests are videogames and role-playing games." %}
+  description="Gianluca Oldani is a PhD student at Università degli Studi di Bergamo since October 2020. The main focuses of his work are distributed/decentralized system, policy management and privacy in data market scenarios. He enjoys experimenting various web frameworks and solving competitive programming problems. His non-work interests are videogames and role-playing games." 
+  website="https://trolloldem.github.io/"
+%}
   
 {% include person.html
   name="Marco Abbadini"
