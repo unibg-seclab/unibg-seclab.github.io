@@ -6,6 +6,25 @@ title: Publications
 # Publications
 
 {% include paper.html
+   title="Cage4Deno: A Fine-Grained Sandbox for Deno Subprocesses"
+   image="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.jpg"
+   authors="Marco Abbadini, Dario Facchinetti, Gianluca Oldani, Matthew Rossi and Stefano Paraboschi"
+   venue="in Proc. of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Melbourne, Australia, July 10-14, 2023"
+   url="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.bib"
+   icons="fa-brands fa-square-js" %}
+
+{% include paper.html
+   title="Leveraging eBPF to enhance sandboxing of WebAssembly runtimes"
+   image="https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.jpg"
+   authors="Marco Abbadini, Michele Beretta, Dario Facchinetti, Gianluca Oldani, Matthew Rossi and Stefano Paraboschi"
+   venue="in Proc. of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Melbourne, Australia, July 10-14, 2023"
+   url="https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.bib"
+   note="<a href='https://cs.unibg.it/seclab-papers/2022/USENIX/wasi-poster.pdf'>USENIX Security 2022 Poster</a>"
+   icons="fa-solid fa-puzzle-piece" %}
+
+{% include paper.html
    title="Scalable Distributed Data Anonymization for Large Datasets"
    image="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.jpg"
    authors="Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Giovanni Livraga, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati"
