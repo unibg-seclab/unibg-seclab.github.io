@@ -12,7 +12,7 @@ title: Publications
    venue="in Proc. of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Melbourne, Australia, July 10-14, 2023"
    url="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.pdf"
    bib="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.bib"
-   icons="fac fa-deno, fa-brands fa-square-js" %}
+   icons="fac fa-deno" %}
 
 {% include paper.html
    title="Leveraging eBPF to enhance sandboxing of WebAssembly runtimes"
@@ -22,7 +22,7 @@ title: Publications
    url="https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.pdf"
    bib="https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.bib"
    note="<a href='https://cs.unibg.it/seclab-papers/2022/USENIX/wasi-poster.pdf'>USENIX Security 2022 Poster</a>"
-   icons="fa-solid fa-puzzle-piece" %}
+   icons="fac fa-wa,fac fa-si" %}
 
 {% include paper.html
    title="Scalable Distributed Data Anonymization for Large Datasets"
@@ -32,7 +32,7 @@ title: Publications
    url="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.pdf"
    bib="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.bib"
    github="https://github.com/mosaicrown/mondrian"
-   icons="ion-star" %}
+   icons="fac fa-spark" %}
 
 {% include paper.html
    title="Multi-Dimensional Indexes for Point and Range Queries on Outsourced Encrypted Data"
@@ -74,7 +74,7 @@ title: Publications
    url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf"
    bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.bib"
    github="https://github.com/mosaicrown/mondrian"
-   icons="ion-star" %}
+   icons="fac fa-spark" %}
 
 {% include paper.html
    title="Artifact: Scalable Distributed Data Anonymization"
@@ -85,7 +85,7 @@ title: Publications
    bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.bib"
    note="<a href='https://cs.unibg.it/seclab-papers/2021/PerCom/best-artifact-award-certificate.pdf'><u>IEEE PerCom'21 Best Artifact Award</u></a>"
    github="https://github.com/mosaicrown/mondrian"
-   icons="ion-ribbon-b,ion-star" %}
+   icons="ion-ribbon-b,fac fa-spark" %}
 
 {% include paper.html
    title="Dynamic Allocation for Resource Protection in Decentralized Cloud Storage"
