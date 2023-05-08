@@ -12,7 +12,7 @@ title: Publications
    venue="in Proc. of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Melbourne, Australia, July 10-14, 2023"
    url="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.pdf"
    bib="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.bib"
-   icons="fa-brands fa-square-js" %}
+   icons="fac fa-deno, fa-brands fa-square-js" %}
 
 {% include paper.html
    title="Leveraging eBPF to enhance sandboxing of WebAssembly runtimes"
