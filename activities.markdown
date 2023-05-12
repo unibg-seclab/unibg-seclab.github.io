@@ -4,6 +4,22 @@ title: Attività
 ---
 
 {% include activity.html
+   title="Road to NoHat 2023"
+   details="26 Maggio 2023 (18:00 - 20.00) @ UniBG, Aula A102 (Dalmine)"
+   image="/assets/activities/road_to_nohat/nohat_logo.png"
+   description=
+"[Road to NoHat](https://www.hacklabg.net/convegni/road-to-no-hat-tappa-unibg/) è 
+un evento organizzato dall'associazione [Berghem-In-The-Middle](https://www.hacklabg.net/) 
+con lo scopo di diffondere i temi della sicurezza informatica attraverso una serie di seminari.
+Quest'anno una tappa di questa serie di interventi sarà organizzata anche presso Unibg in 
+collaborazione con il nostro gruppo di ricerca. L'evento si terrà in aula **A102**, edificio A, 
+dalle ore **18.00** alle ore **20.00** di **venerdì 26 maggio 2023**. Una parte dei posti a
+disposizione sono riservati anche agli studenti che intendono partecipare, mentre per tutti gli 
+altri partecipanti è possibile prenotare un posto in aula tramite [la comunicazione ufficiale 
+dell'organizzazione](https://www.hacklabg.net/convegni/road-to-no-hat-tappa-unibg/),"
+%}
+
+{% include activity.html
    title="Google Hash Code 2022"
    details="24 febbraio 2022 (18:30 - 22:30) @ UniBG Virtual Hub"
    image="/assets/activities/hashcode/hashcode-2022.png"
