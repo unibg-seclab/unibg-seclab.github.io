@@ -16,7 +16,7 @@ collaborazione con il nostro gruppo di ricerca. L'evento si terrà in aula **A10
 dalle ore **18.00** alle ore **20.00** di **venerdì 26 maggio 2023**. Una parte dei posti a
 disposizione sono riservati anche agli studenti che intendono partecipare, mentre per tutti gli 
 altri partecipanti è possibile prenotare un posto in aula tramite [la comunicazione ufficiale 
-dell'organizzazione](https://www.hacklabg.net/convegni/road-to-no-hat-tappa-unibg/),"
+dell'organizzazione](https://www.hacklabg.net/convegni/road-to-no-hat-tappa-unibg/)."
 %}
 
 {% include activity.html
