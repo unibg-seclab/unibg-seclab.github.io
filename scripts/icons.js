@@ -18,7 +18,7 @@ let secret_user_path = 'M377.7 338.8l37.15-92.87C419 235.4 411.3 224 399.1 224h-
 let faDeno = {
   prefix: 'fac',
   iconName: 'deno',
-  icon: [24, 24, [], 'e001', deno_path]
+  icon: [26, 26, [], 'e001', deno_path]
 };
 
 FontAwesome.library.add(
@@ -58,7 +58,7 @@ FontAwesome.library.add(
 let faSecretUser = {
   prefix: 'fac',
   iconName: 'user',
-  icon: [600, 400, [], 'e005', secret_user_path]
+  icon: [400, 600, [], 'e005', secret_user_path]
 };
 
 FontAwesome.library.add(

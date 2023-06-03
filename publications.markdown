@@ -13,7 +13,7 @@ title: Publications
    url="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.pdf"
    bib="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.bib"
    github="https://github.com/unibg-seclab/Cage4Deno"
-   icons="fac fa-deno" %}
+   icons="fac fa-deno\" data-fa-transform=\"down-0.27" %}
 
 {% include paper.html
    title="Leveraging eBPF to enhance sandboxing of WebAssembly runtimes"
@@ -33,7 +33,7 @@ title: Publications
    url="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.pdf"
    bib="https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.bib"
    github="https://github.com/mosaicrown/mondrian"
-   icons="fac fa-user" %}
+   icons="fac fa-user\" data-fa-transform=\"down-7" %}
 
 {% include paper.html
    title="Multi-Dimensional Indexes for Point and Range Queries on Outsourced Encrypted Data"
@@ -75,7 +75,7 @@ title: Publications
    url="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf"
    bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.bib"
    github="https://github.com/mosaicrown/mondrian"
-   icons="fac fa-user" %}
+   icons="fac fa-user\" data-fa-transform=\"down-7" %}
 
 {% include paper.html
    title="Artifact: Scalable Distributed Data Anonymization"
@@ -86,7 +86,7 @@ title: Publications
    bib="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.bib"
    note="<a href='https://cs.unibg.it/seclab-papers/2021/PerCom/best-artifact-award-certificate.pdf'><u>IEEE PerCom'21 Best Artifact Award</u></a>"
    github="https://github.com/mosaicrown/mondrian"
-   icons="ion-ribbon-b,fac fa-user" %}
+   icons="ion-ribbon-b,fac fa-user\" data-fa-transform=\"down-7" %}
 
 {% include paper.html
    title="Dynamic Allocation for Resource Protection in Decentralized Cloud Storage"
