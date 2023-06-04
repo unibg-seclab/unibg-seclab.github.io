@@ -5,6 +5,10 @@
 
   <body>
 
+    {% if site.environment != "dev" %}
+    {% include google_tagmanager_body.html %}
+    {% endif %}
+
     {% include nav.html %}
 
     <div id="content" class="container">
