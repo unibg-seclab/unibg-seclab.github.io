@@ -47,6 +47,10 @@ della computer security... benvenuto in squadra!**
 
 --------------------------------------------------------------------------------
 
+## Prerequisiti
+
+* [*Obbligatorio*] Le tesi vanno scritte in LaTeX (è possibile utilizzare [questo template](https://github.com/micheleberetta98/unibg-thesis-template))
+
 ### Prerequisiti per tesi Triennali
 
 * [*Consigliato*] Conoscenza di base di [*git*](https://git-scm.com)
@@ -59,5 +63,3 @@ della computer security... benvenuto in squadra!**
 ### Prerequisiti per tesi Magistrali
 
 * Tutti i prerequisiti (anche quelli solo consigliati) per tesi triennali
-
-* Le tesi magistrali vanno scritte in LaTeX
