@@ -4,6 +4,15 @@ title: Publications
 ---
 
 # Publications
+{% include paper.html
+   title="NatiSand: Native Code Sandboxing for JavaScript Runtimes"
+   image="https://cs.unibg.it/seclab-papers/2023/RAID/natisand.jpg"
+   authors="Marco Abbadini, Dario Facchinetti, Gianluca Oldani, Matthew Rossi and Stefano Paraboschi"
+   venue="in Proc. of the 26th International Symposium on Research in Attacks, Intrusions and DefensesProc (RAID), Hong Kong, China, October 16-18, 2023"
+   url="https://cs.unibg.it/seclab-papers/2023/RAID/natisand.pdf"
+   bib="https://cs.unibg.it/seclab-papers/2023/RAID/natisand.bib"
+   github="https://github.com/unibg-seclab/natisand"
+   icons="fa-brands fa-js\" data-fa-transform=\"down-5" %}
 
 {% include paper.html
    title="Cage4Deno: A Fine-Grained Sandbox for Deno Subprocesses"
