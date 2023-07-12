@@ -96,7 +96,7 @@ Rebussi Andrea, Revrena Davide, Rinaldi Daniel, Riva Mauro, Rota Michele,
 Sardi Dario, Sangregorio Fabio, Strazzante Francesco, Stucchi Matteo,
 Tasca Leonardo, Toure Pape Alpha, Vimercati Davide, Viganò Gianluca,
 Villa Stefano, Zanchi Michele, Zambelli Matteo, Zraiba Youssef,
-Bommarito Jonathan, Daidone Giuseppe
+Bommarito Jonathan, Daidone Giuseppe, Imberti Federico
 {% endcapture %}
 {% assign alumni = _alumni | normalize_whitespace | split: ', ' | sort %}
 
