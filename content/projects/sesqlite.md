@@ -52,7 +52,7 @@ The SeSQLite project won a Google Award in the Winter 2014 branch.
    authors="Stefano Paraboschi, Enrico Bacis, Simone Mutti",
    venue="in 11th International Conference on Information Systems Security (ICISS 2015)",
    url="https://cs.unibg.it/seclab-papers/2015/ICISS/Extending_SELinux_Android.pdf",
-   icons="ion-social-android") }}
+   icons=["ion-social-android"]) }}
 
 ---
 
@@ -62,7 +62,7 @@ The SeSQLite project won a Google Award in the Winter 2014 branch.
    authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi",
    venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015)",
    url="https://cs.unibg.it/seclab-papers/2015/ACSAC/SeSQLite.pdf",
-   icons="ion-social-github,ion-social-android") }}
+   icons=["ion-social-github", "ion-social-android"]) }}
 
 ---
 
@@ -82,7 +82,7 @@ The SeSQLite project won a Google Award in the Winter 2014 branch.
    venue="in Communications and Network Security (CNS), 2015 IEEE Conference, 2015",
    url="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.pdf",
    note="IEEE CNS'15 Best Poster Award",
-   icons="ion-ribbon-b,ion-social-android") }}
+   icons=["ion-ribbon-b", "ion-social-android"]) }}
 
 ---
 
@@ -92,4 +92,4 @@ The SeSQLite project won a Google Award in the Winter 2014 branch.
    authors="Enrico Bacis, Simone Mutti and Stefano Paraboschi",
    venue="in 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)",
    url="https://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf",
-   icons="ion-social-android") }}
+   icons=["ion-social-android"]) }}

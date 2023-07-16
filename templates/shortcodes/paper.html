@@ -16,14 +16,20 @@
         {% if bib %}<a href="{{ bib }}">[BibTex]</a>{% endif %}
       </p>
     {% endif %}
-    {% if note %}<p>{{ note }}</p>{% endif %}
+    {% if note %}<p>{{ note | safe }}</p>{% endif %}
     {% if icons %}
     <p style="font-size: 2em">
     {% if github %}
       <a href="{{ github }}"><i class="icon ion-social-github" style="margin: .3em"></i></a>
     {% endif %}
-    {% set icons = icons | split(pat=",") %}
-      {% for icon in icons %}<i class="icon {{ icon }}" style="margin: .3em"></i>{% endfor %}
+    {% for icon in icons %}
+      {% set parts = icon | split(pat=",") %}
+      {% set name = parts[0] %}
+        <i
+          class="icon {{ name }}"
+          {% if parts | length > 1 %}data-fa-transform="{{ parts[1] }}"{% endif %}
+          style="margin: .3em"></i>
+    {% endfor %}
     </p>
     {% endif %}
   </div>
