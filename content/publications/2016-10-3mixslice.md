@@ -1,0 +1,22 @@
+---
+title: "Mix&Slice: Efficient Access Revocation in the Cloud"
+taxonomies:
+  authors:
+    - Enrico Bacis
+    - Sabrina De Capitani di Vimercati
+    - Sara Foresti
+    - Stefano Paraboschi
+    - Marco Rosa
+    - Pierangela Samarati
+  publication-year:
+    - 2016
+extra:
+  image: "https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.jpg"
+  url: "https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.pdf"
+  bib: "https://cs.unibg.it/seclab-papers/2016/CCS/bdfprs-ccs2016.bib"
+  venue: in Proc. of the 23rd ACM Conference on Computer and Communication Security (CCS), Vienna, Austria, October 24-28, 2016
+  icons:
+    - ion-cloud
+  github: aesmix
+  note: <a href="https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf">Poster</a><br/><u>CSAW 2017 Applied Research Competition Finalist</u>
+---
