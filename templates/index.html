@@ -24,3 +24,24 @@ new Vivus('logo', {
 );
 </script>
 {% endblock extra_body %}
+
+{% block section_content %}
+{{ section.content | safe }}
+
+{% if section.extra.acknowledgements | length > 0 %}
+  <hr />
+  <h2>Acknowledgements</h2>
+  {% for award in section.extra.acknowledgements %}
+    <div class="row">
+      <div class="col-xs-12 col-sm-8">
+        <h3>{{ award.title }}</h3>
+        <h4>{{ award.when }}</h4>
+        <p>{{ award.description }}</p>
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <img class="center-block" src="{{ award.image }}" />
+      </div>
+    </div>
+  {% endfor %}
+{% endif %}
+{% endblock section_content %}

@@ -1,5 +1,15 @@
 ---
 title: UniBG Security Lab
+extra:
+  acknowledgements:
+    - title: Google Award
+      when: Winter 2016
+      description: The APM project won a Google Award in Winter 2016 batch.
+      image: /images/faculty_award.png
+    - title: Google Award
+      when: Winter 2014
+      description: The SeSQLite project won a Google Award in the Winter 2014 batch.
+      image: /images/faculty_award.png    
 ---
 
 <div class="row">
@@ -18,12 +28,8 @@ title: UniBG Security Lab
 
 ---
 
-# Source Code
+## Source Code
 
 The source code of our open source projects is available at {{ github() }}.
 
----
-
-# Acknowledgements
-
-[TODO]
+Star the projects on GitHub to receive updates on future releases.
