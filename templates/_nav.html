@@ -1,0 +1,23 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#thenav">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">{{ config.title }}</a>
+    </div>
+    <div class="collapse navbar-collapse" id="thenav">
+      <ul class="nav navbar-nav">
+        {% for page in config.extra.pages %}
+          {% if page.separator %}
+            <li class="divider-vertical"></li>
+          {% else %}
+            <li><a href="{{ page.url }}">{{ page.name }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>

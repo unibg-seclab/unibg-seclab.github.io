@@ -1,0 +1,29 @@
+{% extends "page.html" %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+
+<div class="person row">
+  <div class="col-xs-4 col-sm-2">
+    {% if page.extra.image %}
+      <img src="/people/{{ page.slug }}/{{ page.extra.image }}" />
+    {% else %}
+      <img src="/people/anonymous.png" />
+    {% endif %}
+  </div>
+  <div class="col-xs-8 col-sm-10">
+    <p>
+      {% if page.content %}
+        {{ page.content | safe }}
+      {% else %}
+        This member prefers to keep an aura of mystery.
+      {% endif %}
+    </p>
+    {% if page.extra.website %}
+      <p>
+        <a href="{{ page.extra.website }}">Personal website</a>
+      </p>
+    {% endif %}
+  </div>
+</div>
+{% endblock content %}

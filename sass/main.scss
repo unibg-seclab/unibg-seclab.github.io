@@ -1,0 +1,39 @@
+#content {
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.navbar {
+  .divider-vertical {
+    height: 20px;
+    margin: 15px 5px;
+    border-left: 1px solid #f2f2f2;
+  }
+}
+
+.navbar-inverse {
+  .divider-vertical {
+    border-left-color: #9d9d9d;
+  }
+}
+
+.people {
+  h2 {
+    margin-top: 50px;
+  }
+
+  .person img {
+    margin-top: 20px;
+  }
+}
+
+.person {
+  display: flex;
+  flex-direction: row;
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
