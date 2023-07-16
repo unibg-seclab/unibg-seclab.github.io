@@ -18,6 +18,7 @@ highlight_code = false
 # Put all your custom variables here
 github = "unibg-seclab"
 mail = "seclab [at] unibg [dot]"
+noteworthy = { name = "Road to NoHat 2023", url = "/activities/roadtonohat2023" }
 pages = [
   { name = "People", url = "/people" },
   { name = "Projects", url = "/projects" },
@@ -25,6 +26,4 @@ pages = [
   { separator = true },
   { name = "Progetti di Tesi", url = "/tesi" },
   { name = "Attività", url = "/activities" },
-  { separator = true },
-  { name = "Road to NoHat 2023", url = "/activites" },
 ]

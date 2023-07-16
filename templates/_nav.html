@@ -17,6 +17,11 @@
             <li><a href="{{ page.url }}">{{ page.name }}</a></li>
           {% endif %}
         {% endfor %}
+
+        {% if config.extra.noteworthy %}
+          <li class="divider-vertical"></li>
+          <li><a href="{{ config.extra.noteworthy.url }}"><strong>{{ config.extra.noteworthy.name }}</strong></a></li>
+        {% endif %}
       </ul>
     </div>
   </div>
