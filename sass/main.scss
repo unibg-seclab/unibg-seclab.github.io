@@ -17,6 +17,12 @@
   }
 }
 
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .people {
   h2 {
     margin-top: 50px;
@@ -30,10 +36,4 @@
 .person {
   display: flex;
   flex-direction: row;
-
-  img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-  }
 }
