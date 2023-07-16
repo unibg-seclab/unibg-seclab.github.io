@@ -2,8 +2,6 @@
 title: UniBG Security Lab
 ---
 
----
-
 *Unibg Security Lab* is the Computer Security Team at Università degli Studi di
 Bergamo.
 
