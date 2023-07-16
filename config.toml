@@ -17,6 +17,7 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 github = "unibg-seclab"
+mail = "seclab [at] unibg [dot]"
 pages = [
   { name = "People", url = "/people" },
   { name = "Projects", url = "/projects" },

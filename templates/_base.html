@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="{{get_url(path='ribbon.css', trailing_slash=false)}}" type="text/css" />
 
     <script src="{{ get_url(path='js/icons.js', trailing_slash=false)}}"></script>
+
+    {% block extra_head %}
+    {% endblock extra_head %}
   </head>
   <body>
     {% include "_nav.html" %}

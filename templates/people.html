@@ -1,17 +1,15 @@
 {% extends "section.html" %}
 
-{% block content %}
-<h1>{{ section.title }}</h1>
-
+{% block section_content %}
 <div class="people">
 {% for person in section.pages | filter(attribute="extra.active", value=true) %}
   {% if not person.extra.former and not person.extra.alumni %}
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
       {% if person.extra.image %}
-        <img class="img-responsive" src="/people/{{ person.slug }}/{{ person.extra.image }}" />
+        <img src="/people/{{ person.slug }}/{{ person.extra.image }}" />
       {% else %}
-        <img class="img-responsive" src="/people/anonymous.png" />
+        <img src="/people/anonymous.png" />
       {% endif %}
     </div>
     <div class="col-xs-8 col-sm-10">
@@ -39,19 +37,15 @@
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
       {% if person.extra.image %}
-        <img class="img-responsive" src="/people/{{ person.slug }}/{{ person.extra.image }}" />
+        <img src="/people/{{ person.slug }}/{{ person.extra.image }}" />
       {% else %}
-        <img class="img-responsive" src="/people/anonymous.png" />
+        <img src="/people/anonymous.png" />
       {% endif %}
     </div>
     <div class="col-xs-8 col-sm-10">
       <h3>{{ person.title }}</h3>
       <p>
-        {% if person.content %}
-          {{ person.content | safe }}
-        {% else %}
-          This member prefers to keep an aura of mystery.
-        {% endif %}
+        {{ person.content | default(value="This member prefers to keep an aura of mystery.") | safe }}
       </p>
       {% if person.extra.website %}
         <p>
@@ -76,5 +70,4 @@ We would also like to thank all the alumni who collaborated to our projects. A s
 </p>
   
 </div>
-
-{% endblock content %}
+{% endblock section_content %}

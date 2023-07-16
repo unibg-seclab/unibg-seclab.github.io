@@ -1,12 +1,11 @@
-+++
-title = "Matthew Rossi"
-weight = 20
-
-[extra]
-active = true
-website = "https://matthewrossi.github.io"
-image = "matthew.jpg"
-+++
+---
+title: Matthew Rossi
+weight: 20
+extra:
+  active: true
+  website: https://matthewrossi.github.io
+  image: matthew.jpg
+---
 
 Matthew Rossi is a PhD student at Università degli Studi di Bergamo. His work
 focuses on mobile systems security, policy management and privacy in data market

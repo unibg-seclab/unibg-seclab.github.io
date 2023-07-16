@@ -1,12 +1,11 @@
-+++
-title = "Simone Mutti"
-weight = 1020
-
-[extra]
-active = false
-website = "https://cs.unibg.it/mutti"
-image = "mutti.jpg"
-+++
+---
+title: Simone Mutti
+weight: 1020
+extra:
+  active: false
+  website: https://cs.unibg.it/mutti
+  image: mutti.jpg
+---
 
 Simone Mutti is a former post-doctoral researcher at Università degli Studi di
 Bergamo. His research interests are in the area of OS security, privacy, and

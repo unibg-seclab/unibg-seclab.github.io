@@ -1,104 +1,103 @@
-+++
-title = "People"
-template = "people.html"
-page_template = "person.html"
-sort_by = "weight"
+---
+title: People
+template: people.html
+page_template: person.html
+sort_by: weight
 
-[extra]
-alumni = [
- "Abbadini Marco",
- "Adobati Marco",
- "Allegri Riccardo",
- "Arrigoni Marco",
- "Balduzzi Giorgio",
- "Balicco Matteo",
- "Beretta Michele",
- "Bernasconi Davide",
- "Bianchetti Andrea",
- "Bikhtancer Amine",
- "Boffelli Jacopo",
- "Filippo Bordogna",
- "Bottarelli Davide",
- "Bravo Irene",
- "Brembilla Andrea",
- "Brembilla Luca",
- "Caglioni Brian",
- "Calomeni Luca",
- "Carne Federico",
- "Carminati Ivo",
- "Carrara Paolo",
- "Cattaneo Andrea",
- "Cattaneo Stefano",
- "Cavagna Stefano",
- "Centurelli Valentina",
- "Cereda Marco",
- "Cesani Davide",
- "Ciocca Simone",
- "Colombi Simone",
- "Colombo Stefano",
- "Conti Lorenzo",
- "Copler Alessandro",
- "Coretti Michele",
- "Cosseddu Antonio",
- "Dentella Michele",
- "Ferri Samuele",
- "Fioretti Luca",
- "Flaccadori Gianluca",
- "Galiani Andrea",
- "Gamba Davide",
- "Gambarara Alberto",
- "Ghisleni Stefano",
- "Ghislotti Luca",
- "Giannattasio Stefano",
- "Giovanelli Michele",
- "Gotti Kevin",
- "Gozzi Laura",
- "Gregis Daniele",
- "Inglese Luca",
- "Jurca Sergiu Valentin",
- "Lazzari Filippo",
- "Lenuzza Benedetta",
- "Locatelli Michele",
- "Locatelli Nicholas",
- "Locatelli Sara",
- "Lorenzi Luca",
- "Maffeis Isaac",
- "Maffioletti Gianluca",
- "Mandalari Fabio",
- "Mariani Giada",
- "Moraschini Alessio",
- "Nava Giovanni",
- "Opreni Simone",
- "Paganessi Andrea",
- "Palazzi Fabio",
- "Paramento Umberto",
- "Patelli Andrea",
- "Paris Gabriele",
- "Pedemonti Enrico",
- "Perico Emanuele",
- "Piazzi Simona",
- "Pelliccioli Diego",
- "Previtali Andrea",
- "Ravasio Daniele",
- "Rebussi Andrea",
- "Revrena Davide",
- "Rinaldi Daniel",
- "Riva Mauro",
- "Rota Michele",
- "Sardi Dario",
- "Sangregorio Fabio",
- "Strazzante Francesco",
- "Stucchi Matteo",
- "Tasca Leonardo",
- "Toure Pape Alpha",
- "Vimercati Davide",
- "Viganò Gianluca",
- "Villa Stefano",
- "Zanchi Michele",
- "Zambelli Matteo",
- "Zraiba Youssef",
- "Bommarito Jonathan",
- "Daidone Giuseppe",
- "Imberti Federico",
-]
-+++
+extra:
+ alumni:
+  - Abbadini Marco
+  - Adobati Marco
+  - Allegri Riccardo
+  - Arrigoni Marco
+  - Balduzzi Giorgio
+  - Balicco Matteo
+  - Beretta Michele
+  - Bernasconi Davide
+  - Bianchetti Andrea
+  - Bikhtancer Amine
+  - Boffelli Jacopo
+  - Filippo Bordogna
+  - Bottarelli Davide
+  - Bravo Irene
+  - Brembilla Andrea
+  - Brembilla Luca
+  - Caglioni Brian
+  - Calomeni Luca
+  - Carne Federico
+  - Carminati Ivo
+  - Carrara Paolo
+  - Cattaneo Andrea
+  - Cattaneo Stefano
+  - Cavagna Stefano
+  - Centurelli Valentina
+  - Cereda Marco
+  - Cesani Davide
+  - Ciocca Simone
+  - Colombi Simone
+  - Colombo Stefano
+  - Conti Lorenzo
+  - Copler Alessandro
+  - Coretti Michele
+  - Cosseddu Antonio
+  - Dentella Michele
+  - Ferri Samuele
+  - Fioretti Luca
+  - Flaccadori Gianluca
+  - Galiani Andrea
+  - Gamba Davide
+  - Gambarara Alberto
+  - Ghisleni Stefano
+  - Ghislotti Luca
+  - Giannattasio Stefano
+  - Giovanelli Michele
+  - Gotti Kevin
+  - Gozzi Laura
+  - Gregis Daniele
+  - Inglese Luca
+  - Jurca Sergiu Valentin
+  - Lazzari Filippo
+  - Lenuzza Benedetta
+  - Locatelli Michele
+  - Locatelli Nicholas
+  - Locatelli Sara
+  - Lorenzi Luca
+  - Maffeis Isaac
+  - Maffioletti Gianluca
+  - Mandalari Fabio
+  - Mariani Giada
+  - Moraschini Alessio
+  - Nava Giovanni
+  - Opreni Simone
+  - Paganessi Andrea
+  - Palazzi Fabio
+  - Paramento Umberto
+  - Patelli Andrea
+  - Paris Gabriele
+  - Pedemonti Enrico
+  - Perico Emanuele
+  - Piazzi Simona
+  - Pelliccioli Diego
+  - Previtali Andrea
+  - Ravasio Daniele
+  - Rebussi Andrea
+  - Revrena Davide
+  - Rinaldi Daniel
+  - Riva Mauro
+  - Rota Michele
+  - Sardi Dario
+  - Sangregorio Fabio
+  - Strazzante Francesco
+  - Stucchi Matteo
+  - Tasca Leonardo
+  - Toure Pape Alpha
+  - Vimercati Davide
+  - Viganò Gianluca
+  - Villa Stefano
+  - Zanchi Michele
+  - Zambelli Matteo
+  - Zraiba Youssef
+  - Bommarito Jonathan
+  - Daidone Giuseppe
+  - Imberti Federico
+---

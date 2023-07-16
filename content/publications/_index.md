@@ -2,8 +2,6 @@
 title: Publications
 ---
 
----
-
 {{ paper(
    title="NatiSand: Native Code Sandboxing for JavaScript Runtimes"
    image="https://cs.unibg.it/seclab-papers/2023/RAID/natisand.jpg"

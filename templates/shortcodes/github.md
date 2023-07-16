@@ -1,1 +1,1 @@
-[{% if name %}{{ name }}{% else %}GitHub{% endif %}](https://github.com/{{ config.extra.github }}{% if project %}/{{ project }}{% endif %})
+[{{ name | default(value="GitHub") }}](https://github.com/{{ config.extra.github }}/{{ project | default(value="")}})

@@ -1,13 +1,11 @@
-+++
-title = "Stefano Paraboschi"
-
-weight = 0
-
-[extra]
-active = true
-website = "https://cs.unibg.it/parabosc"
-image = "parabosc.jpg"
-+++
+---
+title: Stefano Paraboschi
+weight: 0
+extra:
+  active: true
+  website: https://cs.unibg.it/parabosc
+  image: parabosc.jpg
+---
 
 Focus on several areas in computer science: information systems and database
 technology (specifically on active rules, view management, data warehouses,

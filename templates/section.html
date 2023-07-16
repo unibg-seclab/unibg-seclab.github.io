@@ -6,5 +6,9 @@
 
 {% block content %}
   <h1>{{ section.title }}</h1>
+  <hr />
+
+  {% block section_content %}
   {{ section.content | safe }}
+  {% endblock section_content %}
 {% endblock content %}

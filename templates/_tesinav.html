@@ -1,0 +1,10 @@
+{% set section = get_section(path="tesi/_index.md") %}
+{% for category, projects in section.pages | sort(attribute="extra.category") | group_by(attribute="extra.category") %}
+  <h4>{{ category }}</h4>
+  <ul>
+  {% for page in projects | sort(attribute="title") %}
+    <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+  {% endfor %}
+  </ul>
+  <hr />
+{% endfor %}

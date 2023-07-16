@@ -1,9 +1,9 @@
-+++
-title = "SeSQLite"
+---
+title: SeSQLite
 
-[extra]
-github = "sesqlite"
-+++
+extra:
+   github: sesqlite
+---
 
 SQLite is the most widely deployed in-process library that implements a SQL
 database engine. It offers high storage efficiency, fast query operation and

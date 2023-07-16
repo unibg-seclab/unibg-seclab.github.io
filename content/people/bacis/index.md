@@ -1,12 +1,11 @@
-+++
-title = "Enrico Bacis"
-weight = 1000
-
-[extra]
-active = false
-website = "https://enricobacis.com"
-image = "bacis.jpg"
-+++
+---
+title: Enrico Bacis
+weight: 1000
+extra:
+  active: false
+  website: https://enricobacis.com
+  image: bacis.jpg
+---
 
 Enrico Bacis is a former post-doctoral researcher with Università degli Studi
 di Bergamo. His work focuses on computer security, mostly investigating the

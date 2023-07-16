@@ -1,12 +1,11 @@
-+++
-title = "Marco Rosa"
-weight = 1010
-
-[extra]
-active = false
-website = "https://cs.unibg.it/rosa"
-image = "rosa.jpg"
-+++
+---
+title: Marco Rosa
+weight: 1010
+extra:
+  active: false
+  website: https://cs.unibg.it/rosa
+  image: rosa.jpg
+---
 
 Marco Rosa has been a researcher with Università degli Studi di Bergamo since
 September 2015 and a PhD student since October 2016. His research interests
