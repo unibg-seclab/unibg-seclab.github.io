@@ -3,7 +3,6 @@
 {% block section_content %}
 <div class="people">
 {% for person in section.pages | filter(attribute="extra.active", value=true) %}
-  {% if not person.extra.former and not person.extra.alumni %}
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
       {% if person.extra.image %}
@@ -15,11 +14,7 @@
     <div class="col-xs-8 col-sm-10">
       <h3>{{ person.title }}</h3>
       <p>
-        {% if person.content %}
-          {{ person.content | safe }}
-        {% else %}
-          This member prefers to keep an aura of mystery.
-        {% endif %}
+        {{ person.content | default(value="This member prefers to keep an aura of mystery.") | safe }}
       </p>
       {% if person.extra.website %}
         <p>
@@ -29,7 +24,6 @@
     </div>
   </div>
   <hr />
-  {% endif %}
 {% endfor %}
 
 <h2>Former members</h2>
