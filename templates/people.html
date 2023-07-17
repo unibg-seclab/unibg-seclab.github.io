@@ -54,14 +54,6 @@
 <h2>Alumni</h2>
 <p>
 We would also like to thank all the alumni who collaborated to our projects. A special mention to:
-{% for name in section.extra.alumni | sort %}
-  {% if loop.last %}
-    and {{ name }}.
-  {% else %}
-    {{ name }},
-  {% endif %}
-{% endfor %}
-</p>
-  
+{{ section.extra.alumni | sort | join(sep=", ") }}.  
 </div>
 {% endblock section_content %}
