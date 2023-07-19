@@ -14,7 +14,7 @@ extra:
   url: "https://cs.unibg.it/seclab-papers/2023/RAID/natisand.pdf"
   bib: "https://cs.unibg.it/seclab-papers/2023/RAID/natisand.bib"
   github: natisand
-  venue: in Proc. of the 26th International Symposium on Research in Attacks, Intrusions and DefensesProc (RAID), Hong Kong, China, October 16-18, 2023
+  venue: in Proc. of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Hong Kong, China, October 16-18, 2023
   icons:
     - fa-brands fa-js,down-5
 ---
