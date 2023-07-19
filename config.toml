@@ -22,7 +22,7 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 github = "unibg-seclab"
-mail = "seclab [at] unibg [dot]"
+mail = "seclab [at] unibg [dot] it"
 noteworthy = { name = "Road to NoHat 2023", url = "/activities/roadtonohat2023" }
 pages = [
   { name = "People", url = "/people" },
