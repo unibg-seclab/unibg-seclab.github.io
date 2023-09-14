@@ -14,7 +14,7 @@ published: true
 
 OPA fornice una serie di tool e un linguaggio per la definizione di policy ([Rego](https://www.openpolicyagent.org/docs/latest/#rego)) che permette, ad esempio, di definire regole per *user-level access authorization* e configurazione dell'infrastruttura Cloud.
 
-In ambito cloud, considerando in particolare Kubernetes come orchestrator di container, OPA è implementato come un [Kubernetes Admission Controller](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) mettendo a disposizione il framework [GateKeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/).
+In ambito cloud, considerando in particolare Kubernetes come orchestrator di container, OPA è implementato come un [Kubernetes Admission Controller](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) mettendo a disposizione il framework [Gatekeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/).
 
 <img class="img-responsive center-block" width="80%" src="/assets/images/opa.png" alt="OPA image"/>
 
