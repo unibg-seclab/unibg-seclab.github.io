@@ -1,0 +1,16 @@
+/* Patch vivus.js to also fill areas */
+
+$fill_time:  1s;
+
+.vivus svg.finished * {
+  fill-opacity: 1;
+  stroke-opacity: 0;
+}
+
+.vivus svg * {
+  stroke: #000000;
+  stroke-width: 2;
+  stroke-opacity: 1;
+  fill-opacity: 0;
+  transition: fill-opacity $fill_time, stroke-opacity $fill_time;
+}
