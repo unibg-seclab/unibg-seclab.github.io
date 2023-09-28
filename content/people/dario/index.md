@@ -4,7 +4,6 @@ weight: 10
 extra:
   active: true
   website: https://dariofad.github.io
-  image: dario.jpg
 ---
 
 Dario Facchinetti is a post-doctoral researcher with Università degli Studi

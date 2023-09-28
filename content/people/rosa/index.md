@@ -4,7 +4,6 @@ weight: 1010
 extra:
   active: false
   website: https://cs.unibg.it/rosa
-  image: rosa.jpg
 ---
 
 Marco Rosa has been a researcher with Università degli Studi di Bergamo since

@@ -4,7 +4,6 @@ weight: 1000
 extra:
   active: false
   website: https://enricobacis.com
-  image: bacis.jpg
 ---
 
 Enrico Bacis is a former post-doctoral researcher with Università degli Studi

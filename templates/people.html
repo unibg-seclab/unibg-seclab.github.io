@@ -5,16 +5,16 @@
 {% for person in section.pages | filter(attribute="extra.active", value=true) %}
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
-      {% if person.extra.image %}
-        <img src="/people/{{ person.slug }}/{{ person.extra.image }}" />
-      {% else %}
-        <img src="/people/anonymous.png" />
-      {% endif %}
+      <img src="/people/{{ person.slug }}/image.jpg" />
     </div>
     <div class="col-xs-8 col-sm-10">
       <h3>{{ person.title }}</h3>
       <p>
-        {{ person.content | default(value="This member prefers to keep an aura of mystery.") | safe }}
+        {% if person.content %}
+          {{ person.content | safe }}
+        {% else %}
+          This member prefers to keep an aura of mystery.
+        {% endif %}
       </p>
       {% if person.extra.website %}
         <p>
@@ -30,11 +30,7 @@
 {% for person in section.pages | filter(attribute="extra.active", value=false) %}
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
-      {% if person.extra.image %}
-        <img src="/people/{{ person.slug }}/{{ person.extra.image }}" />
-      {% else %}
-        <img src="/people/anonymous.png" />
-      {% endif %}
+      <img src="/people/{{ person.slug }}/image.jpg" />
     </div>
     <div class="col-xs-8 col-sm-10">
       <h3>{{ person.title }}</h3>

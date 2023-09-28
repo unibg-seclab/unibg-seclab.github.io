@@ -4,7 +4,6 @@ weight: 30
 extra:
   active: true
   website: https://trolloldem.github.io
-  image: gianluca.jpg
 ---
 
 Gianluca Oldani is a PhD student at Università degli Studi di Bergamo since

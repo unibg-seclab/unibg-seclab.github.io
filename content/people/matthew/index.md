@@ -4,7 +4,6 @@ weight: 20
 extra:
   active: true
   website: https://matthewrossi.github.io
-  image: matthew.jpg
 ---
 
 Matthew Rossi is a PhD student at Università degli Studi di Bergamo. His work
