@@ -7,6 +7,9 @@
     {% include "_tesinav.html" %}
   </div>
   <div class="col-xs-12 col-sm-8">
+    {% if page.extra.unavailable %}
+      <b style="color: red; font-size: 20pt;">Questo progetto di tesi non è più disponibile</b>
+    {% endif %}
     {{ page.content | safe }}
   </div>
 </div>

@@ -2,8 +2,10 @@
 {% for category, projects in section.pages | sort(attribute="extra.category") | group_by(attribute="extra.category") %}
   <h4>{{ category }}</h4>
   <ul>
-  {% for page in projects | sort(attribute="title") %}
-    <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+  {% for proj in projects | sort(attribute="title") %}
+    {% if not proj.extra.unavailable | default(value=false) %}
+      <li><a href="{{ proj.permalink }}">{{ proj.title }}</a></li>
+    {% endif %}
   {% endfor %}
   </ul>
   <hr />
