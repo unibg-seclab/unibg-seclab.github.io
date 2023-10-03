@@ -100,4 +100,9 @@ extra:
   - Bommarito Jonathan
   - Daidone Giuseppe
   - Imberti Federico
+  - Crippa Bianca
+  - Locatelli Matteo
+  - Chirico Giorgio
+  - Perani Enrico
+  - Ragosta Stefano
 ---
