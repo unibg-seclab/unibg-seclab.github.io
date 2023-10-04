@@ -39,5 +39,5 @@ OPA è facilmente integrabile con molti servizi e fornisce un modo centralizzato
 
 ### PROGETTI DI TESI
 
-- **[Triennale]** Sviluppare una applicazione Cloud che utilizzi Kubernetes come ambiente di deployment e che faccia utilizzo di Open Policy Agent per definire delle policy di configurazione/autorizzazione. La tesi dovrà mostrare quali sono i vantaggi e svantaggi di OPA e come è stato utilizzato nel progetto scelto. 
-  - **[Magistrale]** Il lavoro deve comprendere oltre che una parte di utilizzo di Gatekeeper e dei template che sono a disposizione anche una parte di implementazione di policy OPA utilizzando il linguaggio Rego. Il progetto deve essere corredato di una estensiva valutazione sperimentale.
+- ~~**[Triennale]** Sviluppare una applicazione Cloud che utilizzi Kubernetes come ambiente di deployment e che faccia utilizzo di Open Policy Agent per definire delle policy di configurazione/autorizzazione. La tesi dovrà mostrare quali sono i vantaggi e svantaggi di OPA e come è stato utilizzato nel progetto scelto.~~ 
+  - ~~**[Magistrale]** Il lavoro deve comprendere oltre che una parte di utilizzo di Gatekeeper e dei template che sono a disposizione anche una parte di implementazione di policy OPA utilizzando il linguaggio Rego. Il progetto deve essere corredato di una estensiva valutazione sperimentale.~~
