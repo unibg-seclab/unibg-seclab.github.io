@@ -97,7 +97,7 @@ Sardi Dario, Sangregorio Fabio, Strazzante Francesco, Stucchi Matteo,
 Tasca Leonardo, Toure Pape Alpha, Vimercati Davide, Viganò Gianluca,
 Villa Stefano, Zanchi Michele, Zambelli Matteo, Zraiba Youssef,
 Bommarito Jonathan, Daidone Giuseppe, Imberti Federico,
-Crippa Bianca, Locatelli Matteo, Chirico Giorno, Perani Enrico, Ragosta Stefano
+Crippa Bianca, Locatelli Matteo, Chirico Giorgio, Perani Enrico, Ragosta Stefano
 {% endcapture %}
 {% assign alumni = _alumni | normalize_whitespace | split: ', ' | sort %}
 
