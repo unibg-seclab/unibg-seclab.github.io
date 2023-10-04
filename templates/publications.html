@@ -1,7 +1,7 @@
 {% extends "section.html" %}
 
 {% block section_content %}
-{% for paper in section.pages | reverse %}
+{% for paper in section.pages | sort(attribute="date") | reverse %}
   <div class="row">
     <div class="col-xs-4 col-sm-2">
       {% if paper.extra.image %}
