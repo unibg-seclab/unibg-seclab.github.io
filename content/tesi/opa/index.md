@@ -53,11 +53,11 @@ per gestire policy tra molte applicazioni e ambienti di sviluppo/deployment.
 
 ### PROGETTI DI TESI
 
-- **[Triennale]** Sviluppare una applicazione Cloud che utilizzi Kubernetes come
+- ~~**[Triennale]** Sviluppare una applicazione Cloud che utilizzi Kubernetes come
   ambiente di deployment e che faccia utilizzo di Open Policy Agent per definire
   delle policy di configurazione/autorizzazione. La tesi dovrà mostrare quali sono
-  i vantaggi e svantaggi di OPA e come è stato utilizzato nel progetto scelto.
-  - **[Magistrale]** Il lavoro deve comprendere oltre che una parte di utilizzo
+  i vantaggi e svantaggi di OPA e come è stato utilizzato nel progetto scelto.~~
+  - ~~**[Magistrale]** Il lavoro deve comprendere oltre che una parte di utilizzo
     di Gatekeeper e dei template che sono a disposizione anche una parte di
     implementazione di policy OPA utilizzando il linguaggio Rego. Il progetto deve
-    essere corredato di una estensiva valutazione sperimentale.
+    essere corredato di una estensiva valutazione sperimentale.~~
