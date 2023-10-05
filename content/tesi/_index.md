@@ -18,5 +18,5 @@ page_template: tesiproject.html
 * Le tesi hanno un limite minimo di:
   * ~40 pagine per le triennali
   * ~80 pagine per le magistrali
-* È necessaria la conoscenza, anche minimale, di un sistema Unix/Unix-like
+* È consigliata la conoscenza, anche minimale, di un sistema Unix/Unix-like
 
