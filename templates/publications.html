@@ -5,7 +5,9 @@
   <div class="row">
     <div class="col-xs-4 col-sm-2">
       {% if paper.extra.image %}
-      <img class="paper" src="{{ paper.extra.image }}" />
+        <img class="paper" src="{{ paper.extra.image }}" />
+      {% else %}
+        <img class="paper" src="/publications/{{ paper.slug }}/image.jpg" />
       {% endif %}
     </div>
     <div class="col-xs-8 col-sm-10">
@@ -15,8 +17,16 @@
       </p>
       {% if paper.extra.venue %}<p><i>{{ paper.extra.venue }}</i></p>{% endif %}
       <p>
-        <a href="{{ paper.extra.url }}">Paper</a>
-        {% if paper.extra.bib %}<a href="{{ paper.extra.bib }}">[BibTex]</a>{% endif %}
+        {% if paper.extra.url %}
+          <a href="{{ paper.extra.url }}">Paper</a>
+        {% else %}
+          <a href="/publications/{{ paper.slug }}/paper.pdf">Paper</a>
+        {% endif %}
+        {% if paper.extra.bib %}
+          <a href="{{ paper.extra.bib }}">[BibTeX]</a>
+        {% else %}
+          <a href="/publications/{{ paper.slug }}/cite.bib">[BibTeX]</a>
+        {% endif %}
       </p>
       {% if paper.extra.note %}<p>{{ paper.extra.note | safe }}</p>{% endif %}
       {% if paper.extra.icons %}
