@@ -13,6 +13,15 @@
         {% for page in config.extra.pages %}
           {% if page.separator %}
             <li class="divider-vertical"></li>
+          {% elif page.children %}
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{ page.name }} <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                {% for child in page.children %}
+                  <li><a href="{{ child.url }}">{{ child.name }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
           {% else %}
             <li><a href="{{ page.url }}">{{ page.name }}</a></li>
           {% endif %}

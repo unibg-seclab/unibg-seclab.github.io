@@ -25,7 +25,12 @@ github = "unibg-seclab"
 mail = "seclab [at] unibg [dot] it"
 pages = [
   { name = "People", url = "/people" },
-  { name = "Projects", url = "/projects" },
+  { name = "Projects", url = "/projects", children = [
+      { name = "GLACIATION", url = "https://glaciation-project.eu" },
+      { name = "MOSAICrOWN", url = "https://mosaicrown.eu" },
+      { name = "ESCUDO-CLOUD", url = "https://www.escudocloud.eu" },
+      { name = "SeSQLite", url = "/projects/sesqlite" },
+  ] },
   { name = "Publications", url = "/publications" },
   { separator = true },
   { name = "Progetti di Tesi", url = "/tesi" },
