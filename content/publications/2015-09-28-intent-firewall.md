@@ -8,9 +8,7 @@ taxonomies:
   publication-year:
     - 2015
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.bib"
+  csunibg: 2015/CNS/Intent_Firewall
   venue: in Proc. of the 3rd IEEE Conference on Communications and Network Security (CNS), Florence, Italy, September 28-30, 2015
   icons:
     - ion-ribbon-b

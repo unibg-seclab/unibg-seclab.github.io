@@ -13,9 +13,7 @@ taxonomies:
   publication-year:
     - 2022
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2022/TBD/mondrian-ext.bib"
+  csunibg: 2022/TBD/mondrian-ext
   venue: in IEEE Transactions on Big Data (TBD), September 19, 2022
   icons:
     - fac fa-user,down-7

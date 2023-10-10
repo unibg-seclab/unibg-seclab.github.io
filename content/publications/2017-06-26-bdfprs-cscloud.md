@@ -11,9 +11,7 @@ taxonomies:
   publication-year:
     - 2017
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2017/CSCloud/bdfprs-cscloud2017.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2017/CSCloud/bdfprs-cscloud2017.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2017/CSCloud/bdfprs-cscloud2017.bib"
+  csunibg: 2017/CSCloud/bdfprs-cscloud2017
   venue: in Proc. of the 4th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud), New York, USA, June 26-28, 2017
   icons:
     - ion-cloud

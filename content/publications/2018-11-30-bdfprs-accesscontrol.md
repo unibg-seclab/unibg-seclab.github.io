@@ -11,9 +11,7 @@ taxonomies:
   publication-year:
     - 2018
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2018/Sushil/bdfprs-accesscontrol.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2018/Sushil/bdfprs-accesscontrol.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2018/Sushil/bdfprs-accesscontrol.bib"
+  csunibg: 2018/Sushil/bdfprs-accesscontrol
   venue: "in From Database to Cyber Security: Essays Dedicated to Sushil Jajodia on the Occasion of his 70th Birthday, I. Ray, I. Ray, P. Samarati (eds.), Springer, 2018"
   icons:
     - ion-cloud

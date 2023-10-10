@@ -13,9 +13,7 @@ taxonomies:
   publication-year:
     - 2017
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017.bib"
+  csunibg: 2017/CNS/bbbdfprs-cns2017
   venue: in Proc. of the 5th IEEE Conference on Communications and Network Security (CNS), Las Vegas, USA, October 9-11, 2017
   icons:
     - ion-cloud

@@ -13,9 +13,7 @@ taxonomies:
   publication-year:
     - 2019
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization.bib"
+  csunibg: 2019/PerCom/secure-query-optimization
   github: query-opt
   venue: in Proc. of the 17th IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom), Kyoto, Japan, March 11-15, 2019
   icons:

@@ -12,9 +12,7 @@ taxonomies:
   publication-year:
     - 2021
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2021/GLOBECOM/multi-dimensional-indexes.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2021/GLOBECOM/multi-dimensional-indexes.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2021/GLOBECOM/multi-dimensional-indexes.bib"
+  csunibg: 2021/GLOBECOM/multi-dimensional-indexes
   venue: in Proc. of the 2021 IEEE Global Communications Conference (GLOBECOM), Madrid, Spain. December 7-11, 2021
   icons:
     - ion-cloud

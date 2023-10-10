@@ -8,8 +8,6 @@ taxonomies:
   publication-year:
     - 2015
 extra:
-  image: "https://cs.unibg.it/seclab-papers/2015/SAFECONFIG/Policy_Specialization.jpg"
-  url: "https://cs.unibg.it/seclab-papers/2015/SAFECONFIG/Policy_Specialization.pdf"
-  bib: "https://cs.unibg.it/seclab-papers/2015/SAFECONFIG/Policy_Specialization.bib"
+  csunibg: 2015/SAFECONFIG/Policy_Specialization
   venue: in Proc. of the 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig), Denver, USA, October 12, 2015
 ---
