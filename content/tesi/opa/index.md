@@ -35,8 +35,7 @@ per gestire policy tra molte applicazioni e ambienti di sviluppo/deployment.
 ### PREREQUISITI
 
 - [Consigliato] Aver familiarità con un orchestrator di container (e.g.,
-  [Kubernetes](https://kubernetes.io/it/docs/concepts/overview/what-is-
-  kubernetes/))
+  [Kubernetes](https://kubernetes.io/it/docs/concepts/overview/what-is-kubernetes/))
 - [Consigliato] Aver familiarità con i container (e.g., [Docker](https://www.docker.com/))
 - [Consigliato] Aver familiarità nello sviluppo di applicazioni Cloud
 - [Obbligatorio] Aver familiarità con ambienti Unix
