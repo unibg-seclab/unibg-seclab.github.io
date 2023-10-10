@@ -1,0 +1,53 @@
+{% extends "section.html" %}
+
+{% block section_content %}
+{% for paper in section.pages | sort(attribute="date") | reverse %}
+  <div class="row">
+    <div class="col-xs-4 col-sm-2">
+      {% if paper.extra.image %}
+        <img class="paper" src="{{ paper.extra.image }}" />
+      {% else %}
+        <img class="paper" src="/publications/{{ paper.slug }}/image.jpg" />
+      {% endif %}
+    </div>
+    <div class="col-xs-8 col-sm-10">
+      <b>{{ paper.title }}</b>
+      <p>
+        {{ paper.taxonomies.authors | join(sep=", ") }}
+      </p>
+      {% if paper.extra.venue %}<p><i>{{ paper.extra.venue }}</i></p>{% endif %}
+      <p>
+        {% if paper.extra.url %}
+          <a href="{{ paper.extra.url }}">Paper</a>
+        {% else %}
+          <a href="/publications/{{ paper.slug }}/paper.pdf">Paper</a>
+        {% endif %}
+        {% if paper.extra.bib %}
+          <a href="{{ paper.extra.bib }}">[BibTeX]</a>
+        {% else %}
+          <a href="/publications/{{ paper.slug }}/cite.bib">[BibTeX]</a>
+        {% endif %}
+      </p>
+      {% if paper.extra.note %}<p>{{ paper.extra.note | safe }}</p>{% endif %}
+      {% if paper.extra.icons %}
+      <p style="font-size: 2em">
+      {% if paper.extra.github %}
+        <a href="https://github.com/{{ config.extra.github }}/{{ paper.extra.github }}">
+          <i class="icon ion-social-github" style="margin: .3em"></i>
+        </a>
+      {% endif %}
+      {% for icon in paper.extra.icons %}
+        {% set parts = icon | split(pat=",") %}
+        {% set name = parts[0] %}
+          <i
+            class="icon {{ name }}"
+            {% if parts | length > 1 %}data-fa-transform="{{ parts[1] }}"{% endif %}
+            style="margin: .3em"></i>
+      {% endfor %}
+      </p>
+      {% endif %}
+    </div>
+  </div>
+  <hr />
+{% endfor %}
+{% endblock section_content %}

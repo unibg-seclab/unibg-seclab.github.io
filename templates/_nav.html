@@ -1,0 +1,37 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#thenav">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">{{ config.title }}</a>
+    </div>
+    <div class="collapse navbar-collapse" id="thenav">
+      <ul class="nav navbar-nav">
+        {% for page in config.extra.pages %}
+          {% if page.separator %}
+            <li class="divider-vertical"></li>
+          {% elif page.children %}
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{ page.name }} <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                {% for child in page.children %}
+                  <li><a href="{{ child.url }}">{{ child.name }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li><a href="{{ page.url }}">{{ page.name }}</a></li>
+          {% endif %}
+        {% endfor %}
+
+        {% if config.extra.noteworthy %}
+          <li class="divider-vertical"></li>
+          <li><a href="{{ config.extra.noteworthy.url }}"><strong>{{ config.extra.noteworthy.name }}</strong></a></li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</nav>

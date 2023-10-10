@@ -1,0 +1,45 @@
+{% extends "section.html" %}
+
+{% block extra_head %}
+<script src="https://cdn.jsdelivr.net/vivus/latest/vivus.min.js"></script>
+{% endblock extra_head %}
+
+{% block extra_body %}
+<script>
+new Vivus('logo', {
+    type: 'delayed',
+    file: '/images/logo.svg',
+    duration: 80,
+    animTimingFunction: Vivus.EASE,
+    onReady: function () {
+      const logo = document.getElementById('logo');
+      logo.style.position = 'relative';
+      logo.style.visibility = 'visible';
+    }
+  },
+
+  function(obj) {
+    obj.el.classList.add('finished');
+  }
+);
+</script>
+{% endblock extra_body %}
+
+{% block section_content %}
+{{ section.content | safe }}
+
+<hr />
+<h2>Acknowledgements</h2>
+{% for award in section.extra.acknowledgements %}
+  <div class="row">
+    <div class="col-xs-12 col-sm-8">
+      <h3>{{ award.title }}</h3>
+      <h4>{{ award.when }}</h4>
+      <p>{{ award.description }}</p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <img class="center-block" src="{{ award.image }}" />
+    </div>
+  </div>
+{% endfor %}
+{% endblock section_content %}

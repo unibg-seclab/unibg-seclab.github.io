@@ -1,0 +1,14 @@
+{% extends "section.html" %}
+
+{% block section_content %}
+
+<div class="row">
+  <div class="col-xs-12 col-sm-4">
+    {% include "_tesinav.html" %}
+  </div>
+  <div class="col-xs-12 col-sm-8">
+    {{ section.content | safe }}
+  </div>
+</div>
+
+{% endblock section_content %}

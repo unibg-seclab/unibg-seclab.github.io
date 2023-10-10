@@ -1,0 +1,25 @@
+{% extends "section.html" %}
+
+{% block section_content %}
+{% for page in section.pages %}
+  <h2>{{ page.title }}</h2>
+  <blockquote>
+    {{ page.extra.when | date(format="%d %b %Y") }}
+    {% if page.extra.from and page.extra.to %}
+      ({{ page.extra.from }} &mdash; {{ page.extra.to }})
+    {% endif %}
+    @ {{ page.extra.where }}</blockquote>
+  <div class="row">
+    <div class="col-xs-8 col-xs-offset-2 col-sm-offset-0 col-sm-4 col-xl-3">
+      {% if page.extra.preview_image %}
+        <img src="{{ page.extra.preview_image }}" alt="{{ page.title }}" />
+      {% endif %}
+    </div>
+    <div class="col-xs-12 col-sm-8 col-xl-9 pull-right">
+      {{ page.summary | safe }}
+      <p><i><a href="{{ page.extra.website | default(value=page.permalink) | safe }}">Clicca qui per maggiori informazioni</a></i></p>
+    </div>
+  </div>
+  <hr />
+{% endfor %}
+{% endblock section_content %}

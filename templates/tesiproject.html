@@ -1,0 +1,16 @@
+{% extends "page.html" %}
+
+{% block page_content %}
+<div class="row">
+  <div class="col-xs-12 col-sm-4">
+    <a href="/tesi">Back</a>
+    {% include "_tesinav.html" %}
+  </div>
+  <div class="col-xs-12 col-sm-8">
+    {% if page.extra.unavailable %}
+      <b style="color: red; font-size: 20pt;">Questo progetto di tesi non è più disponibile</b>
+    {% endif %}
+    {{ page.content | safe }}
+  </div>
+</div>
+{% endblock page_content %}

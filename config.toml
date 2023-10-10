@@ -1,0 +1,38 @@
+# The URL the site will be built for
+base_url = "https://seclab.unibg.it"
+
+title = "UniBG Seclab"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+taxonomies = [
+  { name = "authors", feed = false },
+  { name = "publication-year", feed = false },
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+github = "unibg-seclab"
+mail = "seclab [at] unibg [dot] it"
+pages = [
+  { name = "People", url = "/people" },
+  { name = "Projects", url = "/projects", children = [
+      { name = "GLACIATION", url = "https://glaciation-project.eu" },
+      { name = "MOSAICrOWN", url = "https://mosaicrown.eu" },
+      { name = "ESCUDO-CLOUD", url = "https://www.escudocloud.eu" },
+      { name = "SeSQLite", url = "/projects/sesqlite" },
+  ] },
+  { name = "Publications", url = "/publications" },
+  { separator = true },
+  { name = "Progetti di Tesi", url = "/tesi" },
+  { name = "Attività", url = "/activities" },
+]
