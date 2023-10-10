@@ -30,6 +30,6 @@ extra:
 
 ## Source Code
 
-The source code of our open source projects is available at {{ github() }}.
+The source code of our open source projects is available on {{ github() }}.
 
 Star the projects on GitHub to receive updates on future releases.
