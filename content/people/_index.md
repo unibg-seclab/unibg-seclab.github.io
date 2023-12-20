@@ -105,4 +105,5 @@ extra:
   - Chirico Giorgio
   - Perani Enrico
   - Ragosta Stefano
+  - Rota Andrea
 ---
