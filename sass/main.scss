@@ -44,6 +44,11 @@
     height: 20px;
     margin: 15px 5px;
     border-left: 1px solid #f2f2f2;
+    @media(max-width: 768px) {
+      & {
+        display: none;
+      }
+    }
   }
 }
 
