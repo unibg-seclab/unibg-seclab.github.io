@@ -13,8 +13,9 @@ page_template: tesiproject.html
 
 ## Regolamento
 
-* Le tesi vanno scritte in *LaTeX* seguendo la formattazione ufficiale UniBG (è possibile usare [questo template](https://github.com/micheleberetta98/unibg-thesis-template))
-* Il testo della tesi va caricato su un vostro repo *git* (GitHub, Gitlab, etc.) e condiviso con il Seclab
+* Le tesi vanno scritte in *LaTeX* seguendo la formattazione ufficiale UniBG
+  * È possibile usare [questo template](https://github.com/micheleberetta98/unibg-thesis-template)
+  * [Linee guida base](https://berettamichele.com/blog/how-to-latex-basic) per l'uso di LaTeX
 * Le tesi hanno un limite minimo di:
   * ~40 pagine per le triennali
   * ~80 pagine per le magistrali
