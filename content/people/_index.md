@@ -106,4 +106,8 @@ extra:
   - Perani Enrico
   - Ragosta Stefano
   - Rota Andrea
+  - Boschetti Kevin
+  - Gelosa Federico
+  - Corna Giorgio
+  - Longaretti Lorenzo
 ---
