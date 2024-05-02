@@ -1,8 +1,8 @@
 ---
 title: Gianluca Oldani
-weight: 30
+weight: 1030
 extra:
-  active: true
+  active: false
   website: https://trolloldem.github.io
 ---
 
