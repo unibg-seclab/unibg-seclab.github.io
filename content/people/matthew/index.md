@@ -6,7 +6,7 @@ extra:
   website: https://matthewrossi.github.io
 ---
 
-Matthew Rossi is a PhD student at Università degli Studi di Bergamo. His work
-focuses on mobile systems security, policy management and privacy in data market
-scenarios. He loves to solve problems and engage with projects that require him
-to learn new things.
+Matthew Rossi is a post-doctoral researcher at Università degli Studi di
+Bergamo. His work focuses on mobile & cloud security, privacy of outsourced
+data, and policy management. He loves to solve problems and engage with
+projects that require him to learn new things.
