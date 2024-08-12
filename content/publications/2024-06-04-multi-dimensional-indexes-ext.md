@@ -16,5 +16,5 @@ extra:
   venue: in IEEE Transactions on Cloud Computing (TCC), June 04, 2024
   icons:
     - ion-cloud
-  github: flat-index
+  github: unibg-seclab/flat-index
 ---
