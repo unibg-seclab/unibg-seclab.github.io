@@ -17,7 +17,7 @@ extra:
   - Bianchetti Andrea
   - Bikhtancer Amine
   - Boffelli Jacopo
-  - Filippo Bordogna
+  - Bordogna Filippo
   - Bottarelli Davide
   - Bravo Irene
   - Brembilla Andrea
