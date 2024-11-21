@@ -110,4 +110,7 @@ extra:
   - Gelosa Federico
   - Corna Giorgio
   - Longaretti Lorenzo
+  - De Duro Federico
+  - Negro Matias
+  - Ghisleni Luca
 ---
