@@ -113,4 +113,6 @@ extra:
   - De Duro Federico
   - Negro Matias
   - Ghisleni Luca
+  - Bottagisi Luca
+  - Lussignoli Luca
 ---
