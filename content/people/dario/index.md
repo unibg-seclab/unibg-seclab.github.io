@@ -6,8 +6,8 @@ extra:
   website: https://dariofad.github.io
 ---
 
-Dario Facchinetti is a post-doctoral researcher with Università degli Studi
-di Bergamo. He likes to spend time inside the Emacs ecosystem, programming and
-learning about security. He is interested in operating systems (Linux, Android),
-programming languages and data structures, backend programming, and applied
-cryptography.
+Dario Facchinetti is an Assistant Professor at the Università degli
+Studi di Bergamo. He enjoys spending time within the Emacs ecosystem,
+programming, and learning about security. His interests include
+operating systems (Linux, Android), applied cryptography, and the
+Japanese language.
