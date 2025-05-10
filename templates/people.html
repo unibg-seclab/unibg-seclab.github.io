@@ -21,6 +21,11 @@
           <a href="{{ person.extra.website }}">Personal website</a>
         </p>
       {% endif %}
+      {% if person.extra.authorname %}
+        <p>
+          <a href="/authors/{{ person.extra.authorname }}">Publications</a>
+        </p>
+      {% endif %}
     </div>
   </div>
   <hr />

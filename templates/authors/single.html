@@ -1,0 +1,18 @@
+{% extends "_base.html" %}
+
+{% block title %}
+Publications | {{ term.name }}
+{% endblock %}
+
+{% block content %}
+<h1>Publications by {{ term.name }}</h1>
+<hr />
+{% for year, pages in term.pages | group_by(attribute="taxonomies.publication-year.0") %}
+<h2>{{ year }}</h2>
+<ul>
+  {% for p in pages  %}
+  <li><a href="{{ p.permalink }}">{{ p.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endfor %}
+{% endblock content %}

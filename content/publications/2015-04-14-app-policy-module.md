@@ -9,7 +9,36 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/ASIACCS/AppPolicyModules
-  venue: in Proc. of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS), Singapore, Republic of Singapore, April 14-17, 2015
+  venue: Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS)
+  where: Singapore, Republic of Singapore
+  when: April 14-17, 2015
   icons:
     - ion-social-android
 ---
+
+Android has recently introduced the support for Mandatory
+Access Control, which extends previous security services relying
+on the Android Permission Framework and on the
+kernel-level Discretionary Access Control. This extension
+has been obtained with the use of SELinux and its adaptation
+to Android (SEAndroid). Currently, the use of the
+MAC model is limited to the protection of system resources.
+All the apps that are installed by users fall in a single undifferentiated
+domain, untrusted app. We propose an extension
+of the architecture that permits to associate with each app a
+dedicated MAC policy, contained in a dedicated appPolicyModul
+, in order to protect app resources even from malware
+with root privileges.
+
+A crucial difference with respect to the support for policy
+modules already available in some SELinux implementations
+is the need to constrain the policies in order to guarantee
+that an app policy is not able to manipulate the system
+policy. We present the security requirements that have to
+be satisfied by the support for modules and show that our
+solution satisfies these requirements. The support for appPolicyModules
+can also be the basis for the automatic generation
+of policies, with a stricter enforcement of Android
+permissions. A prototype has been implemented and experimental
+results show a minimal performance overhead for
+app installation and runtime.

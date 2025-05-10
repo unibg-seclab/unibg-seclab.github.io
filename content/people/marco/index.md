@@ -4,6 +4,7 @@ weight: 40
 extra:
   active: true
   website: https://cs.unibg.it/abbadini
+  authorname: marco-abbadini
 ---
 
 Marco Abbadini is a PhD student at Università degli Studi di Bergamo since

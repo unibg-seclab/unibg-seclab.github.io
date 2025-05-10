@@ -1,0 +1,33 @@
+{% extends "page.html" %}
+
+{% block page_content %}
+{% set url_base = "https://cs.unibg.it/seclab-papers" %}
+<p>
+  <strong>{{ page.taxonomies.authors | join(sep=", ") }}</strong>
+</p>
+<p>
+  <i>In {{ page.extra.venue }}</i>
+</p>
+<div style="display: flex; margin-bottom: 2em;">
+  <div style="width: 20%;">
+      <a href="{{ url_base }}/{{ page.extra.csunibg }}.pdf">
+        <img class="paper" width="100%" src="{{ url_base }}/{{ page.extra.csunibg }}.jpg" />
+      </a>
+  </div>
+  <div style="width: 80%; padding: 0 2em 0 1.5em; text-align: justify;">
+    {{ page.content | safe }}
+
+    <p>
+      <a style="margin-right: 5px;" href="https://cs.unibg.it/seclab-papers/{{ page.extra.csunibg }}.pdf">
+        Get the paper
+      </a>
+      [<a href="https://cs.unibg.it/seclab-papers/{{ page.extra.csunibg }}.bib">BibTeX</a>]
+    </p>
+    <p>
+    {% if page.extra.note %}
+      {{ page.extra.note | safe }}
+    {% endif %}
+    </p>
+  </div>
+</div>
+{% endblock page_content %}
