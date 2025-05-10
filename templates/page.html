@@ -8,7 +8,11 @@
   {% if page.extra.github %}
     <div class="github-fork-ribbon-wrapper auto">
       <div class="github-fork-ribbon">
+        {% if page.extra.github is containing("/") %}
+        <a href="https://github.com/{{ page.extra.github }}">
+        {% else %}
         <a href="https://github.com/{{ config.extra.github }}/{{ page.extra.github }}">
+        {% endif %}
           Fork me on GitHub
         </a>
       </div>
