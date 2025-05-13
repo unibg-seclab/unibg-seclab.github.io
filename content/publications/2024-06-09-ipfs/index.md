@@ -17,6 +17,8 @@ extra:
   csunibg: 2024/ICC/ipfs
   github: unibg-seclab/ipfs-owner-control
   venue: Proceedings of the IEEE International Conference on Communications (ICC)
+  type: inproceedings
+  doi: 10.1109/ICC51166.2024.10623119
   where: Denver, CO
   when: June 9-13, 2024
   icons:
