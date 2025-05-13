@@ -5,7 +5,7 @@
 {% for person in section.pages | filter(attribute="extra.active", value=true) %}
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
-      <img src="/people/{{ person.slug }}/image.jpg" />
+      <img class="person-image" onclick="multiClick(this)" src="/people/{{ person.slug }}/image.jpg" />
     </div>
     <div class="col-xs-8 col-sm-10">
       <h3>{{ person.title }}</h3>
