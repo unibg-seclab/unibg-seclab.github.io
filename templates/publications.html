@@ -16,8 +16,9 @@
         {% set author = paper.taxonomies.authors | join(sep=" and ") %}
         {% set year = paper.taxonomies["publication-year"][0] %}
         {% set venue = paper.extra.venue %}
-        <!-- <span onclick="alertBib('{{ id }}', '{{ author }}', '{{ venue }}', '{{ paper.title }}', '{{ year }}')">Cite</span> -->
-        <br />
+        <span class="cite-quick-btn" onclick="copyBib(this, '{{ id }}', '{{ author }}', '{{ venue }}', '{{ paper.title }}', '{{ year }}')">Cite</span>
+      </p>
+      <p>
         {{ paper.taxonomies.authors | join(sep=", ") }}
       </p>
       {% if paper.extra.venue %}

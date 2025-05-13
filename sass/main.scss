@@ -99,3 +99,15 @@ img {
 .paper {
   border: 1px solid #555;
 }
+
+.cite-quick-btn {
+  background-color: #eee;
+  padding: 2px 10px;
+  border-radius: 3px;
+  font-style: italic;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #aaa;
+  }
+}
