@@ -2,10 +2,11 @@ let lastClickedImage = null
 let counter = 0
 
 const altimage = {
-  marco: 'https://www.icegif.com/wp-content/uploads/2023/01/icegif-798.gif',
+  marco: 'https://media1.tenor.com/m/IOsHSkS7qpoAAAAC/wicked-cry.gif',
   matthew: 'https://c.tenor.com/3kPGZrOLeiUAAAAC/pepe-the-frog-dancing.gif',
-  dario: 'https://media.tenor.com/sa6Aj3TC4MgAAAAC/pepepunch-smile.gif',
-  michele: 'https://gifdb.com/images/high/pepe-the-frog-performing-magic-meme-zlbba8xi5ru2nr7w.gif',
+  dario: 'https://gifdb.com/images/high/pepe-the-frog-chicken-nuggets-meme-nu5d06wi9gfcbzzf.gif',
+  michele: 'https://media.tenor.com/czUWM5TqIPgAAAAM/2omb-pray.gif',
+  // Professor 'https://gifdb.com/images/high/pepe-the-frog-performing-magic-meme-zlbba8xi5ru2nr7w.gif',
 }
 
 function multiClick(element) {
