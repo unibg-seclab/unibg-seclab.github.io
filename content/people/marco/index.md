@@ -7,7 +7,7 @@ extra:
   authorname: marco-abbadini
 ---
 
-Marco Abbadini is a PhD student at Università degli Studi di Bergamo since
-October 2021. He's interested in Operating Systems Security, Cryptography and
-Privacy focusing his research on Access Control, Data protection and System
-Security. He likes programming and learning new things.
+Marco Abbadini is a Postdoc Researcher at Università degli Studi di Bergamo
+since October 2024. He's interested in System Security, Cryptography and
+Privacy focusing his research on Access Control, Data protection, Cloud
+Security and Micro-architectural / Hardware Security.
