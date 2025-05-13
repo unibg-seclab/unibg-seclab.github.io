@@ -2,7 +2,7 @@ let lastClickedImage = null
 let counter = 0
 
 const altimage = {
-  marco: 'https://media1.tenor.com/m/IOsHSkS7qpoAAAAC/wicked-cry.gif',
+  marco: 'https://media.tenor.com/zQPPt2i1yoMAAAAC/wa.gif',
   matthew: 'https://c.tenor.com/3kPGZrOLeiUAAAAC/pepe-the-frog-dancing.gif',
   dario: 'https://gifdb.com/images/high/pepe-the-frog-chicken-nuggets-meme-nu5d06wi9gfcbzzf.gif',
   michele: 'https://media.tenor.com/czUWM5TqIPgAAAAM/2omb-pray.gif',
