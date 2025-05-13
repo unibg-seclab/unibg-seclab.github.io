@@ -31,7 +31,7 @@
       <p>
         <a href="{{ paper.permalink }}">More info<a/><br />
         <a style="margin-right: 5px;" href="{{ url_base }}/{{ paper.extra.csunibg }}.pdf">PDF</a>
-        [<a href="{{ url_base }}/{{ paper.extra.csunibg }}.bib">BibTeX</a>]
+        [<a href="{{ paper.permalink }}/citation.bib">BibTeX</a>]
       </p>
       {% if paper.extra.note %}<p>{{ paper.extra.note | safe }}</p>{% endif %}
       {% if paper.extra.icons %}
