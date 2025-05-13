@@ -1,23 +1,21 @@
-function formatBib(id, authors, venue, title, year) {
-  if (venue.includes('Proceedings')) {
-    return `@inproceedings{${id},
-  author = {${authors}},
-  title = {${title}},
-  booktitle = {${venue}},
-  year = {${year}},
-}`
-  } else {
-    return `@article{${id},
-  author = {${authors}},
-  title = {${title}},
-  volume = {${venue}},
-  year = {${year}},
-}`
-  }
+function temporaryBtnChange(element, text) {
+  const originalText = element.innerText;
+  element.innerText = text;
+  setTimeout(() => {element.innerText = originalText}, 1000);
 }
 
-function copyBib(element, id, authors, venue, title, year) {
-  navigator.clipboard.writeText(formatBib(id, authors, venue, title, year))
-  element.innerText = 'Copied!'
-  setTimeout(() => {element.innerText = 'Cite'}, 1000)
+function copyBib(element, permalink) {
+  fetch(`${permalink}/citation.bib`)
+    .then((response) => {
+      if (response.ok) {
+        return response.text()
+      }
+    })
+    .then(data => {
+      navigator.clipboard.writeText(data)
+      temporaryBtnChange(element, 'Copied!')
+    })
+    .catch(() => {
+      temporaryBtnChange(element, 'Something failed :(')
+    })
 }
