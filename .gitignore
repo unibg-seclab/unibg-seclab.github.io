@@ -5,3 +5,12 @@ public/
 test/
 .DS_Store
 Gemfile.lock
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
