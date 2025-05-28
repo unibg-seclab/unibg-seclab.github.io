@@ -23,6 +23,12 @@
     <script src="{{ get_url(path='js/cite.js', trailing_slash=false)}}"></script>
     <script src="{{ get_url(path='js/eastereggs.js', trailing_slash=false)}}"></script>
 
+    <script>
+      window.onload = () => {
+        setupCopyButton()
+      }
+    </script>
+
     {% block extra_head %}
     {% endblock extra_head %}
   </head>

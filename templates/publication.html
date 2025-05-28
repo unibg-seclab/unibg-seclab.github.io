@@ -3,9 +3,12 @@
 {% block page_content %}
 {% set url_base = "https://cs.unibg.it/seclab-papers" %}
 <p>
+  {% set data = load_data(path=page.colocated_path ~ "citation.bib", format="bibtex") %}
   <strong>{{ page.taxonomies.authors | join(sep=", ") }}</strong>
 </p>
 <p>
+  {% set tags = data.bibliographies[0].tags %}
+  {% set data = load_data(literal='{"tags": {"doi": 123, "author": "abc"}}', format="json") %}
   <i>In {{ page.extra.venue }}</i>
 </p>
 <div style="display: flex; margin-bottom: 2em;">
@@ -18,10 +21,14 @@
     {{ page.content | safe }}
 
     <p>
+      {% set data = load_data(path=page.colocated_path ~ "citation.bib") %}
+      <pre><code>{{ data | safe }}</code></pre>
+    </p>
+
+    <p>
       <a style="margin-right: 5px;" href="https://cs.unibg.it/seclab-papers/{{ page.extra.csunibg }}.pdf">
         Get the paper
       </a>
-      [<a href="https://cs.unibg.it/seclab-papers/{{ page.extra.csunibg }}.bib">BibTeX</a>]
     </p>
     <p>
     {% if page.extra.note %}

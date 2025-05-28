@@ -12,11 +12,6 @@
     <div class="col-xs-8 col-sm-10">
       <p>
         <b>{{ paper.title }}</b>
-        {% set id = paper.slug %}
-        {% set author = paper.taxonomies.authors | join(sep=" and ") %}
-        {% set year = paper.taxonomies["publication-year"][0] %}
-        {% set venue = paper.extra.venue %}
-        <span class="cite-quick-btn" onclick="copyBib(this, '{{ paper.permalink }}')">Cite</span>
       </p>
       <p>
         {{ paper.taxonomies.authors | join(sep=", ") }}
@@ -30,8 +25,15 @@
       {% endif %}
       <p>
         <a href="{{ paper.permalink }}">More info<a/><br />
-        <a style="margin-right: 5px;" href="{{ url_base }}/{{ paper.extra.csunibg }}.pdf">PDF</a>
-        [<a href="{{ paper.permalink }}/citation.bib">BibTeX</a>]
+      </p>
+      <p>
+        <a class="quick-btn" href="{{ url_base }}/{{ paper.extra.csunibg }}.pdf">PDF</a>
+        <a class="quick-btn" href="{{ paper.permalink }}/citation.bib">BibTeX</a>
+        {% set id = paper.slug %}
+        {% set author = paper.taxonomies.authors | join(sep=" and ") %}
+        {% set year = paper.taxonomies["publication-year"][0] %}
+        {% set venue = paper.extra.venue %}
+        <span class="quick-btn" onclick="copyBib(this, '{{ paper.permalink }}')">Cite</span>
       </p>
       {% if paper.extra.note %}<p>{{ paper.extra.note | safe }}</p>{% endif %}
       {% if paper.extra.icons %}
