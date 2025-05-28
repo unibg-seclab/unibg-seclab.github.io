@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+Mix&amp;Slice Virtual Filesystem
+</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://seclab.unibg.it/main.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/ribbon.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/vivus.css" type="text/css" />
+
+    <script src="https://seclab.unibg.it/js/icons.js"></script>
+    <script src="https://seclab.unibg.it/js/cite.js"></script>
+    <script src="https://seclab.unibg.it/js/eastereggs.js"></script>
+
+    <script>
+      window.onload = () => {
+        setupCopyButton()
+      }
+    </script>
+
+    
+    
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#thenav">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">UniBG Seclab</a>
+    </div>
+    <div class="collapse navbar-collapse" id="thenav">
+      <ul class="nav navbar-nav">
+        
+          
+            <li><a href="&#x2F;people">People</a></li>
+          
+        
+          
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  <li><a href="https:&#x2F;&#x2F;glaciation-project.eu">GLACIATION</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;mosaicrown.eu">MOSAICrOWN</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;www.escudocloud.eu">ESCUDO-CLOUD</a></li>
+                
+                  <li><a href="&#x2F;projects&#x2F;sesqlite">SeSQLite</a></li>
+                
+              </ul>
+            </li>
+          
+        
+          
+            <li><a href="&#x2F;publications">Publications</a></li>
+          
+        
+          
+            <li class="divider-vertical"></li>
+          
+        
+          
+            <li><a href="&#x2F;tesi">Progetti di Tesi</a></li>
+          
+        
+          
+            <li><a href="&#x2F;activities">Attività</a></li>
+          
+        
+
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div id="content" class="container">
+    
+  
+  <h1>Mix&amp;Slice Virtual Filesystem</h1>
+  <hr />
+  
+<div class="row">
+  <div class="col-xs-12 col-sm-4">
+    <a href="/tesi">Back</a>
+    
+
+  <h4>Security</h4>
+  <ul>
+  
+    
+  
+    
+      <li><a href="https:&#x2F;&#x2F;seclab.unibg.it&#x2F;tesi&#x2F;android&#x2F;">Mapping tra Android Permissions e SELinux</a></li>
+    
+  
+    
+      <li><a href="https:&#x2F;&#x2F;seclab.unibg.it&#x2F;tesi&#x2F;fuse&#x2F;">Mix&amp;Slice Virtual Filesystem</a></li>
+    
+  
+    
+      <li><a href="https:&#x2F;&#x2F;seclab.unibg.it&#x2F;tesi&#x2F;opa&#x2F;">Open Policy Agent: esplorazione e sviluppo di policy per cluster Kubernetes</a></li>
+    
+  
+    
+      <li><a href="https:&#x2F;&#x2F;seclab.unibg.it&#x2F;tesi&#x2F;seapp&#x2F;">SEApp: Bringing MAC to Android Apps</a></li>
+    
+  
+    
+      <li><a href="https:&#x2F;&#x2F;seclab.unibg.it&#x2F;tesi&#x2F;query&#x2F;">Secure Query Optimization and Distribution</a></li>
+    
+  
+  </ul>
+  <hr />
+
+  <h4>Software Engineering</h4>
+  <ul>
+  
+    
+      <li><a href="https:&#x2F;&#x2F;seclab.unibg.it&#x2F;tesi&#x2F;byop&#x2F;">Bring Your Own Project (BYOP)</a></li>
+    
+  
+  </ul>
+  <hr />
+
+
+  </div>
+  <div class="col-xs-12 col-sm-8">
+    
+    <p>Filesystem in Userspace (FUSE) è una interfaccia software per sistemi operativi
+*nix che permette ad utenti non privilegiati di creare i propri file system
+senza modificare il codice del kernel.
+Questo è fattibile grazie all'esecuzione del codice del file system nello
+spazio utente mentre il modulo FUSE si occupa di fare da &quot;ponte&quot; all'effettiva
+interfaccia del kernel.</p>
+<p>FUSE è particolarmente utile per scrivere file system virtuali.
+A differenza dei file system tradizionali, i file system virtuali non si
+occupano direttamente di memorizzare i dati sul dispositivo di archiviazione,
+al contrario questi forniscono una vista del contenuto memorizzato su un file
+system già esistente.</p>
+<img src="fuse.png" class="center-block" style="width: 50%" />
+<p>FreyaFS è un filesystem virtuale cifrato per GNU/Linux realizzato sfruttando
+FUSE. L'algoritmo di cifratura utilizzato per l'archiviazione sicura dei dati
+è Mix&amp;Slice, una all-or-nothing-transform basata sull'uso di AES come building
+block.
+Una volta fornita la master password in fase di montaggio del file system,
+il filesystem realizzato si occupa di gestire la creazione, la lettura, la
+modifica e l’eliminazione di file e cartelle gestendo tutte le attività di
+cifratura e decifratura dei dati in modo trasparente all'utente.</p>
+<hr />
+<h3 id="prerequisiti">PREREQUISITI</h3>
+<ul>
+<li>
+<p>Passione per lo studio del funzionamento dei file system</p>
+</li>
+<li>
+<p>Aver letto e compreso il funzionamento di FUSE</p>
+</li>
+<li>
+<p>Aver provato ad installare e utilizzare un file system virtuale</p>
+</li>
+</ul>
+<hr />
+<h3 id="materiale">MATERIALE</h3>
+<ul>
+<li>
+<p>&quot;FreyaFS - a Mix&amp;Slice virtual filesystem&quot; GitHub repository:
+<a href="https://github.com/mosaicrown/freya-fs">https://github.com/mosaicrown/freya-fs</a></p>
+</li>
+<li>
+<p>Mix&amp;Slice encryption scheme:
+<a href="http://spdp.di.unimi.it/papers/bdfprs-ccs2016.pdf">http://spdp.di.unimi.it/papers/bdfprs-ccs2016.pdf</a></p>
+</li>
+<li>
+<p>Library implementing Mix&amp;Slice encryption scheme:
+<a href="https://github.com/unibg-seclab/aesmix">https://github.com/unibg-seclab/aesmix</a></p>
+</li>
+</ul>
+<hr />
+<h3 id="progetti-di-tesi">PROGETTI DI TESI</h3>
+<ul>
+<li>
+<p><strong><em>[Triennale]</em></strong> Estendere FreyaFS con l'obiettivo di nascondere
+completamente la struttura interna del file system ad un attaccante non in
+possesso della master password necessaria al mount del filesystem.</p>
+</li>
+<li>
+<p><strong><em>[Triennale]</em></strong> Migliorare il supporto al multithreading di FreyaFS con
+l'aggiunta di lock in lettura e scrittura al fine di migliorne le performance e
+responsività. È necessario adottare tecniche per prevenire situazioni di
+starvation o deadlock.</p>
+</li>
+<li>
+<p><strong><em>[Magistrale]</em></strong> Migliorare le performance di update e rimozione dei file
+di FreyaFS sfruttando informazioni addizionali quali la suddivisione dei file
+in macro-blocchi adottata da Mix&amp;Slice.
+Successivamente sfruttare le proprietà di Mix&amp;Slice con l'obiettivo di
+realizzare un plausible deniable file system mediante la rotazione di blocchi
+in ramfs.</p>
+</li>
+</ul>
+<hr />
+<p><em><strong>Progetto Bonus</strong>: se hai letto il funzionamento di FUSE e sei rimasto
+folgorato dall’idea di poter realizzare uno tuo file system virtuale con le
+funzionalità che hai sempre sognato, vieni a parlarcene. Siamo sempre aperti a
+nuove idee e progetti interessanti.</em></p>
+
+  </div>
+</div>
+
+
+    </div>
+
+    
+    
+
+    <footer class="footer">
+  <div><strong>Visit us</strong>: Uff. B305 - Viale Marconi, 5 Dalmine</div>
+  <div><strong>Email</strong>: seclab [at] unibg [dot] it</div>
+  <div>
+    <a href="https://twitter.com/unibg_seclab" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+    <a href="https://facebook.com/unibgseclab" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+    <a href="https://github.com/unibg-seclab" target="_blank"><i class="fa-brands fa-github"></i></a>
+    <a href="https://mastodon.social/@unibg_seclab" target="_blank"><i class="fa-brands fa-mastodon"></i></a>
+  </div>
+</footer>
+  </body>
+</html>
