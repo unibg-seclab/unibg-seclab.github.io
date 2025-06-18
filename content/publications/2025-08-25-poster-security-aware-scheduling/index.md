@@ -15,7 +15,7 @@ extra:
   type: inproceedings
   doi: 10.1145/3708821.3735343
   where: Hanoi, Vietnam
-  when: August 25-29, 2024
+  when: August 25-29, 2025
   icons:
     - ion-cloud
 ---
