@@ -17,7 +17,7 @@ extra:
   when: October 16-18, 2023
   note: "<a href='https://cs.unibg.it/seclab-papers/2023/CSAW/natisand-poster.pdf'>CSAW 2023 Poster</a>"
   icons:
-    - fa-brands fa-js,down-5
+    - fa-brands fa-js
 ---
 
 Modern runtimes render JavaScript code in a secure and isolated

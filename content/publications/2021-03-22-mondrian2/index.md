@@ -18,7 +18,7 @@ extra:
   where: Kassel, Germany
   when: March 22-26, 2021
   icons:
-    - fac fa-user,down-7
+    - fac fa-user
 ---
 
 We present an approach for enabling a distributed

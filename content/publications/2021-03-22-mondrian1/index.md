@@ -19,7 +19,7 @@ extra:
   when: March 22-26, 2021
   icons:
     - ion-ribbon-b
-    - fac fa-user,down-7
+    - fac fa-user
   note: "<a href='https://cs.unibg.it/seclab-papers/2021/PerCom/best-artifact-award-certificate.pdf'><u>IEEE PerCom'21 Best Artifact Award</u></a>"
 ---
 

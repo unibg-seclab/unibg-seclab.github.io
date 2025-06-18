@@ -16,7 +16,7 @@ extra:
   where: Melbourne, Australia
   when: July 10-14, 2023
   icons:
-    - fac fa-deno,down-0.27
+    - fac fa-deno
 ---
 
 Deno is a runtime for JavaScript and TypeScript that is receiving

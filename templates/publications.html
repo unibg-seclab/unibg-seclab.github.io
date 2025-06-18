@@ -36,13 +36,13 @@
         <span class="quick-btn" onclick="copyBib(this, '{{ paper.permalink }}')">Cite</span>
       </p>
       {% if paper.extra.note %}<p>{{ paper.extra.note | safe }}</p>{% endif %}
-      {% if paper.extra.icons %}
-      <p style="font-size: 2em">
+      <p style="font-size: 2em; display: flex; align-items: center;">
       {% if paper.extra.github %}
         <a href="https://github.com/{{ paper.extra.github }}" style="text-decoration: none">
           <i class="icon ion-social-github" style="margin: .3em"></i>
         </a>
       {% endif %}
+      {% if paper.extra.icons %}
       {% for icon in paper.extra.icons %}
         {% set parts = icon | split(pat=",") %}
         {% set name = parts[0] %}

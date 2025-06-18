@@ -17,7 +17,7 @@ extra:
   venue: IEEE Transactions on Big Data (TBD)
   when: September 19, 22
   icons:
-    - fac fa-user,down-7
+    - fac fa-user
   github: unibg-seclab/mondrian
 ---
 
