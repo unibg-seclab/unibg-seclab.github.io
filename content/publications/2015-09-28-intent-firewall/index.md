@@ -9,7 +9,7 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/CNS/Intent_Firewall
-  venue: Proceedings of the 3rd IEEE Conference on Communications and Network Security (CNS), Florence, Italy, September 28-30, 2015
+  venue: Proceedings of the 3rd IEEE Conference on Communications and Network Security (CNS)
   where: Florence, Italy
   when: September 28-30, 2015
   icons:
