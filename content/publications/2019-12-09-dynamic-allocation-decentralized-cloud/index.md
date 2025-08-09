@@ -12,9 +12,6 @@ taxonomies:
     - 2019
 extra:
   csunibg: 2019/GLOBECOM/bdfprs-globecom2019
-  venue: Proceedings of the 2019 IEEE Global Communications Conference (GLOBECOM), Waikoloa, USA, December 9-13, 2019
-  where: Waikaloa, USA
-  when: December 9-13, 2019
   icons:
     - ion-cloud
 ---
@@ -28,7 +25,6 @@ DCS for data storage, data owners therefore need solutions that
 guarantee confidentiality and availability of their data. In this
 paper, we present an approach enabling data owners to keep
 data confidentiality and availability under control, limiting the
-owners intervention with corrective actions when availability or
 confidentiality is at risk. Our approach is based on the combined
 adoption of AONT (All-Or-Nothing-Transform) and fountain
 codes. It provides confidentiality of outsourced data also against

@@ -14,8 +14,6 @@ taxonomies:
     - 2022
 extra:
   csunibg: 2022/TBD/mondrian-ext
-  venue: IEEE Transactions on Big Data (TBD)
-  when: September 19, 22
   icons:
     - fac fa-user
   github: unibg-seclab/mondrian

@@ -14,9 +14,6 @@ taxonomies:
     - 2016
 extra:
   csunibg: 2016/WISCS/bdfgprss-wiscs2016
-  venue: Proceedings of the 3rd ACM Workshop on Information Sharing and Collaborative Security (WISCS)
-  where: Vienna, Austria
-  when: October 24, 2016
   icons:
     - ion-cloud
   github: unibg-seclab/encSwift
@@ -27,7 +24,6 @@ by the adoption of cloud storage solutions. In many scenarios,
 this adoption could be hampered by possible concerns
 about data confidentiality, as cloud providers are not
 trusted to know the content of the data they store. Especially
-when the data are organized in objects, the application
 of an encryption layer is an interesting solution to this problem,
 because it o↵ers strong confidentiality guarantees with
 a limited performance overhead. In a data sharing scenario,

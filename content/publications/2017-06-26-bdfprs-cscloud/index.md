@@ -12,9 +12,6 @@ taxonomies:
     - 2017
 extra:
   csunibg: 2017/CSCloud/bdfprs-cscloud2017
-  venue: Proceedings of the 4th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)
-  where: New York, USA
-  when: June 26-28, 2017
   icons:
     - ion-cloud
 ---

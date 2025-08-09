@@ -13,8 +13,6 @@ taxonomies:
     - 2024
 extra:
   csunibg: 2024/TCC/flat-index
-  venue: IEEE Transactions on Cloud Computing (TCC)
-  when: June 04, 2024
   icons:
     - ion-cloud
   github: unibg-seclab/flat-index

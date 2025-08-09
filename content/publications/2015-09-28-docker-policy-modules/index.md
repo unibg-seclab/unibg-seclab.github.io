@@ -10,9 +10,6 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/CNS/Docker
-  venue: Proceedings of the 3rd IEEE Conference on Communications and Network Security (CNS)
-  where: Florence, Italy
-  when: September 28-30, 2015
   note: <a href="https://cs.unibg.it/seclab-papers/2015/CNS/Docker_poster.pdf">Poster</a>
 ---
 

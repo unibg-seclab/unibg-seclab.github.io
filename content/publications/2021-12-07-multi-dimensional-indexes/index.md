@@ -13,9 +13,6 @@ taxonomies:
     - 2021
 extra:
   csunibg: 2021/GLOBECOM/multi-dimensional-indexes
-  venue: Proceedings of the 2021 IEEE Global Communications Conference (GLOBECOM)
-  where: Madrid, Spain
-  when: December 7-11, 2021
   icons:
     - ion-cloud
 ---

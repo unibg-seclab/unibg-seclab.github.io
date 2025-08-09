@@ -9,9 +9,6 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/ASIACCS/AppPolicyModules
-  venue: Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS)
-  where: Singapore, Republic of Singapore
-  when: April 14-17, 2015
   icons:
     - ion-social-android
 ---

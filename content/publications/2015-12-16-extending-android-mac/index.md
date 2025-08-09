@@ -9,9 +9,6 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/ICISS/Extending_SELinux_Android
-  venue: Proceedings of the 11th International Conference on Information Systems Security (ICISS)
-  where: Kolkata, India
-  when: December 16-20, 2015
   icons:
     - ion-social-android
 ---

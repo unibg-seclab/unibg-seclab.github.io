@@ -12,16 +12,12 @@ taxonomies:
 extra:
   csunibg: 2023/RAID/natisand
   github: unibg-seclab/natisand
-  venue: Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
-  where: Hong Kong, China
-  when: October 16-18, 2023
   note: "<a href='https://cs.unibg.it/seclab-papers/2023/CSAW/natisand-poster.pdf'>CSAW 2023 Poster</a>"
   icons:
     - fa-brands fa-js
 ---
 
 Modern runtimes render JavaScript code in a secure and isolated
-environment, but when they execute binary programs and shared
 libraries, no isolation guarantees are provided. This is an important
 limitation, and it affects many popular runtimes including Node.js,
 Deno, and Bun.

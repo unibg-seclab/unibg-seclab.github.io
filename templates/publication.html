@@ -1,35 +1,48 @@
 {% extends "page.html" %}
 
 {% block page_content %}
-{% set url_base = "https://cs.unibg.it/seclab-papers" %}
+{% set data = load_data(path=page.colocated_path ~ "citation.bib", format="bibtex") %}
+{% set type = data.bibliographies[0].entry_type %}
+{% set tags = data.bibliographies[0].tags %}
 <p>
-  {% set data = load_data(path=page.colocated_path ~ "citation.bib", format="bibtex") %}
   <strong>{{ page.taxonomies.authors | join(sep=", ") }}</strong>
 </p>
 <p>
   {% set tags = data.bibliographies[0].tags %}
-  {% set data = load_data(literal='{"tags": {"doi": 123, "author": "abc"}}', format="json") %}
-  <i>In {{ page.extra.venue }}</i>
+  {% if type == "inproceedings" %}
+    <i>In {{ tags.booktitle | replace(from="Proceedings", to="Proc.") }}</i><br />
+    <i>{{ tags.location }}, {{ tags.month }} {{ tags.day }}, {{ tags.year }}</i>
+  {% elif type == "article" %}
+    <i>In {{ tags.journal }}</i><br />
+    <i>{{ tags.month }} {{ tags.year }}</i>
+  {% elif type == "incollection" %}
+    <i>{{ tags.booktitle }}, {{ tags.editor }} (eds.), {{ tags.publisher }}</i>
+    <i>{{ tags.year }}</i>
+  {% endif %}
 </p>
 <div style="display: flex; margin-bottom: 2em;">
   <div style="width: 20%;">
-      <a href="{{ url_base }}/{{ page.extra.csunibg }}.pdf">
-        <img class="paper" width="100%" src="{{ url_base }}/{{ page.extra.csunibg }}.jpg" />
+    <p>
+      {% set url = "https://cs.unibg.it/seclab-papers/" ~ page.extra.csunibg %}
+      <a href="{{ url }}.pdf">
+        <img class="paper" width="100%" src="{{ url }}.jpg" />
       </a>
+    </p>
+    <p>
+      <a class="quick-btn" href="{{ url }}.pdf">
+        Get the paper
+      </a>
+      <a class="quick-btn" onclick="copyBib(this, '{{ page.permalink }}')">Cite</a>
+    </p>
   </div>
   <div style="width: 80%; padding: 0 2em 0 1.5em; text-align: justify;">
     {{ page.content | safe }}
 
     <p>
-      {% set data = load_data(path=page.colocated_path ~ "citation.bib") %}
-      <pre><code>{{ data | safe }}</code></pre>
+     {% set text_data = load_data(path=page.colocated_path ~ "citation.bib") %}
+      <pre><code>{{ text_data | safe }}</code></pre>
     </p>
 
-    <p>
-      <a style="margin-right: 5px;" href="https://cs.unibg.it/seclab-papers/{{ page.extra.csunibg }}.pdf">
-        Get the paper
-      </a>
-    </p>
     <p>
     {% if page.extra.note %}
       {{ page.extra.note | safe }}

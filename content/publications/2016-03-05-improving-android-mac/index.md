@@ -10,8 +10,6 @@ taxonomies:
     - 2016
 extra:
   csunibg: 2016/TOCS/Android
-  venue: Tiny Transactions on Computer Science (TinyToCS)
-  when: March 5, 2016
   icons:
     - ion-social-android
 ---

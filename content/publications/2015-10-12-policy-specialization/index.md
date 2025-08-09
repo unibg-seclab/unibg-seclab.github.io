@@ -9,9 +9,6 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/SAFECONFIG/Policy_Specialization
-  venue: Proceedings of the 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig)
-  where: Denver, USA
-  when: October 12, 2015
 ---
 
 The exponential growth of modern information systems has
@@ -27,7 +24,6 @@ flexibility given by MAC models, such as SELinux.
 
 In this paper we show how the constructs already available
 in SELinux and the specialization of security domains can
-be leveraged to define boundaries where the applications are
 confined but still able to introduce sophisticated security
 patterns, such as application isolation and the least privilege
 principle. After defining the proposed model, we describe

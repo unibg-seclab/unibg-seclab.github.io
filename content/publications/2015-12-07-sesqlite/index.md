@@ -9,9 +9,6 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/ACSAC/SeSQLite
-  venue: Proceedings of the 31st Annual Computer Security Applications Conference (ACSAC), Los Angeles, USA
-  where: Los Angeles, USA
-  when: December 7-11, 2015
   icons:
     - ion-social-android
   github: unibg-seclab/sesqlite

@@ -11,11 +11,6 @@ taxonomies:
 extra:
   csunibg: 2025/ASIACCS/poster-security-aware-scheduling
   github: matthewrossi/k8s-secure-scheduling
-  venue: Proceedings of the 20th ACM ASIA Conference on Computer and Communications Security (ASIACCS)
-  type: inproceedings
-  doi: 10.1145/3708821.3735343
-  where: Hanoi, Vietnam
-  when: August 25-29, 2025
   icons:
     - ion-cloud
 ---

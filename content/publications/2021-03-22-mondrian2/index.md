@@ -14,9 +14,6 @@ taxonomies:
 extra:
   csunibg: 2021/PerCom/mondrian
   github: unibg-seclab/mondrian
-  venue: Proceedings of 19th IEEE International Conference on Pervasive Computing and Communications (PerCom)
-  where: Kassel, Germany
-  when: March 22-26, 2021
   icons:
     - fac fa-user
 ---

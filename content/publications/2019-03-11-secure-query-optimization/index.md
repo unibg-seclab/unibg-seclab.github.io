@@ -15,9 +15,6 @@ taxonomies:
 extra:
   csunibg: 2019/PerCom/secure-query-optimization
   github: unibg-seclab/query-opt
-  venue: Proceedings of the 17th IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom)
-  where: Kyoto, Japan
-  when: March 11-15, 2019
   icons:
     - ion-cloud
   note: <a href="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization-poster.pdf">Poster</a>

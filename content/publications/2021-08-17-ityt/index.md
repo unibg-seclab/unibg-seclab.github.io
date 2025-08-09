@@ -12,9 +12,6 @@ taxonomies:
     - 2021
 extra:
   csunibg: 2021/ARES/ityt
-  venue: Proceedings of the 16th International Conference on Availability, Reliability and Security (ARES)
-  where: Virtual
-  when: August 17-20, 2021
   icons:
     - ion-android-lock
   github: unibg-seclab/ityt

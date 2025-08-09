@@ -12,9 +12,6 @@ taxonomies:
 extra:
   csunibg: 2023/ASIACCS/paper/cage4deno
   github: unibg-seclab/Cage4Deno
-  venue: Proceedings of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS)
-  where: Melbourne, Australia
-  when: July 10-14, 2023
   icons:
     - fac fa-deno
 ---

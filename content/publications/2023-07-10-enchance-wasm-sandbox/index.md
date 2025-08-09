@@ -12,9 +12,6 @@ taxonomies:
     - 2023
 extra:
   csunibg: 2023/ASIACCS/poster/enhance-wasm-sandbox
-  venue: Proceedings of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS)
-  where: Melbourne, Australia
-  when: July 10-14, 2023
   note: "<a href='https://cs.unibg.it/seclab-papers/2022/USENIX/wasi-poster.pdf'>USENIX Security 2022 Poster</a>"
   icons:
     - fac fa-wa

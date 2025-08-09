@@ -13,9 +13,6 @@ taxonomies:
 extra:
   csunibg: 2023/CLOUDCOM/dmng
   github: unibg-seclab/dmng
-  venue: Proceedings of the 14th IEEE International Conference on Cloud Computing Technology and Science (CLOUDCOM)
-  where: Naples, Italy
-  when: December 4-6, 2023
   icons:
     - ion-cloud
 ---

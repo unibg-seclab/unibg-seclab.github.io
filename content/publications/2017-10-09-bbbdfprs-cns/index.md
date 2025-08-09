@@ -14,9 +14,6 @@ taxonomies:
     - 2017
 extra:
   csunibg: 2017/CNS/bbbdfprs-cns2017
-  venue: Proceedings of the 5th IEEE Conference on Communications and Network Security (CNS)
-  where: Las Vegas, USA
-  when: October 9-11, 2017
   icons:
     - ion-cloud
   note: <a href="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017-poster.pdf">Poster</a>

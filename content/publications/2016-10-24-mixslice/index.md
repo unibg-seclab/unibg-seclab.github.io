@@ -12,9 +12,6 @@ taxonomies:
     - 2016
 extra:
   csunibg: 2016/CCS/bdfprs-ccs2016
-  venue: Proceedings of the 23rd ACM Conference on Computer and Communication Security (CCS)
-  where: Vienna, Austria
-  when: October 24-28, 2016
   icons:
     - ion-cloud
   github: unibg-seclab/aesmix

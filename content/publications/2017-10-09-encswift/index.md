@@ -9,9 +9,6 @@ taxonomies:
     - 2017
 extra:
   csunibg: 2017/CNS/ers-cns2017
-  venue: Proceedings of the 5th IEEE Conference on Communications and Network Security (CNS), Las Vegas, USA
-  where: Las Vegas, USA
-  when: October 9-11, 2017
   icons:
     - ion-cloud
 ---

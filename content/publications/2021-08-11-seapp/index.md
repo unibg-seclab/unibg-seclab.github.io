@@ -11,9 +11,6 @@ taxonomies:
     - 2021
 extra:
   csunibg: 2021/USENIX/seapp
-  venue: Proceedings of 30th USENIX Security Symposium (USENIX Security)
-  where: Virtual
-  when: August 11-13, 2023
   note: "<a href='https://cs.unibg.it/seclab-papers/2021/CSAW/seapp-poster.pdf'>CSAW 2021 Poster</a><br><a href='https://cs.unibg.it/seclab-papers/2022/USENIX/seapp-poster.pdf'>USENIX Security 2022 Poster</a><br><a href='https://cs.unibg.it/seclab-papers/2021/CSAW/arc-finalist-certificate.pdf'><u>CSAW 2021 Applied Research Competition Finalist A</u></a> & <a href='https://drive.google.com/file/d/1kUxstkCdRUDYZQDfT2TFn8_X568Y-3R5/view?usp=sharing'><u>B</u></a>"
   icons:
     - ion-social-android

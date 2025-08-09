@@ -12,9 +12,6 @@ taxonomies:
     - 2016
 extra:
   csunibg: 2016/SECURECOMM/bdfprs-securecomm2016
-  venue: Proceedings of the 12th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)
-  where: Guangzhou, China
-  when: October 10-12, 2016
   icons:
     - ion-cloud
 ---
