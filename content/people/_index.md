@@ -115,4 +115,10 @@ extra:
   - Ghisleni Luca
   - Bottagisi Luca
   - Lussignoli Luca
+  - Belotti Matteo
+  - Picco Fabio
+  - Kenna Miriam Fatima
+  - Bonsembiante Davide
+  - Paganelli Thomas
+  - Rottoli Michael
 ---
