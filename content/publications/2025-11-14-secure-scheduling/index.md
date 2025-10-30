@@ -10,6 +10,7 @@ taxonomies:
     - 2025
 extra:
   csunibg: 2025/CLOUDCOM/secure-scheduling
+  github: matthewrossi/k8s-secure-scheduling
   icons:
     - fa-solid fa-dharmachakra
     - ion-cloud
