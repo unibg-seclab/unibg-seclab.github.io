@@ -121,4 +121,6 @@ extra:
   - Bonsembiante Davide
   - Paganelli Thomas
   - Rottoli Michael
+  - Locatelli Giacomo
+  - Dell'Orzo Irene
 ---
