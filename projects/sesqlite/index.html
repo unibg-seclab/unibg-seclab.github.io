@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+SeSQLite
+</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://seclab.unibg.it/main.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/ribbon.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/vivus.css" type="text/css" />
+
+    <script src="https://seclab.unibg.it/js/icons.js"></script>
+    <script src="https://seclab.unibg.it/js/cite.js"></script>
+    <script src="https://seclab.unibg.it/js/eastereggs.js"></script>
+
+    <script>
+      window.onload = () => {
+        setupCopyButton()
+      }
+    </script>
+
+    
+    
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#thenav">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">UniBG Seclab</a>
+    </div>
+    <div class="collapse navbar-collapse" id="thenav">
+      <ul class="nav navbar-nav">
+        
+          
+            <li><a href="&#x2F;people">People</a></li>
+          
+        
+          
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  <li><a href="https:&#x2F;&#x2F;glaciation-project.eu">GLACIATION</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;mosaicrown.eu">MOSAICrOWN</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;www.escudocloud.eu">ESCUDO-CLOUD</a></li>
+                
+                  <li><a href="&#x2F;projects&#x2F;sesqlite">SeSQLite</a></li>
+                
+              </ul>
+            </li>
+          
+        
+          
+            <li><a href="&#x2F;publications">Publications</a></li>
+          
+        
+          
+            <li class="divider-vertical"></li>
+          
+        
+          
+            <li><a href="&#x2F;tesi">Progetti di Tesi</a></li>
+          
+        
+          
+            <li><a href="&#x2F;activities">Attività</a></li>
+          
+        
+
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div id="content" class="container">
+    
+  
+    <div class="github-fork-ribbon-wrapper auto">
+      <div class="github-fork-ribbon">
+        
+        <a href="https://github.com/unibg-seclab/sesqlite">
+        
+          Fork me on GitHub
+        </a>
+      </div>
+    </div>
+  
+  <h1>SeSQLite</h1>
+  <hr />
+  
+  <p>SQLite is the most widely deployed in-process library that implements a SQL
+database engine. It offers high storage efficiency, fast query operation and
+small memory needs. Due to the fact that a complete SQLite database is stored
+in a single cross-platform disk file and SQLite does not support multiple users,
+anyone who has direct access to the file can read the whole database content.</p>
+<p>SELinux was originally developed as a Mandatory Access Control (MAC) mechanism
+for Linux to demonstrate how to overcome DAC limitations. However, SELinux
+provides per-file protection, thus the database file is treated as an atomic
+unit, impeding the definition of a fine-grained mandatory access control (MAC)
+policy for database objects.</p>
+<p>SeSQLite is a SQLite extension that integrates SELinux access controls into
+SQLite with minimal performance and storage overhead. SeSQLite implements
+labeling and access control at both schema level (for tables and columns) and
+row level. This permits the management of a fine-grained access policy for
+database objects.</p>
+<hr />
+<h2 id="source-code">Source Code</h2>
+<p>The source code is available on <a href="https://github.com/unibg-seclab/sesqlite">GitHub</a>. Star
+the project on GitHub to receive updates on future releases.</p>
+<p>SeSQLite is still in an alpha version, but the core functionalities of SQL
+are provided and integrated with the Mandatory Access Control checks provided
+by SELinux.</p>
+<hr />
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>The SeSQLite project won a Google Award in the Winter 2014 branch.</p>
+<p><img src="/images/faculty_award.png" alt="" /></p>
+<hr />
+<h2 id="project-publications">Project Publications</h2>
+<div class="row">
+  <div class="col-xs-4 col-sm-2">
+    
+    <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ICISS&#x2F;Extending_SELinux_Android.pdf">
+    <img class="paper img-responsive" src="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ICISS&#x2F;Extending_SELinux_Android.jpg" />
+    </a>
+    
+  </div>
+  <div class="col-xs-8 col-sm-10">
+    <b>Extending Mandatory Access Control Policies in Android</b>
+    <p>Stefano Paraboschi, Enrico Bacis, Simone Mutti</p>
+    <p><i>in 11th International Conference on Information Systems Security (ICISS 2015)</i></p>
+    
+      <p>
+        <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ICISS&#x2F;Extending_SELinux_Android.pdf">Paper</a>
+        
+      </p>
+    
+    
+    
+    <p style="font-size: 2em">
+    
+    
+      
+      
+        <i
+          class="icon ion-social-android"
+          
+          style="margin: .3em"></i>
+    
+    </p>
+    
+  </div>
+</div>
+<hr />
+<div class="row">
+  <div class="col-xs-4 col-sm-2">
+    
+    <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ACSAC&#x2F;SeSQLite.pdf">
+    <img class="paper img-responsive" src="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ACSAC&#x2F;SeSQLite.jpg" />
+    </a>
+    
+  </div>
+  <div class="col-xs-8 col-sm-10">
+    <b>SeSQLite: Security Enhanced SQLite</b>
+    <p>Simone Mutti, Enrico Bacis and Stefano Paraboschi</p>
+    <p><i>in 31st Annual Computer Security Applications Conference (ACSAC 2015)</i></p>
+    
+      <p>
+        <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ACSAC&#x2F;SeSQLite.pdf">Paper</a>
+        
+      </p>
+    
+    
+    
+    <p style="font-size: 2em">
+    
+    
+      
+      
+        <i
+          class="icon ion-social-github"
+          
+          style="margin: .3em"></i>
+    
+      
+      
+        <i
+          class="icon ion-social-android"
+          
+          style="margin: .3em"></i>
+    
+    </p>
+    
+  </div>
+</div>
+<hr />
+<div class="row">
+  <div class="col-xs-4 col-sm-2">
+    
+    <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;SAFECONFIG&#x2F;Policy_Specialization.pdf">
+    <img class="paper img-responsive" src="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;SAFECONFIG&#x2F;Policy_Specialization.jpg" />
+    </a>
+    
+  </div>
+  <div class="col-xs-8 col-sm-10">
+    <b>Policy Specialization to Support Domain Isolation</b>
+    <p>Simone Mutti, Enrico Bacis and Stefano Paraboschi</p>
+    <p><i>in 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig 2015)</i></p>
+    
+      <p>
+        <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;SAFECONFIG&#x2F;Policy_Specialization.pdf">Paper</a>
+        
+      </p>
+    
+    
+    
+  </div>
+</div>
+<hr />
+<div class="row">
+  <div class="col-xs-4 col-sm-2">
+    
+    <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;CNS&#x2F;Intent_Firewall.pdf">
+    <img class="paper img-responsive" src="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;CNS&#x2F;Intent_Firewall.jpg" />
+    </a>
+    
+  </div>
+  <div class="col-xs-8 col-sm-10">
+    <b>An SELinux-based Intent manager for Android</b>
+    <p>Simone Mutti, Enrico Bacis and Stefano Paraboschi</p>
+    <p><i>in Communications and Network Security (CNS), 2015 IEEE Conference, 2015</i></p>
+    
+      <p>
+        <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;CNS&#x2F;Intent_Firewall.pdf">Paper</a>
+        
+      </p>
+    
+    <p>IEEE CNS'15 Best Poster Award</p>
+    
+    <p style="font-size: 2em">
+    
+    
+      
+      
+        <i
+          class="icon ion-ribbon-b"
+          
+          style="margin: .3em"></i>
+    
+      
+      
+        <i
+          class="icon ion-social-android"
+          
+          style="margin: .3em"></i>
+    
+    </p>
+    
+  </div>
+</div>
+<hr />
+<div class="row">
+  <div class="col-xs-4 col-sm-2">
+    
+    <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ASIACCS&#x2F;AppPolicyModules.pdf">
+    <img class="paper img-responsive" src="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ASIACCS&#x2F;AppPolicyModules.jpg" />
+    </a>
+    
+  </div>
+  <div class="col-xs-8 col-sm-10">
+    <b>AppPolicyModules: Mandatory Access Control for Third-Party Apps</b>
+    <p>Enrico Bacis, Simone Mutti and Stefano Paraboschi</p>
+    <p><i>in 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)</i></p>
+    
+      <p>
+        <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2015&#x2F;ASIACCS&#x2F;AppPolicyModules.pdf">Paper</a>
+        
+      </p>
+    
+    
+    
+    <p style="font-size: 2em">
+    
+    
+      
+      
+        <i
+          class="icon ion-social-android"
+          
+          style="margin: .3em"></i>
+    
+    </p>
+    
+  </div>
+</div>
+  
+
+    </div>
+
+    
+    
+
+    <footer class="footer">
+  <div><strong>Visit us</strong>: Uff. B305 - Viale Marconi, 5 Dalmine</div>
+  <div><strong>Email</strong>: seclab [at] unibg [dot] it</div>
+  <div>
+    <a href="https://twitter.com/unibg_seclab" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+    <a href="https://facebook.com/unibgseclab" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+    <a href="https://github.com/unibg-seclab" target="_blank"><i class="fa-brands fa-github"></i></a>
+    <a href="https://mastodon.social/@unibg_seclab" target="_blank"><i class="fa-brands fa-mastodon"></i></a>
+  </div>
+</footer>
+  </body>
+</html>

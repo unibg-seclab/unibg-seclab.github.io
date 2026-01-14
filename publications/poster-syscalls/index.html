@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+POSTER: Transparent Temporally-Specialized System Call Filters
+</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://seclab.unibg.it/main.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/ribbon.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/vivus.css" type="text/css" />
+
+    <script src="https://seclab.unibg.it/js/icons.js"></script>
+    <script src="https://seclab.unibg.it/js/cite.js"></script>
+    <script src="https://seclab.unibg.it/js/eastereggs.js"></script>
+
+    <script>
+      window.onload = () => {
+        setupCopyButton()
+      }
+    </script>
+
+    
+    
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#thenav">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">UniBG Seclab</a>
+    </div>
+    <div class="collapse navbar-collapse" id="thenav">
+      <ul class="nav navbar-nav">
+        
+          
+            <li><a href="&#x2F;people">People</a></li>
+          
+        
+          
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  <li><a href="https:&#x2F;&#x2F;glaciation-project.eu">GLACIATION</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;mosaicrown.eu">MOSAICrOWN</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;www.escudocloud.eu">ESCUDO-CLOUD</a></li>
+                
+                  <li><a href="&#x2F;projects&#x2F;sesqlite">SeSQLite</a></li>
+                
+              </ul>
+            </li>
+          
+        
+          
+            <li><a href="&#x2F;publications">Publications</a></li>
+          
+        
+          
+            <li class="divider-vertical"></li>
+          
+        
+          
+            <li><a href="&#x2F;tesi">Progetti di Tesi</a></li>
+          
+        
+          
+            <li><a href="&#x2F;activities">Attività</a></li>
+          
+        
+
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div id="content" class="container">
+    
+  
+  <h1>POSTER: Transparent Temporally-Specialized System Call Filters</h1>
+  <hr />
+  
+
+
+
+<p>
+  <strong>Matthew Rossi, Michele Beretta, Dario Facchinetti, Stefano Paraboschi</strong>
+</p>
+<p>
+  
+  
+    <i>In Proc. of the 20th ACM ASIA Conference on Computer
+               and Communications Security (ASIACCS)</i><br />
+    <i>Hanoi, Vietnam, August 25-29, 2025</i>
+  
+</p>
+<div style="display: flex; margin-bottom: 2em;">
+  <div style="width: 20%;">
+    <p>
+      
+      <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2025&#x2F;ASIACCS&#x2F;poster-syscalls.pdf">
+        <img class="paper" width="100%" src="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2025&#x2F;ASIACCS&#x2F;poster-syscalls.jpg" />
+      </a>
+    </p>
+    <p>
+      <a class="quick-btn" href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2025&#x2F;ASIACCS&#x2F;poster-syscalls.pdf">
+        Get the paper
+      </a>
+      <a class="quick-btn" onclick="copyBib(this, 'https:&#x2F;&#x2F;seclab.unibg.it&#x2F;publications&#x2F;poster-syscalls&#x2F;')">Cite</a>
+    </p>
+  </div>
+  <div style="width: 80%; padding: 0 2em 0 1.5em; text-align: justify;">
+    <p>Reducing the attack surface of the OS kernel is an effective technique to
+enhance the security of application workloads.
+In Linux systems, developers can restrict the set of available
+system calls by using seccomp.
+Although being widely adopted in browsers,
+container runtimes, and sandboxing tools, this approach presents some challenges:
+(i) applying precise filters often requires significant application
+modifications, which can impede developer productivity,
+and
+(ii) the transparent enforcement of filters is bound to use a single, static
+list with every syscall the application might ever need, resulting
+in overly permissive and less effective security boundaries.</p>
+<p>In this paper, we propose an automated method to generate temporally-specialized
+seccomp filters tailored to the current application state.
+This significantly enhances the effectiveness of filters, and overcomes the
+major limitations associated with a single, static filter.
+We implement our solution by leveraging the eBPF subsystem in the Linux kernel.
+Specifically, we use in-kernel eBPF programs to monitor the application state
+and dynamically enable or disable specialized seccomp filters in response to
+state transitions.
+We discuss how this approach addresses the limitations of state-of-the-art
+solutions.
+Finally, we validate the feasibility of our proposal and show that it introduces
+a limited overhead.</p>
+
+
+    <p>
+     
+      <pre><code>@inproceedings{poster-syscalls,
+  author = {Matthew Rossi and Michele Beretta and Dario Facchinetti and
+            Stefano Paraboschi},
+  booktitle = {Proceedings of the 20th ACM ASIA Conference on Computer
+               and Communications Security (ASIACCS)},
+  doi = {10.1145/3708821.3735342},
+  title = {POSTER:~Transparent Temporally-Specialized System Call Filters},
+  day = {25-29},
+  month = {August},
+  year = {2025},
+  location = {Hanoi, Vietnam},
+}
+</code></pre>
+    </p>
+
+    <p>
+    
+    </p>
+  </div>
+</div>
+
+
+    </div>
+
+    
+    
+
+    <footer class="footer">
+  <div><strong>Visit us</strong>: Uff. B305 - Viale Marconi, 5 Dalmine</div>
+  <div><strong>Email</strong>: seclab [at] unibg [dot] it</div>
+  <div>
+    <a href="https://twitter.com/unibg_seclab" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+    <a href="https://facebook.com/unibgseclab" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+    <a href="https://github.com/unibg-seclab" target="_blank"><i class="fa-brands fa-github"></i></a>
+    <a href="https://mastodon.social/@unibg_seclab" target="_blank"><i class="fa-brands fa-mastodon"></i></a>
+  </div>
+</footer>
+  </body>
+</html>

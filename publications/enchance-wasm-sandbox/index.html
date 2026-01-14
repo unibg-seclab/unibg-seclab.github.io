@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+POSTER: Leveraging eBPF to enhance sandboxing of WebAssembly runtimes
+</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://seclab.unibg.it/main.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/ribbon.css" type="text/css" />
+    <link rel="stylesheet" href="https://seclab.unibg.it/vivus.css" type="text/css" />
+
+    <script src="https://seclab.unibg.it/js/icons.js"></script>
+    <script src="https://seclab.unibg.it/js/cite.js"></script>
+    <script src="https://seclab.unibg.it/js/eastereggs.js"></script>
+
+    <script>
+      window.onload = () => {
+        setupCopyButton()
+      }
+    </script>
+
+    
+    
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#thenav">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">UniBG Seclab</a>
+    </div>
+    <div class="collapse navbar-collapse" id="thenav">
+      <ul class="nav navbar-nav">
+        
+          
+            <li><a href="&#x2F;people">People</a></li>
+          
+        
+          
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  <li><a href="https:&#x2F;&#x2F;glaciation-project.eu">GLACIATION</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;mosaicrown.eu">MOSAICrOWN</a></li>
+                
+                  <li><a href="https:&#x2F;&#x2F;www.escudocloud.eu">ESCUDO-CLOUD</a></li>
+                
+                  <li><a href="&#x2F;projects&#x2F;sesqlite">SeSQLite</a></li>
+                
+              </ul>
+            </li>
+          
+        
+          
+            <li><a href="&#x2F;publications">Publications</a></li>
+          
+        
+          
+            <li class="divider-vertical"></li>
+          
+        
+          
+            <li><a href="&#x2F;tesi">Progetti di Tesi</a></li>
+          
+        
+          
+            <li><a href="&#x2F;activities">Attività</a></li>
+          
+        
+
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div id="content" class="container">
+    
+  
+  <h1>POSTER: Leveraging eBPF to enhance sandboxing of WebAssembly runtimes</h1>
+  <hr />
+  
+
+
+
+<p>
+  <strong>Marco Abbadini, Michele Beretta, Dario Facchinetti, Gianluca Oldani, Matthew Rossi, Stefano Paraboschi</strong>
+</p>
+<p>
+  
+  
+    <i>In Proc. of the 18th ACM ASIA Conference on Computer and
+	             Communications Security (ACM ASIACCS 2023)</i><br />
+    <i>Melbourne, Australia, June 10-14, 2023</i>
+  
+</p>
+<div style="display: flex; margin-bottom: 2em;">
+  <div style="width: 20%;">
+    <p>
+      
+      <a href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2023&#x2F;ASIACCS&#x2F;poster&#x2F;enhance-wasm-sandbox.pdf">
+        <img class="paper" width="100%" src="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2023&#x2F;ASIACCS&#x2F;poster&#x2F;enhance-wasm-sandbox.jpg" />
+      </a>
+    </p>
+    <p>
+      <a class="quick-btn" href="https:&#x2F;&#x2F;cs.unibg.it&#x2F;seclab-papers&#x2F;2023&#x2F;ASIACCS&#x2F;poster&#x2F;enhance-wasm-sandbox.pdf">
+        Get the paper
+      </a>
+      <a class="quick-btn" onclick="copyBib(this, 'https:&#x2F;&#x2F;seclab.unibg.it&#x2F;publications&#x2F;enchance-wasm-sandbox&#x2F;')">Cite</a>
+    </p>
+  </div>
+  <div style="width: 80%; padding: 0 2em 0 1.5em; text-align: justify;">
+    <p>WebAssembly is a binary instruction format designed as a portable
+compilation target enabling the deployment of untrusted code in
+a safe and efficient manner. While it was originally designed to
+be run inside web browsers, modern runtimes like Wasmtime and
+WasmEdge can execute WebAssembly directly on various systems.
+In order to access system resources with a universal hostcall interface,
+a standardization effort named WebAssembly System Interface
+(WASI) is currently undergoing. With specific regard to the file system,
+runtimes must prevent hostcalls to access arbitrary locations,
+thus they introduce security checks to only permit access to a predefined
+list of directories. This approach not only suffers from poor
+granularity, it is also error-prone and has led to several security
+issues. In this work we replace the security checks in hostcall wrappers
+with eBPF programs, enabling the introduction of fine-grained
+per-module policies. Preliminary experiments confirm that our
+approach introduces limited overhead to existing runtimes.</p>
+
+
+    <p>
+     
+      <pre><code>@inproceedings{enhance-wasm-sandbox,
+	author = {Marco Abbadini and Michele Beretta and Dario Facchinetti and
+	          Gianluca Oldani and Matthew Rossi and Stefano Paraboschi},
+	booktitle = {Proceedings of the 18th ACM ASIA Conference on Computer and
+	             Communications Security (ACM ASIACCS 2023)},
+	doi = {10.1145/3579856.3592831},
+	title = {Leveraging eBPF to enhance sandboxing of WebAssembly runtimes},
+	location = {Melbourne, Australia},
+	day = {10-14},
+	month = {June},
+	year = {2023},
+}
+</code></pre>
+    </p>
+
+    <p>
+    
+      <a href='https://cs.unibg.it/seclab-papers/2022/USENIX/wasi-poster.pdf'>USENIX Security 2022 Poster</a>
+    
+    </p>
+  </div>
+</div>
+
+
+    </div>
+
+    
+    
+
+    <footer class="footer">
+  <div><strong>Visit us</strong>: Uff. B305 - Viale Marconi, 5 Dalmine</div>
+  <div><strong>Email</strong>: seclab [at] unibg [dot] it</div>
+  <div>
+    <a href="https://twitter.com/unibg_seclab" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+    <a href="https://facebook.com/unibgseclab" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+    <a href="https://github.com/unibg-seclab" target="_blank"><i class="fa-brands fa-github"></i></a>
+    <a href="https://mastodon.social/@unibg_seclab" target="_blank"><i class="fa-brands fa-mastodon"></i></a>
+  </div>
+</footer>
+  </body>
+</html>
