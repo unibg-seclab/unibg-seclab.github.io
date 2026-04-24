@@ -14,11 +14,6 @@ taxonomies = [
   { name = "publication-year", feed = false },
 ]
 
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
-
 [extra]
 # Put all your custom variables here
 github = "unibg-seclab"
