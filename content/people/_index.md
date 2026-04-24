@@ -123,4 +123,8 @@ extra:
   - Rottoli Michael
   - Locatelli Giacomo
   - Dell'Orzo Irene
+  - Lorenzi Luca
+  - Merli Gabriele
+  - Arnoldi Elisa
+  - Ferrari Mattia
 ---
