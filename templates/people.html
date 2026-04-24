@@ -21,11 +21,9 @@
           <a href="{{ person.extra.website }}">Personal website</a>
         </p>
       {% endif %}
-      {% if person.extra.authorname %}
-        <p>
-          <a href="/authors/{{ person.extra.authorname }}">Publications</a>
-        </p>
-      {% endif %}
+      <p>
+        <a href="/authors/{{ person.slug }}">Publications</a>
+      </p>
     </div>
   </div>
   <hr />
@@ -47,6 +45,9 @@
           <a href="{{ person.extra.website }}">Personal website</a>
         </p>
       {% endif %}
+      <p>
+        <a href="/authors/{{ person.slug }}">Publications</a>
+      </p>
     </div>
   </div>
   <hr />

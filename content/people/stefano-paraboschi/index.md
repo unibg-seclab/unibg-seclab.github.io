@@ -4,7 +4,6 @@ weight: 0
 extra:
   active: true
   website: https://cs.unibg.it/parabosc
-  authorname: stefano-paraboschi
 ---
 
 Focus on several areas in computer science: information systems and database

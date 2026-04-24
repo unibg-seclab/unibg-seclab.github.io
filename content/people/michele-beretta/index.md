@@ -4,5 +4,4 @@ weight: 50
 extra:
   active: true
   website: https://berettamichele.com
-  authorname: michele-beretta
 ---

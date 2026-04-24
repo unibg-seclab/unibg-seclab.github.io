@@ -4,7 +4,6 @@ weight: 40
 extra:
   active: true
   website: https://cs.unibg.it/abbadini
-  authorname: marco-abbadini
 ---
 
 Marco Abbadini is a Postdoctoral Researcher at Università degli Studi di Bergamo

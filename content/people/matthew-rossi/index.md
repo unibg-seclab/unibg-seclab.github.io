@@ -4,7 +4,6 @@ weight: 20
 extra:
   active: true
   website: https://matthewrossi.github.io
-  authorname: matthew-rossi
 ---
 
 Matthew Rossi is an Assistant Professor at Università degli Studi di
