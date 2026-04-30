@@ -14,7 +14,7 @@ page_template: tesiproject.html
 ## Regolamento
 
 * Le tesi vanno scritte in *LaTeX* seguendo la formattazione ufficiale UniBG
-  * È possibile usare [questo template](https://github.com/micheleberetta98/unibg-thesis-template)
+  * È possibile usare [questo template](https://codeberg.org/skjaldmaer/unibg-thesis-template)
   * [Linee guida base](https://berettamichele.com/blog/how-to-latex-basic) per l'uso di LaTeX
 * Le tesi hanno un limite minimo di:
   * ~40 pagine per le triennali
