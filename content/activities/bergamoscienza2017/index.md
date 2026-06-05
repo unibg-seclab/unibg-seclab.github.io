@@ -5,7 +5,6 @@ extra:
   when: 2017-03-26
   where: Bergamo Science Center, Via Papa Giovanni XXIII, 57 (BG)
   website: https://goo.gl/wwoZqk
-  preview_image: /images/snowden.jpg
 ---
 
 Siamo stati invitati come Unibg Seclab ad introdurre la proiezione del film

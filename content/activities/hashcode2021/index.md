@@ -6,8 +6,6 @@ extra:
   from: 18:30
   to: 22:30
   where: UniBG Virtual Hub
-  preview_image: /images/hashcode-2021.jpg
-  top_image: /images/hashcode-2021.jpg
 ---
 
 [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di

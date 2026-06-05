@@ -6,7 +6,6 @@ extra:
   from: 18:00
   to: 20:00
   where: UniBG, Aula A102 (Dalmine)
-  preview_image: /images/nohat_logo.png
 ---
 
 [Road to NoHat](https://www.hacklabg.net/convegni/road-to-no-hat-tappa-unibg/)

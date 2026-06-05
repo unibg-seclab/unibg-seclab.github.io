@@ -4,8 +4,6 @@ date: 2019-02-28
 extra:
   when: 2019-02-28
   where: Aula studi edificio C (Dalmine)
-  preview_image: /images/hashcode-2019.png
-  top_image: /images/google_hashcode_3.png
 ---
 
 [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) è una gara di

@@ -4,8 +4,6 @@ date: 2017-02-23
 extra:
   when: 2017-02-23
   where: Aula studi edificio C (Dalmine)
-  preview_image: /images/hashcode2017.png
-  top_image: /images/google_hashcode_1.png
 ---
 
 Hash Code è una gara di programmazione a squadre organizzata da Google per studenti e professionisti in Europa, Medio Oriente e Africa. Si forma una squadra e si sceglie il linguaggio di programmazione per risolvere un problema assegnato dagli organizzatori. Ogni team è formato da un minimo di 2 ad un massimo di 4 persone.

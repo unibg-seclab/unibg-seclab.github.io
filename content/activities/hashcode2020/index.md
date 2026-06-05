@@ -6,8 +6,6 @@ extra:
   from: 18:00
   to: 22:30
   where: Aula studi edificio C (Dalmine)
-  preview_image: /images/google_hashcode_3.png
-  top_image: /images/google_hashcode_3.png
 ---
 
 [Hash Code](https://hashcode.withgoogle.com) è una gara di programmazione a

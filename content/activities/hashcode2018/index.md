@@ -4,8 +4,6 @@ date: 2018-03-01
 extra:
   when: 2018-03-01
   where: Aula studi edificio C (Dalmine)
-  preview_image: /images/google_hashcode_2.jpg
-  top_image: /images/google_hashcode_3.png
 ---
 
 [Hash Code](https://hashcode.withgoogle.com) è una gara di programmazione a
