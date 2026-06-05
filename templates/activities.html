@@ -11,9 +11,10 @@
     @ {{ page.extra.where }}</blockquote>
   <div class="row">
     <div class="col-xs-8 col-xs-offset-2 col-sm-offset-0 col-sm-4 col-xl-3">
-      {% if page.extra.preview_image %}
-        <img src="{{ page.extra.preview_image }}" alt="{{ page.title }}" />
-      {% endif %}
+      <!-- {% if page.extra.preview_image %} -->
+      <!-- <img src="{{ page.extra.preview_image }}" alt="{{ page.title }}" /> -->
+      <img src="{{ page.path }}/preview.png" alt="{{ page.title }}" />
+      <!-- {% endif %} -->
     </div>
     <div class="col-xs-12 col-sm-8 col-xl-9 pull-right">
       {{ page.summary | safe }}

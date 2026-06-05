@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+zola build --force --base-url=http://seclabyqgmetqfwdiszhp55o7uoh56zjw64zgx32ppbsi3kjp4t75pyd.onion --output-dir=/var/www/unibg-seclab/

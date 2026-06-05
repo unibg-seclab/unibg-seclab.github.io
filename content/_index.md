@@ -5,11 +5,11 @@ extra:
     - title: Google Award
       when: Winter 2016
       description: The APM project won a Google Award in Winter 2016 batch.
-      image: /images/faculty_award.png
+      image: faculty_award.png
     - title: Google Award
       when: Winter 2014
       description: The SeSQLite project won a Google Award in the Winter 2014 batch.
-      image: /images/faculty_award.png    
+      image: faculty_award.png    
 ---
 
 <div class="row">
