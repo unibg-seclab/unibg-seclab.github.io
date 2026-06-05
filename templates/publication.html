@@ -32,7 +32,12 @@
       <a class="quick-btn" href="{{ url }}.pdf">
         Get the paper
       </a>
-      <a class="quick-btn" onclick="copyBib(this, '{{ page.permalink }}')">Cite</a>
+      <noscript>
+        <style>
+          #cite-button { display: none; }
+        </style>
+      </noscript>
+      <a id="cite-button" class="quick-btn" onclick="copyBib(this, '{{ page.permalink }}')">Cite</a>
     </p>
   </div>
   <div style="width: 80%; padding: 0 2em 0 1.5em; text-align: justify;">

@@ -33,7 +33,12 @@
     <p>
       <a class="quick-btn" href="https://cs.unibg.it/seclab-papers/{{ paper.extra.csunibg }}.pdf">PDF</a>
       <a class="quick-btn" href="{{ paper.permalink }}citation.bib">BibTeX</a>
-      <span class="quick-btn" onclick="copyBib(this, '{{ paper.permalink }}')">Cite</span>
+      <noscript>
+        <style>
+          #cite-button { display: none; }
+        </style>
+      </noscript>
+      <span id="cite-button" class="quick-btn" onclick="copyBib(this, '{{ paper.permalink }}')">Cite</span>
     </p>
     {% if paper.extra.note %}<p>{{ paper.extra.note | safe }}</p>{% endif %}
     <p style="font-size: 2em; display: flex; align-items: center;">

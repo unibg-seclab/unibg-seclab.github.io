@@ -14,6 +14,9 @@ extra:
 
 <div class="row">
   <div class="col-xs-8 col-xs-offset-2 col-sm-offset-0 col-sm-4 col-xl-3">
+    <noscript>
+      <img src="logo.png" />
+    </noscript>
     <div id="logo" class="vivus"></div>
   </div>
   <div class="col-xs-12 col-sm-8 col-xl-9 pull-right">
