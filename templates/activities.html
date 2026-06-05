@@ -17,7 +17,7 @@
     </div>
     <div class="col-xs-12 col-sm-8 col-xl-9 pull-right">
       {{ page.summary | safe }}
-      <p><i><a href="{{ page.extra.website | default(value=page.path) | safe }}">Clicca qui per maggiori informazioni</a></i></p>
+      <p><i><a href="{{ page.extra.website | default(value=page.permalink) | safe }}">Clicca qui per maggiori informazioni</a></i></p>
     </div>
   </div>
   <hr />

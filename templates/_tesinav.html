@@ -4,7 +4,7 @@
   <ul>
   {% for proj in projects | sort(attribute="title") %}
     {% if not proj.extra.unavailable | default(value=false) %}
-      <li><a href="{{ proj.path }}">{{ proj.title }}</a></li>
+      <li><a href="{{ proj.permalink }}">{{ proj.title }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>
