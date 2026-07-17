@@ -20,4 +20,4 @@ page_template: tesiproject.html
   * ~40 pagine per le triennali
   * ~80 pagine per le magistrali
 * È consigliata la conoscenza, anche minimale, di un sistema Unix/Unix-like
-* **Nota:** Non sono accettati elaborati redatti in misura sostanziale mediante LLMs: la tesi deve rappresentare un lavoro originale dell'autore, che ne assume la piena responsabilità scientifica e accademica.
+* La tesi deve rappresentare un lavoro originale dell'autore, che ne assume la piena responsabilità scientifica e accademica.
