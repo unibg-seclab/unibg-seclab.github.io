@@ -3,12 +3,12 @@
 {% set type = data.bibliographies[0].entry_type %}
 {% set tags = data.bibliographies[0].tags %}
 <div class="row">
-  <div class="col-xs-4 col-sm-2">
+  <div class="col-xs-4 col-sm-3">
     <a href="https://cs.unibg.it/seclab-papers/{{ paper.extra.csunibg }}.pdf">
       <img class="paper" src="https://cs.unibg.it/seclab-papers/{{ paper.extra.csunibg }}.jpg" />
     </a>
   </div>
-  <div class="col-xs-8 col-sm-10">
+  <div class="col-xs-8 col-sm-9">
     <p>
       <b>{{ paper.title }}</b>
     </p>
@@ -17,7 +17,7 @@
     </p>
       <p>
         {% if type == "inproceedings" %}
-          <i>In {{ tags.booktitle | replace(from="Proceedings", to="Proc.") }}</i><br />
+          <i>In {{ tags.booktitle | replace(from="Proceedings", to="Proc.") }},</i>
           <i>{{ tags.location }}, {{ tags.month }} {{ tags.day }}, {{ tags.year }}</i>
         {% elif type == "article" %}
           <i>In {{ tags.journal }}</i><br />
