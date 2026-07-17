@@ -4,6 +4,7 @@ weight: 10
 extra:
   active: true
   website: https://dariofad.github.io
+  scholar: https://scholar.google.it/citations?user=OR7QNvoAAAAJ
 ---
 
 Dario Facchinetti is an Assistant Professor at the Università degli

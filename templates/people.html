@@ -24,6 +24,11 @@
       <p>
         <a href="/authors/{{ person.slug }}">Publications</a>
       </p>
+      {% if person.extra.scholar %}
+        <p>
+	  <a href="{{ person.extra.scholar }}">Google Scholar</a>
+        </p>
+      {% endif %}
     </div>
   </div>
   <hr />

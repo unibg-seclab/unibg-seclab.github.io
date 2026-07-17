@@ -4,6 +4,7 @@ weight: 0
 extra:
   active: true
   website: https://cs.unibg.it/parabosc
+  scholar: https://scholar.google.com/citations?user=UbW5_3YAAAAJ
 ---
 
 Focus on several areas in computer science: information systems and database
