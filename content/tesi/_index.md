@@ -7,9 +7,10 @@ page_template: tesiproject.html
 ## Linee guida
 
 * Le tesi sono in generale assegnate ad una sola persona
-* C'è la possibilità di aumentare il lavoro per poter scrivere una tesi di coppia
+* C'è la possibilità di estendere il lavoro per poter scrivere una tesi di coppia
 * Per le tesi magistrali, non è possibile decidere a priori se ci sarà un controrelatore,
   questo viene deciso solo dopo la chiusura del progetto di tesi
+* In media una tesi di laurea richiede circa 6+ mesi per essere completata. Una tesi di laurea magistrale può richiedere più tempo.
 
 ## Regolamento
 
