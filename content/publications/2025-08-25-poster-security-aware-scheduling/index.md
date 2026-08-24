@@ -12,6 +12,7 @@ extra:
   csunibg: 2025/ASIACCS/poster-security-aware-scheduling
   github: matthewrossi/k8s-secure-scheduling
   icons:
+    - fa-solid fa-dharmachakra
     - ion-cloud
 ---
 
