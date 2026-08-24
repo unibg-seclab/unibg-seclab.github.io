@@ -13,8 +13,7 @@ extra:
   csunibg: 2026/ICST/river
   github: dariofad/river
   icons:
-    - fa-solid fa-dharmachakra
-    - ion-cloud
+    - ion-gear-b
 ---
 
 Runtime verification has proven to be an effective
