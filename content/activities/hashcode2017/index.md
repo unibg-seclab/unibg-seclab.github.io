@@ -27,7 +27,7 @@ Orario: *16:30 - 18:30*
 
 Argomento: **Java e Dynamic Programming** ([scarica slides](/pdf/hashcode/unibg_seclab_hashcode_2017_java.pdf))
 
-{{ iframe(url="https://docs.google.com/presentation/d/1agcV675Qrg0bJrFCWlB_p4TlBmgHeh6gitDBL4FWKr0/embed?start=false&loop=false&delayms=3000") }}
+{{ <iframe url="https://docs.google.com/presentation/d/1agcV675Qrg0bJrFCWlB_p4TlBmgHeh6gitDBL4FWKr0/embed?start=false&loop=false&delayms=3000" /> }}
 
 ----
 
@@ -39,7 +39,7 @@ Orario: *16:30 - 18:30*
 
 Argomento: **Python e Greedy Algorithms** ([scarica slides](/pdf/hashcode/unibg_seclab_hashcode_2017_python.pdf))
 
-{{ iframe(url="https://docs.google.com/presentation/d/17TCocp4lWE62BoekKSBqKf9PUVsV7YfV4XOMpQ0C618/embed?start=false&loop=false&delayms=3000") }}
+{{ <iframe url="https://docs.google.com/presentation/d/17TCocp4lWE62BoekKSBqKf9PUVsV7YfV4XOMpQ0C618/embed?start=false&loop=false&delayms=3000" /> }}
 
 ----
 

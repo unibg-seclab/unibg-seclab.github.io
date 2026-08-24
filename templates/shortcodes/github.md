@@ -1,1 +1,0 @@
-[{{ name | default(value="GitHub") }}](https://github.com/{{ config.extra.github }}/{{ project | default(value="")}})

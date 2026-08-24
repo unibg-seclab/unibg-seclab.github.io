@@ -1,9 +1,7 @@
 {% extends "section.html" %}
 
-{% import "macros.html" as macros %}
-
 {% block section_content %}
 {% for paper in section.pages | sort(attribute="date") | reverse %}
-  {{ macros::paperinfo(paper=paper) }}
+  {{ <paperinfo paper={paper} />  }}
 {% endfor %}
 {% endblock section_content %}

@@ -1,8 +1,10 @@
 {% extends "section.html" %}
 
 {% block section_content %}
+{% set active_people = [p for p in section.pages if p.extra.active == true] %}
+{% set former_people = [p for p in section.pages if p.extra.active == false] %}
 <div class="people">
-{% for person in section.pages | filter(attribute="extra.active", value=true) %}
+{% for person in active_people %}
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
       <img class="person-image" onclick="multiClick(this)" src="/people/{{ person.slug }}/image.jpg" />
@@ -35,7 +37,7 @@
 {% endfor %}
 
 <h2>Former members</h2>
-{% for person in section.pages | filter(attribute="extra.active", value=false) %}
+{% for person in former_people %}
   <div class="person row">
     <div class="col-xs-4 col-sm-2">
       <img src="/people/{{ person.slug }}/image.jpg" />

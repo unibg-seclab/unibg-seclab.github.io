@@ -33,7 +33,7 @@ Orario: *14:30 - 16:30*
 
 Argomento: **Java e Dynamic Programming** ([scarica slides](/pdf/hashcode/unibg_seclab_hashcode_2018_java.pdf))
 
-{{ iframe(url="https://docs.google.com/presentation/d/e/2PACX-1vR65Rl-mqfQ_DZFA20gxfvAo7EhcfAPdCG2Hpx9ZtuTNjEa4nYt5p0uEOL-ONwmYLTIDmyVBrN2UinI/embed?start=false&loop=false&delayms=3000") }}
+{{ <iframe url="https://docs.google.com/presentation/d/e/2PACX-1vR65Rl-mqfQ_DZFA20gxfvAo7EhcfAPdCG2Hpx9ZtuTNjEa4nYt5p0uEOL-ONwmYLTIDmyVBrN2UinI/embed?start=false&loop=false&delayms=3000" /> }}
 
 ----
 
@@ -45,4 +45,4 @@ Orario: *14:30 - 16:30*
 
 Argomento: **Python e Greedy Algorithms** ([scarica slides](/pdf/hashcode/unibg_seclab_hashcode_2018_python.pdf))
 
-{{ iframe(url="https://docs.google.com/presentation/d/e/2PACX-1vRkzLwXQKOsrv6VN97GCAc5OlPn4zC555m-waLoHO_IoenjesQbcmuAwmgsBRCvk_xNTGLwAjfvhGuT/embed?start=false&loop=false&delayms=3000")}}
+{{ <iframe url="https://docs.google.com/presentation/d/e/2PACX-1vRkzLwXQKOsrv6VN97GCAc5OlPn4zC555m-waLoHO_IoenjesQbcmuAwmgsBRCvk_xNTGLwAjfvhGuT/embed?start=false&loop=false&delayms=3000" /> }}

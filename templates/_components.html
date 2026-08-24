@@ -1,4 +1,4 @@
-{% macro paperinfo(paper) %}
+{% component paperinfo(paper) %}
 {% set data = load_data(path="content/" ~ paper.colocated_path ~ "citation.bib", format="bibtex") %}
 {% set type = data.bibliographies[0].entry_type %}
 {% set tags = data.bibliographies[0].tags %}
@@ -58,4 +58,19 @@
   </div>
 </div>
 <hr />
-{% endmacro paperinfo %}
+{% endcomponent %}
+
+{% component github(project = "", name = "GitHub", ...rest) %}
+[{{ name | default(value="GitHub") }}](https://github.com/{{ rest.config.extra.github }}/{{ project | default(value="")}})
+{% endcomponent %}
+
+{% component iframe(url: string) %}
+<div class="embed-container">
+  <iframe
+    src="{{ url }}"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true"></iframe>
+</div>
+{% endcomponent %}
+

@@ -27,7 +27,7 @@ database objects.
 
 ## Source Code
 
-The source code is available on {{ github(project="sesqlite") }}. Star
+The source code is available on {{ <github project="sesqlite" config={config} /> }}. Star
 the project on GitHub to receive updates on future releases.
 
 SeSQLite is still in an alpha version, but the core functionalities of SQL
@@ -46,50 +46,8 @@ The SeSQLite project won a Google Award in the Winter 2014 branch.
 
 ## Project Publications
 
-{{ paper(
-   title="Extending Mandatory Access Control Policies in Android",
-   image="https://cs.unibg.it/seclab-papers/2015/ICISS/Extending_SELinux_Android.jpg",
-   authors="Stefano Paraboschi, Enrico Bacis, Simone Mutti",
-   venue="in 11th International Conference on Information Systems Security (ICISS 2015)",
-   url="https://cs.unibg.it/seclab-papers/2015/ICISS/Extending_SELinux_Android.pdf",
-   icons=["ion-social-android"]) }}
-
----
-
-{{ paper(
-   title="SeSQLite: Security Enhanced SQLite",
-   image="https://cs.unibg.it/seclab-papers/2015/ACSAC/SeSQLite.jpg",
-   authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi",
-   venue="in 31st Annual Computer Security Applications Conference (ACSAC 2015)",
-   url="https://cs.unibg.it/seclab-papers/2015/ACSAC/SeSQLite.pdf",
-   icons=["ion-social-github", "ion-social-android"]) }}
-
----
-
-{{ paper(
-   title="Policy Specialization to Support Domain Isolation",
-   image="https://cs.unibg.it/seclab-papers/2015/SAFECONFIG/Policy_Specialization.jpg",
-   authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi",
-   venue="in 8th Workshop on Automated Decision Making for Active Cyber Defense (SafeConfig 2015)",
-   url="https://cs.unibg.it/seclab-papers/2015/SAFECONFIG/Policy_Specialization.pdf") }}
-
----
-
-{{ paper(
-   title="An SELinux-based Intent manager for Android",
-   image="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.jpg",
-   authors="Simone Mutti, Enrico Bacis and Stefano Paraboschi",
-   venue="in Communications and Network Security (CNS), 2015 IEEE Conference, 2015",
-   url="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall.pdf",
-   note="IEEE CNS'15 Best Poster Award",
-   icons=["ion-ribbon-b", "ion-social-android"]) }}
-
----
-
-{{ paper(
-   title="AppPolicyModules: Mandatory Access Control for Third-Party Apps",
-   image="https://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.jpg",
-   authors="Enrico Bacis, Simone Mutti and Stefano Paraboschi",
-   venue="in 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015)",
-   url="https://cs.unibg.it/seclab-papers/2015/ASIACCS/AppPolicyModules.pdf",
-   icons=["ion-social-android"]) }}
+- Extending Mandatory Access Control Policies in Android, [info](/publications/extending-android-mac)
+- SeSQLite: Security Enhanced SQLite, [info](/publications/sesqlite)
+- Policy Specialization to Support Domain Isolation, [info](/publications/policy-specialization)
+- An SELinux-based Intent manager for Android, [info](/publications/intent-firewall)
+- AppPolicyModules: Mandatory Access Control for Third-Party Apps, [info](/publications/app-policy-module)

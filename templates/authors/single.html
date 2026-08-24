@@ -1,7 +1,5 @@
 {% extends "publications.html" %}
 
-{% import "macros.html" as macros %}
-
 {% block title %}
 Publications | {{ term.name }}
 {% endblock %}
@@ -10,6 +8,6 @@ Publications | {{ term.name }}
 <h1>Publications by {{ term.name }}</h1>
 <hr />
 {% for paper in term.pages | sort(attribute="date") | reverse %}
-  {{ macros::paperinfo(paper=paper) }}
+  {{ <paperinfo paper={paper} /> }}
 {% endfor %}
 {% endblock content %}
