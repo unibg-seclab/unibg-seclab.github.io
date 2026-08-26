@@ -1,5 +1,5 @@
 ---
-title: Dynamic delegation in outsourced ICA processes
+title: Dynamic Delegation in Outsourced ICA Processes
 taxonomies:
   authors:
     - Sabrina De Capitani di Vimercati
