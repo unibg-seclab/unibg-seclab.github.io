@@ -17,7 +17,7 @@ extra:
   icons:
     - ion-cloud
     - fa-solid fa-eye-slash fa-sm
-  note: <a href="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017-poster.pdf">Poster</a>
+  note: <a href="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017-poster.pdf">CNS 2017 Poster</a>
 ---
 
 The protection of content confidentiality as well as of

@@ -12,7 +12,7 @@ extra:
   csunibg: 2015/CNS/Docker
   icons:
     - fa-brands fa-docker
-  note: <a href="https://cs.unibg.it/seclab-papers/2015/CNS/Docker_poster.pdf">Poster</a>
+  note: <a href="https://cs.unibg.it/seclab-papers/2015/CNS/Docker_poster.pdf">CNS 2015 Poster</a>
 ---
 
 The wide adoption of Docker and the ability to

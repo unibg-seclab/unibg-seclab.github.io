@@ -18,7 +18,7 @@ extra:
     - ion-ribbon-b
     - fa-solid fa-network-wired fa-sm
     - fa-solid fa-binoculars
-  note: "<a href='https://cs.unibg.it/seclab-papers/2026/ICDCS/best-poster-award-certificate.pdf'><u>IEEE ICDCS'26 Best Poster Award</u></a>"
+  note: "<a href='https://cs.unibg.it/seclab-papers/2026/ICDCS/best-poster-award-certificate.pdf'><u>IEEE ICDCS 2026 Best Poster Award</u></a>"
 ---
 
 Modern large-scale network infrastructures require monitoring solutions that
