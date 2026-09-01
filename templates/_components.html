@@ -1,11 +1,11 @@
-{% component paperinfo(paper) %}
+{% component paperinfo(paper, config) %}
 {% set data = load_data(path="content/" ~ paper.colocated_path ~ "citation.bib", format="bibtex") %}
 {% set type = data.bibliographies[0].entry_type %}
 {% set tags = data.bibliographies[0].tags %}
 <div class="row">
   <div class="col-xs-4 col-sm-3">
-    <a href="https://cs.unibg.it/seclab-papers/{{ paper.extra.csunibg }}.pdf">
-      <img class="paper" src="https://cs.unibg.it/seclab-papers/{{ paper.extra.csunibg }}.jpg" />
+    <a class="paper-preview" href="{{ config.extra.csunibg }}{{ paper.extra.csunibg }}.pdf">
+      <img class="paper" src="{{ config.extra.csunibg }}{{ paper.extra.csunibg }}.jpg" />
     </a>
   </div>
   <div class="col-xs-8 col-sm-9">
@@ -34,7 +34,7 @@
       <a href="{{ paper.permalink }}">More info<a/><br />
     </p>
     <p>
-      <a class="quick-btn" href="https://cs.unibg.it/seclab-papers/{{ paper.extra.csunibg }}.pdf">PDF</a>
+      <a class="quick-btn" href="{{ config.extra.csunibg }}{{ paper.extra.csunibg }}.pdf">PDF</a>
       <a class="quick-btn" href="{{ paper.permalink }}citation.bib">BibTeX</a>
       <noscript>
         <style>
@@ -43,6 +43,31 @@
       </noscript>
       <span id="cite-button" class="quick-btn" onclick="copyBib(this, '{{ paper.permalink }}')">Cite</span>
     </p>
+    {% if paper.extra.related %}
+      <p>
+      {% for item in paper.extra.related %}
+        {% set link = "" %}
+        {% if item.csunibg %}
+          <a href="{{ config.extra.csunibg }}{{ item.csunibg }}.pdf">
+            {% if item.special %}<u>{% endif %}
+            {{ item.name }}
+            {% if item.special %}</u>{% endif %}
+          </a>
+        {% elif item.link %}
+          <a href="{{ item.link }}">
+            {% if item.special %}<u>{% endif %}
+            {{ item.name }}
+            {% if item.special %}</u>{% endif %}
+          </a>
+        {% else %}
+          {% if item.special %}<u>{% endif %}
+          {{ item.name }}
+          {% if item.special %}</u>{% endif %}
+        {% endif %}
+        <br />
+      {% endfor %}
+      </p>
+    {% endif %}
     {% if paper.extra.note %}<p>{{ paper.extra.note | safe }}</p>{% endif %}
     <p style="font-size: 2em; display: flex; align-items: center;">
     {% if paper.extra.github %}

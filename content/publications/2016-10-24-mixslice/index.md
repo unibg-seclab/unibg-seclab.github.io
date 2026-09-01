@@ -16,7 +16,11 @@ extra:
     - ion-cloud
     - fa-solid fa-key fa-sm
   github: unibg-seclab/aesmix
-  note: <a href="https://cs.unibg.it/seclab-papers/2017/CSAW/bdfprs-csaw2017-poster.pdf">CSAW 2017 Poster</a><br/><u>CSAW 2017 Applied Research Competition Finalist</u>
+  related:
+    - name: CSAW 2017 Poster
+      csunibg: 2017/CSAW/bdfprs-csaw2017-poster
+    - name: CSAW 2017 Applied Research Competition Finalist
+      special: true
 ---
 
 We present an approach to enforce access revocation on resources

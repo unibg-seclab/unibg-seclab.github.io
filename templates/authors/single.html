@@ -8,6 +8,6 @@ Publications | {{ term.name }}
 <h1>Publications by {{ term.name }}</h1>
 <hr />
 {% for paper in term.pages | sort(attribute="date") | reverse %}
-  {{ <paperinfo paper={paper} /> }}
+  {{ <paperinfo paper={paper} config={config} /> }}
 {% endfor %}
 {% endblock content %}

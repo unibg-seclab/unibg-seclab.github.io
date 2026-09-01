@@ -12,7 +12,9 @@ taxonomies:
 extra:
   csunibg: 2023/RAID/natisand
   github: unibg-seclab/natisand
-  note: "<a href='https://cs.unibg.it/seclab-papers/2023/CSAW/natisand-poster.pdf'>CSAW 2023 Poster</a>"
+  related:
+    - name: CSAW 2023 Poster
+      csunibg: 2023/CSAW/natisand-poster
   icons:
     - fa-brands fa-js
 ---

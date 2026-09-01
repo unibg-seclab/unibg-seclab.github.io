@@ -72,7 +72,9 @@ body {
   align-items: center;
 
   & > div {
-    flex: 1 1 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
     text-align: center;
   }
 
@@ -160,8 +162,18 @@ img {
   }
 }
 
-.paper {
-  border: 1px solid #555;
+.paper-preview {
+  img.paper {
+    border: 1px solid #555;
+  }
+
+  img.award {
+    position: absolute;
+    z-index: 999;
+    width: 20%;
+    top: -15px;
+    right: -15px;
+  }
 }
 
 .quick-btn {

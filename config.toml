@@ -18,6 +18,7 @@ taxonomies = [
 # Put all your custom variables here
 github = "unibg-seclab"
 mail = "seclab [at] unibg [dot] it"
+csunibg = "https://cs.unibg.it/seclab-papers/"
 pages = [
   { name = "People", url = "/people" },
   { name = "Projects", url = "/projects", children = [

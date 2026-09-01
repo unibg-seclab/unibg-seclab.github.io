@@ -12,7 +12,9 @@ taxonomies:
     - 2023
 extra:
   csunibg: 2023/ASIACCS/poster/enhance-wasm-sandbox
-  note: "<a href='https://cs.unibg.it/seclab-papers/2022/USENIX/wasi-poster.pdf'>USENIX Security 2022 Poster</a>"
+  related:
+    - name: USENIX Security 2022 Poster
+      csunibg: 2022/USENIX/wasi-poster
   icons:
     - fac fa-wa
     - fac fa-si

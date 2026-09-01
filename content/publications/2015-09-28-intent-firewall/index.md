@@ -12,7 +12,11 @@ extra:
   icons:
     - ion-ribbon-b
     - ion-social-android
-  note: <a href="https://cs.unibg.it/seclab-papers/2015/CNS/Intent_Firewall_poster.pdf">CNS 2015 Poster</a><br/><u>IEEE CNS 2015 Best Poster Award</u>
+  related:
+    - name: CNS 2015 Poster
+      csunibg: 2015/CNS/Intent_Firewall_poster
+    - name: IEEE CNS15 Best Poster Award
+      special: true
 ---
 
 The support for Mandatory Access Control offered

@@ -11,7 +11,17 @@ taxonomies:
     - 2021
 extra:
   csunibg: 2021/USENIX/seapp
-  note: "<a href='https://cs.unibg.it/seclab-papers/2021/CSAW/seapp-poster.pdf'>CSAW 2021 Poster</a><br><a href='https://cs.unibg.it/seclab-papers/2022/USENIX/seapp-poster.pdf'>USENIX Security 2022 Poster</a><br><a href='https://cs.unibg.it/seclab-papers/2021/CSAW/arc-finalist-certificate.pdf'><u>CSAW 2021 Applied Research Competition Finalist A</u></a> & <a href='https://drive.google.com/file/d/1kUxstkCdRUDYZQDfT2TFn8_X568Y-3R5/view?usp=sharing'><u>B</u></a>"
+  related:
+    - name: CSAW 2021 Poster
+      csunibg: 2021/CSAW/seapp-poster
+    - name: USENIX Security 2022 Poster
+      csunibg: 2022/USENIX/seapp-poster
+    - name: CSAW 2021 Applied Research Competition Finalist A
+      csunibg: 2021/CSAW/arc-finalist-certificate
+      special: true
+    - name: CSAW 2021 Applied Research Competition Finalist B
+      link: https://drive.google.com/file/d/1kUxstkCdRUDYZQDfT2TFn8_X568Y-3R5/view?usp=sharing
+      special: true
   icons:
     - ion-social-android
   github: matthewrossi/seapp

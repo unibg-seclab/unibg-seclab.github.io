@@ -18,7 +18,12 @@ extra:
     - ion-ribbon-b
     - fa-solid fa-network-wired fa-sm
     - fa-solid fa-binoculars
-  note: "<a href='https://cs.unibg.it/seclab-papers/2026/ICDCS/blackbird-poster.pdf'>ICDCS 2026 Poster</a><br><a href='https://cs.unibg.it/seclab-papers/2026/ICDCS/best-poster-award-certificate.pdf'><u>IEEE ICDCS 2026 Best Poster Award</u></a>"
+  related:
+    - name: ICDCS 2026 Poster
+      csunibg: 2026/ICDCS/blackbird-poster
+    - name: IEEE ICDCS 2026 Best Poster Award
+      csunibg: 2026/ICDCS/best-poster-award-certificate
+      special: true
 ---
 
 Modern large-scale network infrastructures require monitoring solutions that

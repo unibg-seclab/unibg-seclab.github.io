@@ -2,6 +2,6 @@
 
 {% block section_content %}
 {% for paper in section.pages | sort(attribute="date") | reverse %}
-  {{ <paperinfo paper={paper} />  }}
+  {{ <paperinfo paper={paper} config={config} />  }}
 {% endfor %}
 {% endblock section_content %}

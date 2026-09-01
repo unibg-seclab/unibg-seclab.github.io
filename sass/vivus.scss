@@ -7,7 +7,7 @@ $fill_time:  1s;
   visibility: hidden;
   overflow: hidden;
   width: 100%;
-  aspect-ratio: 986.76282 / 854.87878;
+  aspect-ratio: 1.15; /* Otherwise the div will disappear and the logo would not be drawn */
 }
 
 #logo > object,
@@ -25,7 +25,7 @@ $fill_time:  1s;
 }
 
 .vivus svg * {
-  stroke: #000000;
+  stroke: black;
   stroke-width: 2;
   stroke-opacity: 1;
   fill-opacity: 0;
