@@ -50,10 +50,9 @@ body {
 }
 
 #content {
-  width: auto;
-  max-width: 1340px;
-  margin: 90px auto;
-  font-size: 1.8rem;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  font-size: 1.6rem;
 }
 
 .footer {
@@ -63,10 +62,9 @@ body {
   right: 0;
 
   background: #222;
-  padding: 15px 20px;
+  padding: 10px 20px;
   margin-top: 40px;
   color: #9d9d9d;
-  font-size: 1.8rem;
 
   display: flex;
   flex-direction: row;
@@ -106,29 +104,9 @@ body {
 }
 
 .navbar {
-  min-height: 60px;
-  font-size: 1.8rem;
-
-  .navbar-brand {
-    height: 60px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-size: inherit;
-  }
-
-  .navbar-nav > li > a {
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
-
-  .navbar-toggle {
-    margin-top: 13px;
-    margin-bottom: 13px;
-  }
-
   .divider-vertical {
-    height: 24px;
-    margin: 18px 5px;
+    height: 20px;
+    margin: 15px 5px;
     border-left: 1px solid #f2f2f2;
     @media(max-width: 768px) {
       & {
