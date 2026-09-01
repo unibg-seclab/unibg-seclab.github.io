@@ -14,6 +14,7 @@ extra:
   csunibg: 2018/Sushil/bdfprs-accesscontrol
   icons:
     - ion-cloud
+    - fa-solid fa-key fa-sm
 ---
 
 Cloud storage services offer a variety of benefits that make

@@ -15,6 +15,7 @@ extra:
   csunibg: 2024/TCC/flat-index
   icons:
     - ion-cloud
+    - fa-solid fa-database fa-sm
   github: unibg-seclab/flat-index
 ---
 

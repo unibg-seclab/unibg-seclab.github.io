@@ -15,6 +15,7 @@ extra:
   csunibg: 2021/GLOBECOM/multi-dimensional-indexes
   icons:
     - ion-cloud
+    - fa-solid fa-database fa-sm
 ---
 
 We present an approach for indexing encrypted data

@@ -16,6 +16,7 @@ extra:
   csunibg: 2016/WISCS/bdfgprss-wiscs2016
   icons:
     - ion-cloud
+    - fa-solid fa-key fa-sm
   github: unibg-seclab/encSwift
 ---
 

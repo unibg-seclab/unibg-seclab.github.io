@@ -14,6 +14,7 @@ extra:
   csunibg: 2017/CSCloud/bdfprs-cscloud2017
   icons:
     - ion-cloud
+    - fa-solid fa-eye-slash fa-sm
 ---
 
 The distributed shuffle index strengthens the guarantees

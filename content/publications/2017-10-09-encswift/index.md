@@ -11,6 +11,7 @@ extra:
   csunibg: 2017/CNS/ers-cns2017
   icons:
     - ion-cloud
+    - fa-solid fa-key fa-sm
 ---
 
 The use of cloud technology is continually expanding.

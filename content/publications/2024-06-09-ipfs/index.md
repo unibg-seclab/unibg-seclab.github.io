@@ -18,6 +18,8 @@ extra:
   github: unibg-seclab/ipfs-owner-control
   icons:
     - ion-cloud
+    - fa-solid fa-network-wired fa-sm
+    - fa-solid fa-key fa-sm
 ---
 
 Decentralized storage architectures are emerging as valid complementary

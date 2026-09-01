@@ -16,6 +16,7 @@ extra:
   csunibg: 2017/CNS/bbbdfprs-cns2017
   icons:
     - ion-cloud
+    - fa-solid fa-eye-slash fa-sm
   note: <a href="https://cs.unibg.it/seclab-papers/2017/CNS/bbbdfprs-cns2017-poster.pdf">Poster</a>
 ---
 

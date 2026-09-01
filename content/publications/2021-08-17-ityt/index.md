@@ -13,7 +13,8 @@ taxonomies:
 extra:
   csunibg: 2021/ARES/ityt
   icons:
-    - ion-android-lock
+    - fa-brands fa-ethereum
+    - fa-solid fa-lock fa-sm
   github: unibg-seclab/ityt
 ---
 

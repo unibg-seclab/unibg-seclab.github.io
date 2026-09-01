@@ -14,6 +14,8 @@ extra:
   csunibg: 2019/GLOBECOM/bdfprs-globecom2019
   icons:
     - ion-cloud
+    - fa-solid fa-network-wired fa-sm
+    - fa-solid fa-key fa-sm
 ---
 
 Decentralized Cloud Storage (DCS) networks represent

@@ -13,7 +13,6 @@ extra:
   github: matthewrossi/k8s-secure-scheduling
   icons:
     - fa-solid fa-dharmachakra
-    - ion-cloud
 ---
 
 Scheduling pods on separate physical nodes is a crucial strategy to isolate

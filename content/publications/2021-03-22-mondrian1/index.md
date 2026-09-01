@@ -17,6 +17,7 @@ extra:
   icons:
     - ion-ribbon-b
     - fac fa-user
+    - fa-solid fa-network-wired fa-sm
   note: "<a href='https://cs.unibg.it/seclab-papers/2021/PerCom/best-artifact-award-certificate.pdf'><u>IEEE PerCom'21 Best Artifact Award</u></a>"
 ---
 

@@ -9,6 +9,8 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/SAFECONFIG/Policy_Specialization
+  icons:
+    - fa-brands fa-linux
 ---
 
 The exponential growth of modern information systems has

@@ -16,6 +16,7 @@ extra:
   github: unibg-seclab/mondrian
   icons:
     - fac fa-user
+    - fa-solid fa-network-wired fa-sm
 ---
 
 We present an approach for enabling a distributed

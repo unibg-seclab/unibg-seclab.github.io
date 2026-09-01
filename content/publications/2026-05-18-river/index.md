@@ -13,7 +13,8 @@ extra:
   csunibg: 2026/ICST/river
   github: dariofad/river
   icons:
-    - ion-gear-b
+    - fa-solid fa-microchip
+    - fa-solid fa-wave-square
 ---
 
 Runtime verification has proven to be an effective

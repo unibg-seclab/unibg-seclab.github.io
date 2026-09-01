@@ -11,6 +11,7 @@ extra:
   csunibg: 2015/ACSAC/SeSQLite
   icons:
     - ion-social-android
+    - fa-solid fa-database fa-sm
   github: unibg-seclab/sesqlite
 ---
 

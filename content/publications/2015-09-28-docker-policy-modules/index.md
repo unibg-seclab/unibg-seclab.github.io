@@ -10,6 +10,8 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/CNS/Docker
+  icons:
+    - fa-brands fa-docker
   note: <a href="https://cs.unibg.it/seclab-papers/2015/CNS/Docker_poster.pdf">Poster</a>
 ---
 

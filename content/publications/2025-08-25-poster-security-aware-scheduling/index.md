@@ -13,7 +13,6 @@ extra:
   github: matthewrossi/k8s-secure-scheduling
   icons:
     - fa-solid fa-dharmachakra
-    - ion-cloud
 ---
 
 Nowadays, Kubernetes is the leading platform for managing containerized

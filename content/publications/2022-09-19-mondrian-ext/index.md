@@ -16,6 +16,7 @@ extra:
   csunibg: 2022/TBD/mondrian-ext
   icons:
     - fac fa-user
+    - fa-solid fa-network-wired fa-sm
   github: unibg-seclab/mondrian
 ---
 

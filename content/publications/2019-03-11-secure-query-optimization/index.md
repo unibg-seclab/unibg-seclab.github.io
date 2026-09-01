@@ -17,6 +17,7 @@ extra:
   github: unibg-seclab/query-opt
   icons:
     - ion-cloud
+    - fa-solid fa-tower-broadcast fa-sm
   note: <a href="https://cs.unibg.it/seclab-papers/2019/PerCom/secure-query-optimization-poster.pdf">Poster</a>
 ---
 

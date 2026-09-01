@@ -14,6 +14,7 @@ extra:
   csunibg: 2016/SECURECOMM/bdfprs-securecomm2016
   icons:
     - ion-cloud
+    - fa-solid fa-key fa-sm
 ---
 
 With the widespread success and adoption of cloud-based
