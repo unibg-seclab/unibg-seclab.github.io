@@ -18,7 +18,7 @@ extra:
   github: unibg-seclab/ipfs-owner-control
   icons:
     - ion-cloud
-    - fa-solid fa-network-wired fa-sm
+    - fa-solid fa-circle-nodes fa-sm
     - fa-solid fa-key fa-sm
 ---
 

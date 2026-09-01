@@ -14,7 +14,7 @@ extra:
   csunibg: 2019/TIFS/bdfprs-tifs
   icons:
     - ion-cloud
-    - fa-solid fa-network-wired fa-sm
+    - fa-solid fa-circle-nodes fa-sm
     - fa-solid fa-key fa-sm
 ---
 
