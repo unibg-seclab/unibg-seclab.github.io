@@ -1,2 +1,17 @@
 #!/usr/bin/env bash
-zola build --force --base-url=http://seclabyqgmetqfwdiszhp55o7uoh56zjw64zgx32ppbsi3kjp4t75pyd.onion --output-dir=/var/www/unibg-seclab/
+
+ONION="http://seclabyqgmetqfwdiszhp55o7uoh56zjw64zgx32ppbsi3kjp4t75pyd.onion"
+OUT="/var/www/unibg-seclab/"
+
+conf=$(mktemp)
+cat config.toml | sed s#https://cs.unibg.it#$ONION# > $conf
+
+rm -rf $OUT/*
+zola \
+  --config $conf \
+  build \
+  --force \
+  --base-url="$ONION" \
+  --output-dir=$OUT
+
+rm $conf
