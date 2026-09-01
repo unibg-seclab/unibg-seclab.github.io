@@ -13,6 +13,7 @@ extra:
   #github: unibg-seclab/syscalls
   icons:
     - fa-brands fa-linux
+    - ion-funnel
 ---
 
 Reducing the attack surface of the OS kernel is an effective technique to
