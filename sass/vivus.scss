@@ -2,6 +2,19 @@
 
 $fill_time:  1s;
 
+#logo {
+  position: relative;
+  visibility: hidden;
+  width: 100%;
+  aspect-ratio: 986.76282 / 854.87878;
+}
+
+.vivus svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .vivus svg.finished * {
   fill-opacity: 1;
   stroke-opacity: 0;
