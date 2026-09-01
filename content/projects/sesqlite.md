@@ -23,8 +23,6 @@ labeling and access control at both schema level (for tables and columns) and
 row level. This permits the management of a fine-grained access policy for
 database objects.
 
----
-
 ## Source Code
 
 The source code is available on {{ <github project="sesqlite" config={config} /> }}. Star
@@ -34,20 +32,16 @@ SeSQLite is still in an alpha version, but the core functionalities of SQL
 are provided and integrated with the Mandatory Access Control checks provided
 by SELinux.
 
----
-
 ## Acknowledgements
 
 The SeSQLite project won a Google Award in the Winter 2014 branch.
 
 ![](/images/faculty_award.png)
 
----
-
 ## Project Publications
 
-- Extending Mandatory Access Control Policies in Android, [info](/publications/extending-android-mac)
-- SeSQLite: Security Enhanced SQLite, [info](/publications/sesqlite)
-- Policy Specialization to Support Domain Isolation, [info](/publications/policy-specialization)
-- An SELinux-based Intent manager for Android, [info](/publications/intent-firewall)
-- AppPolicyModules: Mandatory Access Control for Third-Party Apps, [info](/publications/app-policy-module)
+- [Extending Mandatory Access Control Policies in Android](/publications/extending-android-mac)
+- [SeSQLite: Security Enhanced SQLite](/publications/sesqlite)
+- [Policy Specialization to Support Domain Isolation](/publications/policy-specialization)
+- [An SELinux-based Intent manager for Android](/publications/intent-firewall)
+- [AppPolicyModules: Mandatory Access Control for Third-Party Apps](/publications/app-policy-module)

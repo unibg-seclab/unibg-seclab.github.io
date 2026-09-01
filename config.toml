@@ -21,9 +21,9 @@ mail = "seclab [at] unibg [dot] it"
 pages = [
   { name = "People", url = "/people" },
   { name = "Projects", url = "/projects", children = [
-      { name = "GLACIATION", url = "https://glaciation-project.eu" },
-      { name = "MOSAICrOWN", url = "https://mosaicrown.eu" },
-      { name = "ESCUDO-CLOUD", url = "https://www.escudocloud.eu" },
+      { name = "GLACIATION", url = "/projects/glaciation" },
+      { name = "MOSAICrOWN", url = "/projects/mosaicrown" },
+      { name = "ESCUDO-CLOUD", url = "/projects/escudo-cloud" },
       { name = "SeSQLite", url = "/projects/sesqlite" },
   ] },
   { name = "Publications", url = "/publications" },
