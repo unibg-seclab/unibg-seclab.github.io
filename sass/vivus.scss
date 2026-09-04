@@ -2,10 +2,11 @@
 
 $fill_time:  1s;
 
-#logo svg {
+#logo svg, #logo object {
   /* The text on the right of the logo is a little bit too short
    * and without this aspect-ratio the logo would get cut a bit in the tip
    */
+  width: 100%;
   aspect-ratio: 1.15;
 }
 
