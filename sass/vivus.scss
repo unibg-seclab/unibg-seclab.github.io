@@ -7,16 +7,10 @@ $fill_time:  1s;
   visibility: hidden;
   overflow: hidden;
   width: 100%;
-  aspect-ratio: 1.15; /* Otherwise the div will disappear and the logo would not be drawn */
-}
-
-#logo > object,
-#logo > svg {
-  position: absolute;
-  inset: 0;
-  display: block;
-  width: 100%;
-  height: 100%;
+  /* The text on the right of the logo is a little bit too short
+   * and without this aspect-ratio the logo would get cut a bit in the tip
+   */
+  aspect-ratio: 1.15;
 }
 
 .vivus svg.finished * {
