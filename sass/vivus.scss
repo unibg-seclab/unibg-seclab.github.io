@@ -2,23 +2,19 @@
 
 $fill_time:  1s;
 
-#logo {
-  position: relative;
-  visibility: hidden;
-  overflow: hidden;
-  width: 100%;
+#logo svg {
   /* The text on the right of the logo is a little bit too short
    * and without this aspect-ratio the logo would get cut a bit in the tip
    */
   aspect-ratio: 1.15;
 }
 
-.vivus svg.finished * {
+#logo svg.finished * {
   fill-opacity: 1;
   stroke-opacity: 0;
 }
 
-.vivus svg * {
+#logo svg * {
   stroke: black;
   stroke-width: 2;
   stroke-opacity: 1;
