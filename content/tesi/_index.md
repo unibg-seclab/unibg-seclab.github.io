@@ -15,7 +15,7 @@ Una tesi di laurea magistrale può richiedere più tempo.
 **Regolamento:**
 Le tesi vanno scritte in *LaTeX* seguendo la formattazione ufficiale UniBG:
   * È possibile usare [questo template](https://codeberg.org/skjaldmaer/unibg-thesis-template).
-  * [Linee guida base](https://berettamichele.com/blog/how-to-latex-basic) per l'uso di LaTeX.
+  * [Linee guida base](https://www.berettamichele.com/blog/how-to-latex-basic) per l'uso di LaTeX.
 
 Le tesi hanno un limite minimo di:
   * ~40 pagine per le triennali
