@@ -1,13 +1,14 @@
 ---
 title: ESCUDO-CLOUD
+description: Enforceable Security in the Cloud to Uphold Data Ownership
 ---
-
-*Enforceable Security in the Cloud to Uphold Data Ownership*
 
 ESCUDO-CLOUD was a Horizon 2020 Research and Innovation Action focused on
 making data owners first-class citizens of cloud environments. It developed
 deployable techniques that let owners retain control over outsourced data while
 still using cloud storage, processing, sharing, and multi-provider services.
+
+<!-- more -->
 
 The University of Bergamo participated in the consortium coordinated by the
 University of Milan. The consortium also included British Telecommunications,

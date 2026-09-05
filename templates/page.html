@@ -5,6 +5,11 @@
 {% endblock title %}
 
 {% block content %}
+  {% set sectionpath = page.ancestors | last %}
+  {% set section = get_section(path=sectionpath) %}
+
+  <a href="{{ section.permalink }}">Back</a>
+
   {% if page.extra.github %}
     <div class="github-fork-ribbon-wrapper auto">
       <div class="github-fork-ribbon">
@@ -20,6 +25,12 @@
   {% endif %}
   <h1>{{ page.title }}</h1>
   <hr />
+  {% if page.description %}
+    <blockquote>
+      {{ page.description }}
+    </blockquote>
+  {% endif %}
+
   {% block page_content %}
   {{ page.content | safe }}
   {% endblock page_content %}

@@ -1,8 +1,7 @@
 ---
 title: Secure Query Optimization and Distribution
-
 extra:
-  category: Security
+  tags: ["Security", "Databases"]
 ---
 
 L’ottimizzazione delle queries è un argomento di ricerca molto vasto e
@@ -12,6 +11,8 @@ sistemi tanto affascinanti quanto complessi. In questo scenario si innesta la
 rapida espansione di cloud pubbliche. Esistono sistemi per l’esecuzione di
 query in ambienti distribuiti ed iniziano a nascere i primi sistemi per
 l’esecuzione in ambienti multi-tenant (composti da diverse cloud).
+
+<!-- more -->
 
 Ogni cloud pubblica ha un costo e livello di affidabilità/sicurezza.  Secondo
 alcune legislazioni ad esempio, non è possibile inviare dati sensibili verso

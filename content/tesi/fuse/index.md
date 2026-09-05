@@ -1,8 +1,7 @@
 ---
 title: Mix&Slice Virtual Filesystem
-
 extra:
-  category: Security
+  tags: ["Security", "Systems"]
 ---
 
 Filesystem in Userspace (FUSE) è una interfaccia software per sistemi operativi
@@ -17,6 +16,8 @@ A differenza dei file system tradizionali, i file system virtuali non si
 occupano direttamente di memorizzare i dati sul dispositivo di archiviazione,
 al contrario questi forniscono una vista del contenuto memorizzato su un file
 system già esistente.
+
+<!-- more -->
 
 <img src="fuse.png" class="center-block" style="width: 50%" />
 

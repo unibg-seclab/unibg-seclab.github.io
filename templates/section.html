@@ -11,4 +11,27 @@
   {% block section_content %}
   {{ section.content | safe }}
   {% endblock section_content %}
+
+  {% for page in section.pages %}
+    {% if not page.extra.unavailable %}
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-xl-12">
+        <h2>{{ page.title }}</h2>
+        <p class="tags">
+          {% for tag in page.extra.tags | default(value=[]) %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </p>
+        {% if page.description %}
+        <p>
+          <i>{{ page.description }}</i>
+        </p>
+        {% endif %}
+        {{ page.summary | safe }}
+        <p><i><a href="{{ page.extra.website | default(value=page.permalink) | safe }}">More</a></i></p>
+      </div>
+    </div>
+    <hr />
+    {% endif %}
+  {% endfor %}
 {% endblock content %}

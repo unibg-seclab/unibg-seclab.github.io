@@ -1,14 +1,15 @@
 ---
 title: GLACIATION
+description: Green responsibLe privACy preservIng dAta operaTIONs
 ---
-
-*Green responsibLe privACy preservIng dAta operaTIONs*
 
 GLACIATION was a Horizon Europe Research and Innovation Action that developed
 energy-efficient, privacy-preserving data operations across the
 edge–core–cloud continuum. The project combined a distributed knowledge graph,
 AI-assisted placement, and a privacy- and trust-aware metadata framework to
 reduce data movement and the energy consumed by data processing.
+
+<!-- more -->
 
 The consortium comprised the Italian Ministry of Economy and Finance
 (coordinator), Dell Technologies, HIRO Microdatacenters, Leibniz University

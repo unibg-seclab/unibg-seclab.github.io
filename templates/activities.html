@@ -4,7 +4,7 @@
 {% for page in section.pages %}
   <h2>{{ page.title }}</h2>
   <blockquote>
-    {{ page.extra.when | date(format="%d %b %Y") }}
+    {{ page.date | date(format="%d %b %Y") }}
     {% if page.extra.from and page.extra.to %}
       ({{ page.extra.from }} &mdash; {{ page.extra.to }})
     {% endif %}

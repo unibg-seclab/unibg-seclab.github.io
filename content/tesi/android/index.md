@@ -1,8 +1,7 @@
 ---
 title: Mapping tra Android Permissions e SELinux
-
 extra:
-  category: Security
+  tags: ["Security", "Android"]
 ---
 
 In [Android](https://source.android.com/index.html) è stato introdotto ormai
@@ -12,10 +11,12 @@ Permissions (AP) e Discretionary Access Control (DAC).
 
 Per poter usufruire delle sue proprietà di sicurezza addizionali ogni risorsa
 di Android è associata ad un'etichetta.
-
 Idealmente ogni etichetta associata ad un processo dovrebbe possedere il set
 minimo di permessi necessari al corretto funzionamento del processo (principio
 del privilegio minimo).
+
+<!-- more -->
+
 
 Tuttavia, in Android, tutte le app di terze parti sono associate alla
 medesima etichetta *untrusted_app*, alla quale di conseguenza vengono associati

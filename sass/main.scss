@@ -176,3 +176,17 @@ pre {
     }
   }
 }
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.tags > span {
+  background: #ccc;
+  color: black;
+  padding: 5px 20px;
+  border-radius: 20px;
+}

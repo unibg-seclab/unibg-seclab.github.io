@@ -21,12 +21,7 @@ mail = "seclab [at] unibg [dot] it"
 csunibg = "https://cs.unibg.it/seclab-papers/"
 pages = [
   { name = "People", url = "/people" },
-  { name = "Projects", url = "/projects", children = [
-      { name = "GLACIATION", url = "/projects/glaciation" },
-      { name = "MOSAICrOWN", url = "/projects/mosaicrown" },
-      { name = "ESCUDO-CLOUD", url = "/projects/escudo-cloud" },
-      { name = "SeSQLite", url = "/projects/sesqlite" },
-  ] },
+  { name = "Projects", url = "/projects" },
   { name = "Publications", url = "/publications" },
   { separator = true },
   { name = "Progetti di Tesi", url = "/tesi" },

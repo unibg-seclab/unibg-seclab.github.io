@@ -33,6 +33,6 @@ extra:
 
 ## Source Code
 
-The source code of our open source projects is available on {{ <github config={config} /> }}.
+The source code of our open source projects is available on [GitHub](https://github.com/unibg-seclab).
 
 Star the projects on GitHub to receive updates on future releases.

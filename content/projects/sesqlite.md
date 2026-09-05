@@ -1,9 +1,16 @@
 ---
 title: SeSQLite
-
 extra:
    github: sesqlite
 ---
+
+SeSQLite is a SQLite extension that integrates SELinux access controls into
+SQLite with minimal performance and storage overhead. SeSQLite implements
+labeling and access control at both schema level (for tables and columns) and
+row level. This permits the management of a fine-grained access policy for
+database objects.
+
+<!-- more -->
 
 SQLite is the most widely deployed in-process library that implements a SQL
 database engine. It offers high storage efficiency, fast query operation and
@@ -17,16 +24,11 @@ provides per-file protection, thus the database file is treated as an atomic
 unit, impeding the definition of a fine-grained mandatory access control (MAC)
 policy for database objects.
 
-SeSQLite is a SQLite extension that integrates SELinux access controls into
-SQLite with minimal performance and storage overhead. SeSQLite implements
-labeling and access control at both schema level (for tables and columns) and
-row level. This permits the management of a fine-grained access policy for
-database objects.
 
 ## Source Code
 
-The source code is available on {{ <github project="sesqlite" config={config} /> }}. Star
-the project on GitHub to receive updates on future releases.
+The source code is available on [GitHub](https://github.com/unibg-seclab/sesqlite).
+Star the project on GitHub to receive updates on future releases.
 
 SeSQLite is still in an alpha version, but the core functionalities of SQL
 are provided and integrated with the Mandatory Access Control checks provided

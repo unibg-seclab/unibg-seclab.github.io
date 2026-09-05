@@ -1,9 +1,9 @@
 ---
 title: "Open Policy Agent: esplorazione e sviluppo di policy per cluster Kubernetes"
-
 extra:
-  category: Security
+  tags: ["Security", "Cloud", "Kubernetes"]
 ---
+
 [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) è un framework e
 general-purpose policy-engine che consente di definire delle policy per gestire
 il deployment e l'interazione tra i componenti di un ambiente Cloud (e.g., Pods
@@ -13,6 +13,8 @@ OPA fornice una serie di tool e un linguaggio per la definizione di policy
 ([Rego](https://www.openpolicyagent.org/docs/latest/#rego)) che permette,
 ad esempio, di definire regole per *user-level access authorization* e
 configurazione dell'infrastruttura Cloud.
+
+<!-- more -->
 
 In ambito cloud, considerando in particolare Kubernetes come orchestrator di
 container, OPA è implementato come un [Kubernetes Admission Controller](https://

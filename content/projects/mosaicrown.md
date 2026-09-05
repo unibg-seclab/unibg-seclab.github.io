@@ -1,9 +1,7 @@
 ---
 title: MOSAICrOWN
+description: Multi-Owner data Sharing for Analytics and Integration respecting Confidentiality and Owner control
 ---
-
-*Multi-Owner data Sharing for Analytics and Integration respecting
-Confidentiality and Owner control*
 
 MOSAICrOWN was a Horizon 2020 Research and Innovation Action that developed
 practical methods for sharing and analysing data contributed by independent
@@ -11,6 +9,8 @@ owners without giving up confidentiality, privacy, or control. The project
 combined policy-based governance, encryption-based protection, and data
 sanitisation to support selective disclosure and collaborative computation in
 digital data markets.
+
+<!-- more -->
 
 The University of Bergamo participated in the consortium together with the
 University of Milan (coordinator), EMC Information Systems International,

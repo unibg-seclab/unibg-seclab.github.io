@@ -1,6 +1,5 @@
 ---
 title: 'Deno: esplorazione del framework "secure by default"'
-
 extra:
   unavailable: true
   category: Security
@@ -22,6 +21,8 @@ programma.
 - non necessita di un package manager 
 (come ad esempio [npm](https://www.npmjs.com/) per node.js)
 per la gestione di moduli di terze parti. 
+
+<!-- more -->
 
 Il sistema di permessi di Deno può essere quindi usato per 
 componentizzare il codice anche dal punto di vista della 
