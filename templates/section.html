@@ -10,7 +10,6 @@
 
   {% block section_content %}
   {{ section.content | safe }}
-  {% endblock section_content %}
 
   {% for page in section.pages %}
     {% if not page.extra.unavailable %}
@@ -34,4 +33,5 @@
     <hr />
     {% endif %}
   {% endfor %}
+  {% endblock section_content %}
 {% endblock content %}
