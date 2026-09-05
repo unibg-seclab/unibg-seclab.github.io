@@ -1,6 +1,9 @@
 {% extends "section.html" %}
 
-{% block section_content %}
+{% block content %}
+<h1>{{ section.title }}</h1>
+<hr />
+
 {% set active_people = [p for p in section.pages if p.extra.active == true] %}
 {% set former_people = [p for p in section.pages if p.extra.active == false] %}
 <div class="people">
@@ -65,4 +68,4 @@
 We would also like to thank all the alumni who collaborated to our projects. A special mention to:
 {{ section.extra.alumni | sort | join(sep=", ") }}.  
 </div>
-{% endblock section_content %}
+{% endblock content %}
