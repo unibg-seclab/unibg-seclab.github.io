@@ -1,5 +1,6 @@
 ---
 title: SeSQLite
+date: 2014-01-01
 extra:
    github: sesqlite
 ---

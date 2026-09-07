@@ -1,5 +1,6 @@
 ---
 title: MOSAICrOWN
+date: 2019-01-01
 description: Multi-Owner data Sharing for Analytics and Integration respecting Confidentiality and Owner control
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: ESCUDO-CLOUD
+date: 2015-01-01
 description: Enforceable Security in the Cloud to Uphold Data Ownership
 ---
 
