@@ -14,8 +14,8 @@ taxonomies:
 extra:
   csunibg: 2021/PerCom/mondrian-artifact
   github: unibg-seclab/mondrian
+  award: true
   icons:
-    - ion-ribbon-b
     - fac fa-user
     - fa-solid fa-network-wired fa-sm
   related:

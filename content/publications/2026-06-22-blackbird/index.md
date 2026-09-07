@@ -14,8 +14,8 @@ taxonomies:
 extra:
   csunibg: 2026/ICDCS/blackbird
   github: Merluz/blackbirdSentinel
+  award: true
   icons:
-    - ion-ribbon-b
     - fa-solid fa-network-wired fa-sm
     - fa-solid fa-binoculars
   related:

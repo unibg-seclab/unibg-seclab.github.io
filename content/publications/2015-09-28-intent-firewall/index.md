@@ -9,8 +9,8 @@ taxonomies:
     - 2015
 extra:
   csunibg: 2015/CNS/Intent_Firewall
+  award: true
   icons:
-    - ion-ribbon-b
     - ion-social-android
   related:
     - name: CNS 2015 Poster
