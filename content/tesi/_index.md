@@ -26,6 +26,6 @@ Una tesi di laurea magistrale può richiedere più tempo.
 
 7. La tesi deve rappresentare un lavoro originale dell'autore, che ne assume la piena responsabilità scientifica e accademica.
 
-**Nota**: la pagina non è sempre aggiornata e pertanto non tutti i progetti di tesi disponibili sono attualmente pubblicati. Potete prenotare un ricevimento contattandoci alla mail `seclab [at] unibg [dot] it` per avere una lista aggiornata dei progetti di tesi disponibli.
+**Nota**: la pagina non è sempre aggiornata e pertanto non tutti i progetti di tesi disponibili sono attualmente pubblicati. Potete prenotare un ricevimento contattandoci alla mail `seclab [at] unibg [dot] it` per avere una lista aggiornata dei progetti di tesi disponibili.
 
 <hr />
