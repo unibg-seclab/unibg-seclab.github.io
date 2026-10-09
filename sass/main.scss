@@ -199,3 +199,11 @@ pre {
   right: -10px;
   width: 25%;
 }
+
+ol ul,
+ul ul,
+ol ol,
+ul ol {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
