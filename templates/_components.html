@@ -21,7 +21,7 @@
       <p>
         {% if type == "inproceedings" %}
           <i>In {{ tags.booktitle | replace(from="Proceedings", to="Proc.") }},</i>
-          <i>{{ tags.location }}, {{ tags.month }} {{ tags.day }}, {{ tags.year }}</i>
+          <i>{{ tags.location }}, {{ tags.month }} {% if tags.day %}{{ tags.day }}, {% endif %}{{ tags.year }}</i>
         {% elif type == "article" %}
           <i>In {{ tags.journal }}</i><br />
           <i>{{ tags.month }} {{ tags.day }}, {{ tags.year }}</i>
