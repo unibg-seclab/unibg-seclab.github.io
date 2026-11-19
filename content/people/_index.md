@@ -127,4 +127,6 @@ extra:
   - Merli Gabriele
   - Arnoldi Elisa
   - Ferrari Mattia
+  - Bregolin Gabriele
+  - Nasatti Riccardo
 ---
